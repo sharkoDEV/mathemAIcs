@@ -1,0 +1,48 @@
+{
+  "image": "chart_00234.png",
+  "question": "[Practice] Francais: Indiquez which integer bin occurs most frequently a partir de l'histogramme.",
+  "answer": "mode=4",
+  "chart": {
+    "type": "histogram",
+    "counts": [
+      23,
+      16,
+      20,
+      19,
+      25,
+      20,
+      18,
+      24,
+      15,
+      20
+    ],
+    "bins": [
+      -0.5,
+      0.5,
+      1.5,
+      2.5,
+      3.5,
+      4.5,
+      5.5,
+      6.5,
+      7.5,
+      8.5,
+      9.5
+    ],
+    "max_bin_index": 4
+  },
+  "qas": [
+    {
+      "question": "[Practice] Francais: Indiquez which integer bin occurs most frequently a partir de l'histogramme.",
+      "answer": "mode=4"
+    },
+    {
+      "question": "[Calm] Italiano: Riporta how many samples were used in total dal istogramma.",
+      "answer": "count=200"
+    },
+    {
+      "question": "[Focus] Polski: Podaj how many entries fall inside the modal bin na podstawie histogramu.",
+      "answer": "max_bin_count=25"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "circle",
+      "center": [
+        137,
+        175
+      ],
+      "radius": 39,
+      "area": 4778.36,
+      "circumference": 245.04,
+      "diameter": 78
+    }
+  ],
+  "image": "geometry_00065.png",
+  "question": "[Study] Deutsch: Bestimme Flaeche und Umfang des Kreises mit Radius 39.",
+  "answer": "area=4778.36, circumference=245.04",
+  "qas": [
+    {
+      "question": "[Study] Deutsch: Bestimme Flaeche und Umfang des Kreises mit Radius 39.",
+      "answer": "area=4778.36, circumference=245.04"
+    },
+    {
+      "question": "[Study] Deutsch: Bestimme Flaeche und Umfang des Kreises mit Radius 39. Provide only the area.",
+      "answer": "area=4778.36"
+    },
+    {
+      "question": "[Study] Deutsch: Bestimme Flaeche und Umfang des Kreises mit Radius 39. Provide only the diameter.",
+      "answer": "diameter=78"
+    }
+  ]
+}

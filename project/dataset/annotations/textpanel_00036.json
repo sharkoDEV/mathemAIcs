@@ -1,0 +1,98 @@
+{
+  "image": "textpanel_00036.png",
+  "text_boxes": [
+    {
+      "text": "9 + 2 - 1 = 10",
+      "bbox": [
+        70,
+        19,
+        131,
+        28
+      ],
+      "font": "PLAYBILL.TTF",
+      "color": [
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "5 - 3 = 2",
+      "bbox": [
+        83,
+        63,
+        183,
+        81
+      ],
+      "font": "SitkaVF-Italic.ttf",
+      "color": [
+        40,
+        40,
+        80
+      ]
+    },
+    {
+      "text": "9 - 3 * 12 = 72",
+      "bbox": [
+        68,
+        198,
+        153,
+        208
+      ],
+      "font": "FELIXTI.TTF",
+      "color": [
+        40,
+        40,
+        80
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Challenge] Svenska: Ange koordinaterna for punkt P vid box 1. Identify the text inside.",
+      "answer": "9 + 2 - 1 = 10"
+    },
+    {
+      "question": "[Calm] Portugues: Informe as coordenadas do ponto P situado em box 2. Identify the text inside.",
+      "answer": "5 - 3 = 2"
+    },
+    {
+      "question": "[Study] Italiano: Specifica le coordinate del punto P in box 3. Identify the text inside.",
+      "answer": "9 - 3 * 12 = 72"
+    }
+  ],
+  "question": "[Challenge] Svenska: Ange koordinaterna for punkt P vid box 1. Identify the text inside.",
+  "answer": "9 + 2 - 1 = 10",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "9 + 2 - 1 = 10",
+      "bbox": [
+        70,
+        19,
+        131,
+        28
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "5 - 3 = 2",
+      "bbox": [
+        83,
+        63,
+        183,
+        81
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "9 - 3 * 12 = 72",
+      "bbox": [
+        68,
+        198,
+        153,
+        208
+      ]
+    }
+  ]
+}

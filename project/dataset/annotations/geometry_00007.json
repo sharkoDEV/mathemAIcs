@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "circle",
+      "center": [
+        123,
+        170
+      ],
+      "radius": 58,
+      "area": 10568.32,
+      "circumference": 364.42,
+      "diameter": 116
+    }
+  ],
+  "image": "geometry_00007.png",
+  "question": "[Challenge] Italiano: Determina area e circonferenza del cerchio di raggio 58.",
+  "answer": "area=10568.32, circumference=364.42",
+  "qas": [
+    {
+      "question": "[Challenge] Italiano: Determina area e circonferenza del cerchio di raggio 58.",
+      "answer": "area=10568.32, circumference=364.42"
+    },
+    {
+      "question": "[Challenge] Italiano: Determina area e circonferenza del cerchio di raggio 58. Provide only the area.",
+      "answer": "area=10568.32"
+    },
+    {
+      "question": "[Challenge] Italiano: Determina area e circonferenza del cerchio di raggio 58. Provide only the diameter.",
+      "answer": "diameter=116"
+    }
+  ]
+}

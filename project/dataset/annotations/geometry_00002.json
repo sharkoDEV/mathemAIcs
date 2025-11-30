@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "line",
+      "equation": "y=0.5x+-1",
+      "slope": 0.5,
+      "intercept": -1,
+      "value_at_1": -0.5
+    }
+  ],
+  "image": "geometry_00002.png",
+  "question": "[Focus] Deutsch: Notiere Steigung und Achsenabschnitt der Geraden y=0.5x+-1.",
+  "answer": "slope=0.5, intercept=-1",
+  "qas": [
+    {
+      "question": "[Focus] Deutsch: Notiere Steigung und Achsenabschnitt der Geraden y=0.5x+-1.",
+      "answer": "slope=0.5, intercept=-1"
+    },
+    {
+      "question": "[Focus] Deutsch: Notiere Steigung und Achsenabschnitt der Geraden y=0.5x+-1. Provide only the slope.",
+      "answer": "slope=0.5"
+    },
+    {
+      "question": "[Focus] Deutsch: Notiere Steigung und Achsenabschnitt der Geraden y=0.5x+-1. Provide the intercept value.",
+      "answer": "intercept=-1"
+    },
+    {
+      "question": "[Focus] Deutsch: Notiere Steigung und Achsenabschnitt der Geraden y=0.5x+-1. Evaluate y when x=1.",
+      "answer": "y=-0.50"
+    }
+  ]
+}

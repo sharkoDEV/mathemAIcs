@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          90,
+          131
+        ],
+        [
+          102,
+          120
+        ]
+      ],
+      "length": 16.28,
+      "midpoint": [
+        96.0,
+        125.5
+      ],
+      "length_squared": 265.0
+    }
+  ],
+  "image": "geometry_00253.png",
+  "question": "[Check] Dansk: Udregn laengden af linjestykket mellem (90, 131) og (102, 120).",
+  "answer": "length=16.28",
+  "qas": [
+    {
+      "question": "[Check] Dansk: Udregn laengden af linjestykket mellem (90, 131) og (102, 120).",
+      "answer": "length=16.28"
+    },
+    {
+      "question": "[Check] Dansk: Udregn laengden af linjestykket mellem (90, 131) og (102, 120). Provide the squared length.",
+      "answer": "length_squared=265.00"
+    },
+    {
+      "question": "[Check] Dansk: Udregn laengden af linjestykket mellem (90, 131) og (102, 120). Provide the midpoint.",
+      "answer": "midpoint=(96.00,125.50)"
+    }
+  ]
+}

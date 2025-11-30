@@ -1,0 +1,24 @@
+{
+  "image": "chart_00190.png",
+  "question": "[Review] Dansk: Giv the slope of the noisy line for den viste linje.",
+  "answer": "slope=-1",
+  "chart": {
+    "type": "line_plot",
+    "slope": -1,
+    "intercept": 0.69
+  },
+  "qas": [
+    {
+      "question": "[Review] Dansk: Giv the slope of the noisy line for den viste linje.",
+      "answer": "slope=-1"
+    },
+    {
+      "question": "[Note] Italiano: Individua the intercept of the noisy line della retta disegnata.",
+      "answer": "intercept=0.69"
+    },
+    {
+      "question": "[Note] Francais: Identifiez the value of y when x equals 1 pour la droite tracee.",
+      "answer": "y=-0.31"
+    }
+  ]
+}

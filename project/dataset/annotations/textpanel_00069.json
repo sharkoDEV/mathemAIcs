@@ -1,0 +1,127 @@
+{
+  "image": "textpanel_00069.png",
+  "text_boxes": [
+    {
+      "text": "4 - 5 * 10 = -10",
+      "bbox": [
+        8,
+        51,
+        152,
+        64
+      ],
+      "font": "WINGDNG2.TTF",
+      "color": [
+        70,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "8 cm",
+      "bbox": [
+        115,
+        18,
+        150,
+        37
+      ],
+      "font": "PLAYBILL.TTF",
+      "color": [
+        10,
+        90,
+        10
+      ]
+    },
+    {
+      "text": "Angle 60 deg",
+      "bbox": [
+        32,
+        82,
+        192,
+        101
+      ],
+      "font": "BOD_BLAI.TTF",
+      "color": [
+        40,
+        40,
+        80
+      ]
+    },
+    {
+      "text": "216 / 12 = 18",
+      "bbox": [
+        112,
+        228,
+        197,
+        239
+      ],
+      "font": "himalaya.ttf",
+      "color": [
+        70,
+        20,
+        20
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Challenge] Portugues: Informe as coordenadas do ponto P situado em box 1. Identify the text inside.",
+      "answer": "4 - 5 * 10 = -10"
+    },
+    {
+      "question": "[Study] Dansk: Angiv koordinaterne for punkt P ved box 2. Identify the text inside.",
+      "answer": "8 cm"
+    },
+    {
+      "question": "[Calm] Turkce: box 3 konumundaki P noktasinin koordinatlarini yaz. Identify the text inside.",
+      "answer": "Angle 60 deg"
+    },
+    {
+      "question": "[Detailed] Deutsch: Gib die Koordinaten des Punktes P bei box 4 an. Identify the text inside.",
+      "answer": "216 / 12 = 18"
+    }
+  ],
+  "question": "[Challenge] Portugues: Informe as coordenadas do ponto P situado em box 1. Identify the text inside.",
+  "answer": "4 - 5 * 10 = -10",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "4 - 5 * 10 = -10",
+      "bbox": [
+        8,
+        51,
+        152,
+        64
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "8 cm",
+      "bbox": [
+        115,
+        18,
+        150,
+        37
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "Angle 60 deg",
+      "bbox": [
+        32,
+        82,
+        192,
+        101
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "216 / 12 = 18",
+      "bbox": [
+        112,
+        228,
+        197,
+        239
+      ]
+    }
+  ]
+}

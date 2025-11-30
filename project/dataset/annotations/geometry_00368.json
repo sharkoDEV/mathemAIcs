@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          146,
+          168
+        ],
+        [
+          176,
+          135
+        ],
+        [
+          161,
+          153
+        ]
+      ],
+      "area": 22.5,
+      "perimeter": 89.24
+    }
+  ],
+  "image": "geometry_00368.png",
+  "question": "[Detailed] English: Compute the area and perimeter of the triangle defined by (146, 168), (176, 135), (161, 153).",
+  "answer": "area=22.50, perimeter=89.24",
+  "qas": [
+    {
+      "question": "[Detailed] English: Compute the area and perimeter of the triangle defined by (146, 168), (176, 135), (161, 153).",
+      "answer": "area=22.50, perimeter=89.24"
+    },
+    {
+      "question": "[Focus] Turkce: (146, 168), (176, 135), (161, 153) noktalarindan olusan ucgenin alanini ve cevresini hesapla. Provide only the area.",
+      "answer": "area=22.50"
+    },
+    {
+      "question": "[Brief] English: Compute the area and perimeter of the triangle defined by (146, 168), (176, 135), (161, 153). Provide only the perimeter.",
+      "answer": "perimeter=89.24"
+    }
+  ]
+}

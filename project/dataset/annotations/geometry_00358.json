@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "circle",
+      "center": [
+        97,
+        166
+      ],
+      "radius": 56,
+      "area": 9852.03,
+      "circumference": 351.86,
+      "diameter": 112
+    }
+  ],
+  "image": "geometry_00358.png",
+  "question": "[Challenge] Turkce: Yaricapi 56 olan cemberin alanini ve cevresini hesapla.",
+  "answer": "area=9852.03, circumference=351.86",
+  "qas": [
+    {
+      "question": "[Challenge] Turkce: Yaricapi 56 olan cemberin alanini ve cevresini hesapla.",
+      "answer": "area=9852.03, circumference=351.86"
+    },
+    {
+      "question": "[Challenge] Turkce: Yaricapi 56 olan cemberin alanini ve cevresini hesapla. Provide only the area.",
+      "answer": "area=9852.03"
+    },
+    {
+      "question": "[Challenge] Turkce: Yaricapi 56 olan cemberin alanini ve cevresini hesapla. Provide only the diameter.",
+      "answer": "diameter=112"
+    }
+  ]
+}

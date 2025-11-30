@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "circle",
+      "center": [
+        78,
+        87
+      ],
+      "radius": 31,
+      "area": 3019.07,
+      "circumference": 194.78,
+      "diameter": 62
+    }
+  ],
+  "image": "geometry_00076.png",
+  "question": "[Brief] Dansk: Angiv areal og omkreds for cirklen med radius 31.",
+  "answer": "area=3019.07, circumference=194.78",
+  "qas": [
+    {
+      "question": "[Brief] Dansk: Angiv areal og omkreds for cirklen med radius 31.",
+      "answer": "area=3019.07, circumference=194.78"
+    },
+    {
+      "question": "[Brief] Dansk: Angiv areal og omkreds for cirklen med radius 31. Provide only the area.",
+      "answer": "area=3019.07"
+    },
+    {
+      "question": "[Brief] Dansk: Angiv areal og omkreds for cirklen med radius 31. Provide only the diameter.",
+      "answer": "diameter=62"
+    }
+  ]
+}

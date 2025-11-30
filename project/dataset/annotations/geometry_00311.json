@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        118,
+        35,
+        181,
+        108
+      ],
+      "area": 4599,
+      "perimeter": 272,
+      "width": 63,
+      "height": 73,
+      "diagonal": 96.43
+    }
+  ],
+  "image": "geometry_00311.png",
+  "question": "[Rapid] Svenska: Ange area och omkrets for rektangeln med bredd 63 och hojd 73.",
+  "answer": "area=4599, perimeter=272",
+  "qas": [
+    {
+      "question": "[Rapid] Svenska: Ange area och omkrets for rektangeln med bredd 63 och hojd 73.",
+      "answer": "area=4599, perimeter=272"
+    },
+    {
+      "question": "[Rapid] Svenska: Ange area och omkrets for rektangeln med bredd 63 och hojd 73. Focus on the area value.",
+      "answer": "area=4599"
+    },
+    {
+      "question": "[Rapid] Svenska: Ange area och omkrets for rektangeln med bredd 63 och hojd 73. Give the diagonal length.",
+      "answer": "diagonal=96.43"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          98,
+          174
+        ],
+        [
+          199,
+          124
+        ],
+        [
+          138,
+          53
+        ]
+      ],
+      "area": 5110.5,
+      "perimeter": 333.74
+    }
+  ],
+  "image": "geometry_00356.png",
+  "question": "[Review] Espanol: Calcula el area y el perimetro del triangulo con vertices (98, 174), (199, 124), (138, 53).",
+  "answer": "area=5110.50, perimeter=333.74",
+  "qas": [
+    {
+      "question": "[Review] Espanol: Calcula el area y el perimetro del triangulo con vertices (98, 174), (199, 124), (138, 53).",
+      "answer": "area=5110.50, perimeter=333.74"
+    },
+    {
+      "question": "[Brief] Dansk: Udregn areal og omkreds for trekanten med punkterne (98, 174), (199, 124), (138, 53). Provide only the area.",
+      "answer": "area=5110.50"
+    },
+    {
+      "question": "[Review] Norsk: Finn areal og omkrets for trekanten med punktene (98, 174), (199, 124), (138, 53). Provide only the perimeter.",
+      "answer": "perimeter=333.74"
+    }
+  ]
+}

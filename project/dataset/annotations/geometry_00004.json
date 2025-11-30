@@ -1,0 +1,49 @@
+{
+  "objects": [
+    {
+      "type": "polygon",
+      "points": [
+        [
+          115,
+          106
+        ],
+        [
+          159,
+          59
+        ],
+        [
+          48,
+          138
+        ],
+        [
+          75,
+          116
+        ],
+        [
+          172,
+          164
+        ]
+      ],
+      "vertices": 5,
+      "area": 2010.5,
+      "perimeter": 425.0
+    }
+  ],
+  "image": "geometry_00004.png",
+  "question": "[Challenge] Espanol: Determina area y perimetro del poligono que pasa por (115, 106), (159, 59), (48, 138), (75, 116), (172, 164).",
+  "answer": "area=2010.50, perimeter=425.00",
+  "qas": [
+    {
+      "question": "[Challenge] Espanol: Determina area y perimetro del poligono que pasa por (115, 106), (159, 59), (48, 138), (75, 116), (172, 164).",
+      "answer": "area=2010.50, perimeter=425.00"
+    },
+    {
+      "question": "[Challenge] Espanol: Determina area y perimetro del poligono que pasa por (115, 106), (159, 59), (48, 138), (75, 116), (172, 164). Respond only with the area.",
+      "answer": "area=2010.50"
+    },
+    {
+      "question": "[Challenge] Espanol: Determina area y perimetro del poligono que pasa por (115, 106), (159, 59), (48, 138), (75, 116), (172, 164). Respond only with the number of vertices.",
+      "answer": "vertices=5"
+    }
+  ]
+}

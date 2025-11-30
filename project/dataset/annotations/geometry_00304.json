@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          51,
+          179
+        ],
+        [
+          140,
+          95
+        ],
+        [
+          164,
+          55
+        ]
+      ],
+      "area": 772.0,
+      "perimeter": 336.79
+    }
+  ],
+  "image": "geometry_00304.png",
+  "question": "[Detailed] Italiano: Calcola area e perimetro del triangolo con vertici (51, 179), (140, 95), (164, 55).",
+  "answer": "area=772.00, perimeter=336.79",
+  "qas": [
+    {
+      "question": "[Detailed] Italiano: Calcola area e perimetro del triangolo con vertici (51, 179), (140, 95), (164, 55).",
+      "answer": "area=772.00, perimeter=336.79"
+    },
+    {
+      "question": "[Review] Francais: Calculez l'aire et le perimetre du triangle forme par (51, 179), (140, 95), (164, 55). Provide only the area.",
+      "answer": "area=772.00"
+    },
+    {
+      "question": "[Calm] Italiano: Calcola area e perimetro del triangolo con vertici (51, 179), (140, 95), (164, 55). Provide only the perimeter.",
+      "answer": "perimeter=336.79"
+    }
+  ]
+}

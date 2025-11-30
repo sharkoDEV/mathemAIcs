@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        44,
+        20,
+        106,
+        69
+      ],
+      "area": 3038,
+      "perimeter": 222,
+      "width": 62,
+      "height": 49,
+      "diagonal": 79.03
+    }
+  ],
+  "image": "geometry_00301.png",
+  "question": "[Explain] Italiano: Trova area e perimetro del rettangolo di base 62 e altezza 49.",
+  "answer": "area=3038, perimeter=222",
+  "qas": [
+    {
+      "question": "[Explain] Italiano: Trova area e perimetro del rettangolo di base 62 e altezza 49.",
+      "answer": "area=3038, perimeter=222"
+    },
+    {
+      "question": "[Explain] Italiano: Trova area e perimetro del rettangolo di base 62 e altezza 49. Focus on the area value.",
+      "answer": "area=3038"
+    },
+    {
+      "question": "[Explain] Italiano: Trova area e perimetro del rettangolo di base 62 e altezza 49. Give the diagonal length.",
+      "answer": "diagonal=79.03"
+    }
+  ]
+}

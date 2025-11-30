@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          183,
+          132
+        ],
+        [
+          52,
+          148
+        ]
+      ],
+      "length": 131.97,
+      "midpoint": [
+        117.5,
+        140.0
+      ],
+      "length_squared": 17417.0
+    }
+  ],
+  "image": "geometry_00201.png",
+  "question": "[Rapid] Espanol: Calcula la longitud del segmento entre (183, 132) y (52, 148).",
+  "answer": "length=131.97",
+  "qas": [
+    {
+      "question": "[Rapid] Espanol: Calcula la longitud del segmento entre (183, 132) y (52, 148).",
+      "answer": "length=131.97"
+    },
+    {
+      "question": "[Rapid] Espanol: Calcula la longitud del segmento entre (183, 132) y (52, 148). Provide the squared length.",
+      "answer": "length_squared=17417.00"
+    },
+    {
+      "question": "[Rapid] Espanol: Calcula la longitud del segmento entre (183, 132) y (52, 148). Provide the midpoint.",
+      "answer": "midpoint=(117.50,140.00)"
+    }
+  ]
+}

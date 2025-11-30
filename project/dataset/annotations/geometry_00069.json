@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          82,
+          77
+        ],
+        [
+          197,
+          144
+        ],
+        [
+          107,
+          209
+        ]
+      ],
+      "area": 6752.5,
+      "perimeter": 378.46
+    }
+  ],
+  "image": "geometry_00069.png",
+  "question": "[Calm] Italiano: Calcola area e perimetro del triangolo con vertici (82, 77), (197, 144), (107, 209).",
+  "answer": "area=6752.50, perimeter=378.46",
+  "qas": [
+    {
+      "question": "[Calm] Italiano: Calcola area e perimetro del triangolo con vertici (82, 77), (197, 144), (107, 209).",
+      "answer": "area=6752.50, perimeter=378.46"
+    },
+    {
+      "question": "[Note] Espanol: Calcula el area y el perimetro del triangulo con vertices (82, 77), (197, 144), (107, 209). Provide only the area.",
+      "answer": "area=6752.50"
+    },
+    {
+      "question": "[Study] Nederlands: Bepaal oppervlakte en omtrek van de driehoek met punten (82, 77), (197, 144), (107, 209). Provide only the perimeter.",
+      "answer": "perimeter=378.46"
+    }
+  ]
+}

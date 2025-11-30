@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          55,
+          72
+        ],
+        [
+          125,
+          186
+        ]
+      ],
+      "length": 133.78,
+      "midpoint": [
+        90.0,
+        129.0
+      ],
+      "length_squared": 17896.0
+    }
+  ],
+  "image": "geometry_00112.png",
+  "question": "[Detailed] Dansk: Udregn laengden af linjestykket mellem (55, 72) og (125, 186).",
+  "answer": "length=133.78",
+  "qas": [
+    {
+      "question": "[Detailed] Dansk: Udregn laengden af linjestykket mellem (55, 72) og (125, 186).",
+      "answer": "length=133.78"
+    },
+    {
+      "question": "[Detailed] Dansk: Udregn laengden af linjestykket mellem (55, 72) og (125, 186). Provide the squared length.",
+      "answer": "length_squared=17896.00"
+    },
+    {
+      "question": "[Detailed] Dansk: Udregn laengden af linjestykket mellem (55, 72) og (125, 186). Provide the midpoint.",
+      "answer": "midpoint=(90.00,129.00)"
+    }
+  ]
+}

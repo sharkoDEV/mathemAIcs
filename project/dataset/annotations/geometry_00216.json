@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "line",
+      "equation": "y=-2x+1",
+      "slope": -2,
+      "intercept": 1,
+      "value_at_1": -1
+    }
+  ],
+  "image": "geometry_00216.png",
+  "question": "[Challenge] Dansk: Angiv haeldning og skaering for linjen y=-2x+1.",
+  "answer": "slope=-2, intercept=1",
+  "qas": [
+    {
+      "question": "[Challenge] Dansk: Angiv haeldning og skaering for linjen y=-2x+1.",
+      "answer": "slope=-2, intercept=1"
+    },
+    {
+      "question": "[Challenge] Dansk: Angiv haeldning og skaering for linjen y=-2x+1. Provide only the slope.",
+      "answer": "slope=-2"
+    },
+    {
+      "question": "[Challenge] Dansk: Angiv haeldning og skaering for linjen y=-2x+1. Provide the intercept value.",
+      "answer": "intercept=1"
+    },
+    {
+      "question": "[Challenge] Dansk: Angiv haeldning og skaering for linjen y=-2x+1. Evaluate y when x=1.",
+      "answer": "y=-1.00"
+    }
+  ]
+}

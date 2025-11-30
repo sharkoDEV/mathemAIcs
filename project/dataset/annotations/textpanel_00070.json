@@ -1,0 +1,98 @@
+{
+  "image": "textpanel_00070.png",
+  "text_boxes": [
+    {
+      "text": "7 + 5 * 3 * 4 = 144",
+      "bbox": [
+        10,
+        158,
+        220,
+        176
+      ],
+      "font": "SCHLBKB.TTF",
+      "color": [
+        70,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "6 + 2 - 7 = 1",
+      "bbox": [
+        121,
+        46,
+        194,
+        56
+      ],
+      "font": "himalaya.ttf",
+      "color": [
+        10,
+        90,
+        10
+      ]
+    },
+    {
+      "text": "slope=2",
+      "bbox": [
+        201,
+        39,
+        231,
+        53
+      ],
+      "font": "PLAYBILL.TTF",
+      "color": [
+        70,
+        20,
+        20
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Practice] Polski: Podaj wspolrzedne punktu P w box 1. Identify the text inside.",
+      "answer": "7 + 5 * 3 * 4 = 144"
+    },
+    {
+      "question": "[Focus] Francais: Indiquez les coordonnees du point P place en box 2. Identify the text inside.",
+      "answer": "6 + 2 - 7 = 1"
+    },
+    {
+      "question": "[Focus] Espanol: Menciona las coordenadas del punto P en box 5. Identify the text inside.",
+      "answer": "slope=2"
+    }
+  ],
+  "question": "[Practice] Polski: Podaj wspolrzedne punktu P w box 1. Identify the text inside.",
+  "answer": "7 + 5 * 3 * 4 = 144",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "7 + 5 * 3 * 4 = 144",
+      "bbox": [
+        10,
+        158,
+        220,
+        176
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "6 + 2 - 7 = 1",
+      "bbox": [
+        121,
+        46,
+        194,
+        56
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "slope=2",
+      "bbox": [
+        201,
+        39,
+        231,
+        53
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "image": "chart_00063.png",
+  "question": "[Brief] Italiano: Comunica which category has the highest bar dal grafico a barre.",
+  "answer": "A",
+  "chart": {
+    "type": "bar_chart",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "values": [
+      15,
+      14,
+      4,
+      8,
+      12
+    ],
+    "max_category": "A",
+    "min_category": "C"
+  },
+  "qas": [
+    {
+      "question": "[Brief] Italiano: Comunica which category has the highest bar dal grafico a barre.",
+      "answer": "A"
+    },
+    {
+      "question": "[Practice] English: Tell which category has the lowest bar from the bar chart.",
+      "answer": "C"
+    },
+    {
+      "question": "[Study] Norsk: Oppgi what is the difference between the tallest and shortest bars fra stolpediagrammet.",
+      "answer": "diff=11"
+    }
+  ]
+}

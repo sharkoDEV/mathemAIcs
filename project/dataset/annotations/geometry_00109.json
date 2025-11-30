@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          218,
+          61
+        ],
+        [
+          100,
+          82
+        ]
+      ],
+      "length": 119.85,
+      "midpoint": [
+        159.0,
+        71.5
+      ],
+      "length_squared": 14365.0
+    }
+  ],
+  "image": "geometry_00109.png",
+  "question": "[Review] Francais: Mesurez la longueur du segment allant de (218, 61) a (100, 82).",
+  "answer": "length=119.85",
+  "qas": [
+    {
+      "question": "[Review] Francais: Mesurez la longueur du segment allant de (218, 61) a (100, 82).",
+      "answer": "length=119.85"
+    },
+    {
+      "question": "[Review] Francais: Mesurez la longueur du segment allant de (218, 61) a (100, 82). Provide the squared length.",
+      "answer": "length_squared=14365.00"
+    },
+    {
+      "question": "[Review] Francais: Mesurez la longueur du segment allant de (218, 61) a (100, 82). Provide the midpoint.",
+      "answer": "midpoint=(159.00,71.50)"
+    }
+  ]
+}

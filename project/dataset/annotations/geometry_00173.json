@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        54,
+        90,
+        106,
+        154
+      ],
+      "area": 3328,
+      "perimeter": 232,
+      "width": 52,
+      "height": 64,
+      "diagonal": 82.46
+    }
+  ],
+  "image": "geometry_00173.png",
+  "question": "[Brief] Deutsch: Bestimme Flaeche und Umfang des Rechtecks Breite 52 Hoehe 64.",
+  "answer": "area=3328, perimeter=232",
+  "qas": [
+    {
+      "question": "[Brief] Deutsch: Bestimme Flaeche und Umfang des Rechtecks Breite 52 Hoehe 64.",
+      "answer": "area=3328, perimeter=232"
+    },
+    {
+      "question": "[Brief] Deutsch: Bestimme Flaeche und Umfang des Rechtecks Breite 52 Hoehe 64. Focus on the area value.",
+      "answer": "area=3328"
+    },
+    {
+      "question": "[Brief] Deutsch: Bestimme Flaeche und Umfang des Rechtecks Breite 52 Hoehe 64. Give the diagonal length.",
+      "answer": "diagonal=82.46"
+    }
+  ]
+}

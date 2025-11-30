@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "circle",
+      "center": [
+        175,
+        85
+      ],
+      "radius": 36,
+      "area": 4071.5,
+      "circumference": 226.19,
+      "diameter": 72
+    }
+  ],
+  "image": "geometry_00199.png",
+  "question": "[Review] Italiano: Determina area e circonferenza del cerchio di raggio 36.",
+  "answer": "area=4071.50, circumference=226.19",
+  "qas": [
+    {
+      "question": "[Review] Italiano: Determina area e circonferenza del cerchio di raggio 36.",
+      "answer": "area=4071.50, circumference=226.19"
+    },
+    {
+      "question": "[Review] Italiano: Determina area e circonferenza del cerchio di raggio 36. Provide only the area.",
+      "answer": "area=4071.50"
+    },
+    {
+      "question": "[Review] Italiano: Determina area e circonferenza del cerchio di raggio 36. Provide only the diameter.",
+      "answer": "diameter=72"
+    }
+  ]
+}

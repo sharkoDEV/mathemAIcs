@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "circle",
+      "center": [
+        88,
+        161
+      ],
+      "radius": 23,
+      "area": 1661.9,
+      "circumference": 144.51,
+      "diameter": 46
+    }
+  ],
+  "image": "geometry_00094.png",
+  "question": "[Brief] English: Provide area and circumference for the circle radius 23.",
+  "answer": "area=1661.90, circumference=144.51",
+  "qas": [
+    {
+      "question": "[Brief] English: Provide area and circumference for the circle radius 23.",
+      "answer": "area=1661.90, circumference=144.51"
+    },
+    {
+      "question": "[Brief] English: Provide area and circumference for the circle radius 23. Provide only the area.",
+      "answer": "area=1661.90"
+    },
+    {
+      "question": "[Brief] English: Provide area and circumference for the circle radius 23. Provide only the diameter.",
+      "answer": "diameter=46"
+    }
+  ]
+}

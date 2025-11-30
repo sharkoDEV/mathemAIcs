@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          51,
+          77
+        ],
+        [
+          68,
+          111
+        ]
+      ],
+      "length": 38.01,
+      "midpoint": [
+        59.5,
+        94.0
+      ],
+      "length_squared": 1445.0
+    }
+  ],
+  "image": "geometry_00168.png",
+  "question": "[Note] Dansk: Udregn laengden af linjestykket mellem (51, 77) og (68, 111).",
+  "answer": "length=38.01",
+  "qas": [
+    {
+      "question": "[Note] Dansk: Udregn laengden af linjestykket mellem (51, 77) og (68, 111).",
+      "answer": "length=38.01"
+    },
+    {
+      "question": "[Note] Dansk: Udregn laengden af linjestykket mellem (51, 77) og (68, 111). Provide the squared length.",
+      "answer": "length_squared=1445.00"
+    },
+    {
+      "question": "[Note] Dansk: Udregn laengden af linjestykket mellem (51, 77) og (68, 111). Provide the midpoint.",
+      "answer": "midpoint=(59.50,94.00)"
+    }
+  ]
+}

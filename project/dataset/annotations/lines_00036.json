@@ -1,0 +1,24 @@
+{
+  "image": "lines_00036.png",
+  "question": "Les deux droites sont-elles parall\u00e8les ou perpendiculaires ? Justifier.",
+  "answer": "1. Reformulation : D\u00e9terminer la relation g\u00e9om\u00e9trique entre les deux droites color\u00e9es.\n2. Identification : Nous sommes dans le chapitre : Lignes parall\u00e8les.\n3. Explication : Deux droites sont parall\u00e8les lorsqu'elles admettent la m\u00eame pente. On v\u00e9rifie la condition avec les coefficients directeurs.\n4. Calculs d\u00e9taill\u00e9s : pente\u2081 = -1.00 ; pente\u2082 = -1.00 ; intercepts b\u2081 = 3.00, b\u2082 = 1.00.\nComme pente\u2081 = pente\u2082, les droites gardent la m\u00eame direction.\n5. R\u00e9ponse justifi\u00e9e : Les droites sont parall\u00e8les car elles ont la m\u00eame pente et ne se couperont jamais.",
+  "objects": [
+    {
+      "type": "parallel",
+      "slopes": [
+        -1,
+        -1
+      ],
+      "intercepts": [
+        3,
+        1
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "Les deux droites sont-elles parall\u00e8les ou perpendiculaires ? Justifier.",
+      "answer": "1. Reformulation : D\u00e9terminer la relation g\u00e9om\u00e9trique entre les deux droites color\u00e9es.\n2. Identification : Nous sommes dans le chapitre : Lignes parall\u00e8les.\n3. Explication : Deux droites sont parall\u00e8les lorsqu'elles admettent la m\u00eame pente. On v\u00e9rifie la condition avec les coefficients directeurs.\n4. Calculs d\u00e9taill\u00e9s : pente\u2081 = -1.00 ; pente\u2082 = -1.00 ; intercepts b\u2081 = 3.00, b\u2082 = 1.00.\nComme pente\u2081 = pente\u2082, les droites gardent la m\u00eame direction.\n5. R\u00e9ponse justifi\u00e9e : Les droites sont parall\u00e8les car elles ont la m\u00eame pente et ne se couperont jamais."
+    }
+  ]
+}

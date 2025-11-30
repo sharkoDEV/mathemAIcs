@@ -1,0 +1,38 @@
+{
+  "image": "chart_00102.png",
+  "question": "[Review] Nederlands: Geef which category has the highest bar vanuit het staafdiagram.",
+  "answer": "C",
+  "chart": {
+    "type": "bar_chart",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "values": [
+      13,
+      4,
+      15,
+      8,
+      10
+    ],
+    "max_category": "C",
+    "min_category": "B"
+  },
+  "qas": [
+    {
+      "question": "[Review] Nederlands: Geef which category has the highest bar vanuit het staafdiagram.",
+      "answer": "C"
+    },
+    {
+      "question": "[Review] Dansk: Angiv which category has the lowest bar fra sojlediagrammet.",
+      "answer": "B"
+    },
+    {
+      "question": "[Calm] Nederlands: Geef what is the difference between the tallest and shortest bars vanuit het staafdiagram.",
+      "answer": "diff=11"
+    }
+  ]
+}

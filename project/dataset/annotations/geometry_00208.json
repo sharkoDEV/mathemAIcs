@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          33,
+          201
+        ],
+        [
+          113,
+          51
+        ]
+      ],
+      "length": 170.0,
+      "midpoint": [
+        73.0,
+        126.0
+      ],
+      "length_squared": 28900.0
+    }
+  ],
+  "image": "geometry_00208.png",
+  "question": "[Rapid] Francais: Mesurez la longueur du segment allant de (33, 201) a (113, 51).",
+  "answer": "length=170.00",
+  "qas": [
+    {
+      "question": "[Rapid] Francais: Mesurez la longueur du segment allant de (33, 201) a (113, 51).",
+      "answer": "length=170.00"
+    },
+    {
+      "question": "[Rapid] Francais: Mesurez la longueur du segment allant de (33, 201) a (113, 51). Provide the squared length.",
+      "answer": "length_squared=28900.00"
+    },
+    {
+      "question": "[Rapid] Francais: Mesurez la longueur du segment allant de (33, 201) a (113, 51). Provide the midpoint.",
+      "answer": "midpoint=(73.00,126.00)"
+    }
+  ]
+}

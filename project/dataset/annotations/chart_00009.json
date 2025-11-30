@@ -1,0 +1,48 @@
+{
+  "image": "chart_00009.png",
+  "question": "[Note] Polski: Podaj which integer bin occurs most frequently na podstawie histogramu.",
+  "answer": "mode=2",
+  "chart": {
+    "type": "histogram",
+    "counts": [
+      20,
+      22,
+      25,
+      16,
+      20,
+      20,
+      18,
+      21,
+      21,
+      17
+    ],
+    "bins": [
+      -0.5,
+      0.5,
+      1.5,
+      2.5,
+      3.5,
+      4.5,
+      5.5,
+      6.5,
+      7.5,
+      8.5,
+      9.5
+    ],
+    "max_bin_index": 2
+  },
+  "qas": [
+    {
+      "question": "[Note] Polski: Podaj which integer bin occurs most frequently na podstawie histogramu.",
+      "answer": "mode=2"
+    },
+    {
+      "question": "[Note] Polski: Podaj how many samples were used in total na podstawie histogramu.",
+      "answer": "count=200"
+    },
+    {
+      "question": "[Check] Turkce: Histograma gore how many entries fall inside the modal bin belirt.",
+      "answer": "max_bin_count=25"
+    }
+  ]
+}

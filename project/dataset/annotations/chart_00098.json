@@ -1,0 +1,38 @@
+{
+  "image": "chart_00098.png",
+  "question": "[Explain] Francais: Donnez which category has the highest bar depuis le diagramme en barres.",
+  "answer": "C",
+  "chart": {
+    "type": "bar_chart",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "values": [
+      7,
+      9,
+      13,
+      7,
+      4
+    ],
+    "max_category": "C",
+    "min_category": "E"
+  },
+  "qas": [
+    {
+      "question": "[Explain] Francais: Donnez which category has the highest bar depuis le diagramme en barres.",
+      "answer": "C"
+    },
+    {
+      "question": "[Explain] Dansk: Angiv which category has the lowest bar fra sojlediagrammet.",
+      "answer": "E"
+    },
+    {
+      "question": "[Practice] Norsk: Oppgi what is the difference between the tallest and shortest bars fra stolpediagrammet.",
+      "answer": "diff=9"
+    }
+  ]
+}

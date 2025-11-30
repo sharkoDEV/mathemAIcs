@@ -1,0 +1,98 @@
+{
+  "image": "textpanel_00064.png",
+  "text_boxes": [
+    {
+      "text": "9 + 6 - 3 * 6 = 72",
+      "bbox": [
+        90,
+        224,
+        214,
+        241
+      ],
+      "font": "Candara.ttf",
+      "color": [
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "10 * 7 + 8 = 78",
+      "bbox": [
+        21,
+        108,
+        159,
+        123
+      ],
+      "font": "framd.ttf",
+      "color": [
+        40,
+        40,
+        80
+      ]
+    },
+    {
+      "text": "27 / 9 = 3",
+      "bbox": [
+        90,
+        162,
+        180,
+        175
+      ],
+      "font": "WINGDNG3.TTF",
+      "color": [
+        40,
+        40,
+        80
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Explain] Italiano: Specifica le coordinate del punto P in box 1. Identify the text inside.",
+      "answer": "9 + 6 - 3 * 6 = 72"
+    },
+    {
+      "question": "[Detailed] Dansk: Angiv koordinaterne for punkt P ved box 2. Identify the text inside.",
+      "answer": "10 * 7 + 8 = 78"
+    },
+    {
+      "question": "[Study] Deutsch: Gib die Koordinaten des Punktes P bei box 3 an. Identify the text inside.",
+      "answer": "27 / 9 = 3"
+    }
+  ],
+  "question": "[Explain] Italiano: Specifica le coordinate del punto P in box 1. Identify the text inside.",
+  "answer": "9 + 6 - 3 * 6 = 72",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "9 + 6 - 3 * 6 = 72",
+      "bbox": [
+        90,
+        224,
+        214,
+        241
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "10 * 7 + 8 = 78",
+      "bbox": [
+        21,
+        108,
+        159,
+        123
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "27 / 9 = 3",
+      "bbox": [
+        90,
+        162,
+        180,
+        175
+      ]
+    }
+  ]
+}

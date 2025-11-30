@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "circle",
+      "center": [
+        163,
+        123
+      ],
+      "radius": 55,
+      "area": 9503.32,
+      "circumference": 345.58,
+      "diameter": 110
+    }
+  ],
+  "image": "geometry_00150.png",
+  "question": "[Focus] Deutsch: Bestimme Flaeche und Umfang des Kreises mit Radius 55.",
+  "answer": "area=9503.32, circumference=345.58",
+  "qas": [
+    {
+      "question": "[Focus] Deutsch: Bestimme Flaeche und Umfang des Kreises mit Radius 55.",
+      "answer": "area=9503.32, circumference=345.58"
+    },
+    {
+      "question": "[Focus] Deutsch: Bestimme Flaeche und Umfang des Kreises mit Radius 55. Provide only the area.",
+      "answer": "area=9503.32"
+    },
+    {
+      "question": "[Focus] Deutsch: Bestimme Flaeche und Umfang des Kreises mit Radius 55. Provide only the diameter.",
+      "answer": "diameter=110"
+    }
+  ]
+}

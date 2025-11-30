@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          209,
+          155
+        ],
+        [
+          165,
+          65
+        ]
+      ],
+      "length": 100.18,
+      "midpoint": [
+        187.0,
+        110.0
+      ],
+      "length_squared": 10036.0
+    }
+  ],
+  "image": "geometry_00110.png",
+  "question": "[Detailed] Nederlands: Bepaal de lengte van het lijnstuk tussen (209, 155) en (165, 65).",
+  "answer": "length=100.18",
+  "qas": [
+    {
+      "question": "[Detailed] Nederlands: Bepaal de lengte van het lijnstuk tussen (209, 155) en (165, 65).",
+      "answer": "length=100.18"
+    },
+    {
+      "question": "[Detailed] Nederlands: Bepaal de lengte van het lijnstuk tussen (209, 155) en (165, 65). Provide the squared length.",
+      "answer": "length_squared=10036.00"
+    },
+    {
+      "question": "[Detailed] Nederlands: Bepaal de lengte van het lijnstuk tussen (209, 155) en (165, 65). Provide the midpoint.",
+      "answer": "midpoint=(187.00,110.00)"
+    }
+  ]
+}

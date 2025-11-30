@@ -1,0 +1,45 @@
+{
+  "objects": [
+    {
+      "type": "polygon",
+      "points": [
+        [
+          77,
+          63
+        ],
+        [
+          126,
+          40
+        ],
+        [
+          78,
+          182
+        ],
+        [
+          87,
+          158
+        ]
+      ],
+      "vertices": 4,
+      "area": 2379.5,
+      "perimeter": 325.18
+    }
+  ],
+  "image": "geometry_00131.png",
+  "question": "[Rapid] Dansk: Udregn areal og omkreds af polygonen gennem punkterne (77, 63), (126, 40), (78, 182), (87, 158).",
+  "answer": "area=2379.50, perimeter=325.18",
+  "qas": [
+    {
+      "question": "[Rapid] Dansk: Udregn areal og omkreds af polygonen gennem punkterne (77, 63), (126, 40), (78, 182), (87, 158).",
+      "answer": "area=2379.50, perimeter=325.18"
+    },
+    {
+      "question": "[Rapid] Dansk: Udregn areal og omkreds af polygonen gennem punkterne (77, 63), (126, 40), (78, 182), (87, 158). Respond only with the area.",
+      "answer": "area=2379.50"
+    },
+    {
+      "question": "[Rapid] Dansk: Udregn areal og omkreds af polygonen gennem punkterne (77, 63), (126, 40), (78, 182), (87, 158). Respond only with the number of vertices.",
+      "answer": "vertices=4"
+    }
+  ]
+}

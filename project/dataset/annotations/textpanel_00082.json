@@ -1,0 +1,40 @@
+{
+  "image": "textpanel_00082.png",
+  "text_boxes": [
+    {
+      "text": "-64 / 8 = -8",
+      "bbox": [
+        44,
+        220,
+        125,
+        239
+      ],
+      "font": "PLAYBILL.TTF",
+      "color": [
+        10,
+        90,
+        10
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Explain] Francais: Indiquez les coordonnees du point P place en box 1. Identify the text inside.",
+      "answer": "-64 / 8 = -8"
+    }
+  ],
+  "question": "[Explain] Francais: Indiquez les coordonnees du point P place en box 1. Identify the text inside.",
+  "answer": "-64 / 8 = -8",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "-64 / 8 = -8",
+      "bbox": [
+        44,
+        220,
+        125,
+        239
+      ]
+    }
+  ]
+}

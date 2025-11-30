@@ -1,0 +1,49 @@
+{
+  "objects": [
+    {
+      "type": "polygon",
+      "points": [
+        [
+          142,
+          113
+        ],
+        [
+          101,
+          90
+        ],
+        [
+          43,
+          98
+        ],
+        [
+          46,
+          121
+        ],
+        [
+          62,
+          184
+        ]
+      ],
+      "vertices": 5,
+      "area": 5035.0,
+      "perimeter": 300.72
+    }
+  ],
+  "image": "geometry_00275.png",
+  "question": "[Study] Dansk: Udregn areal og omkreds af polygonen gennem punkterne (142, 113), (101, 90), (43, 98), (46, 121), (62, 184).",
+  "answer": "area=5035.00, perimeter=300.72",
+  "qas": [
+    {
+      "question": "[Study] Dansk: Udregn areal og omkreds af polygonen gennem punkterne (142, 113), (101, 90), (43, 98), (46, 121), (62, 184).",
+      "answer": "area=5035.00, perimeter=300.72"
+    },
+    {
+      "question": "[Study] Dansk: Udregn areal og omkreds af polygonen gennem punkterne (142, 113), (101, 90), (43, 98), (46, 121), (62, 184). Respond only with the area.",
+      "answer": "area=5035.00"
+    },
+    {
+      "question": "[Study] Dansk: Udregn areal og omkreds af polygonen gennem punkterne (142, 113), (101, 90), (43, 98), (46, 121), (62, 184). Respond only with the number of vertices.",
+      "answer": "vertices=5"
+    }
+  ]
+}

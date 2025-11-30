@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "circle",
+      "center": [
+        176,
+        86
+      ],
+      "radius": 31,
+      "area": 3019.07,
+      "circumference": 194.78,
+      "diameter": 62
+    }
+  ],
+  "image": "geometry_00192.png",
+  "question": "[Calm] Polski: Podaj pole i obwod kola o promieniu 31.",
+  "answer": "area=3019.07, circumference=194.78",
+  "qas": [
+    {
+      "question": "[Calm] Polski: Podaj pole i obwod kola o promieniu 31.",
+      "answer": "area=3019.07, circumference=194.78"
+    },
+    {
+      "question": "[Calm] Polski: Podaj pole i obwod kola o promieniu 31. Provide only the area.",
+      "answer": "area=3019.07"
+    },
+    {
+      "question": "[Calm] Polski: Podaj pole i obwod kola o promieniu 31. Provide only the diameter.",
+      "answer": "diameter=62"
+    }
+  ]
+}

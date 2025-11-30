@@ -1,0 +1,69 @@
+{
+  "image": "textpanel_00062.png",
+  "text_boxes": [
+    {
+      "text": "3 + 4 = 7",
+      "bbox": [
+        71,
+        43,
+        197,
+        61
+      ],
+      "font": "BOD_BLAR.TTF",
+      "color": [
+        70,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "f(x)=3x-4",
+      "bbox": [
+        48,
+        130,
+        125,
+        146
+      ],
+      "font": "SCHLBKB.TTF",
+      "color": [
+        10,
+        90,
+        10
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Rapid] Italiano: Specifica le coordinate del punto P in box 1. Identify the text inside.",
+      "answer": "3 + 4 = 7"
+    },
+    {
+      "question": "[Brief] Portugues: Informe as coordenadas do ponto P situado em box 4. Identify the text inside.",
+      "answer": "f(x)=3x-4"
+    }
+  ],
+  "question": "[Rapid] Italiano: Specifica le coordinate del punto P in box 1. Identify the text inside.",
+  "answer": "3 + 4 = 7",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "3 + 4 = 7",
+      "bbox": [
+        71,
+        43,
+        197,
+        61
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "f(x)=3x-4",
+      "bbox": [
+        48,
+        130,
+        125,
+        146
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        21,
+        99,
+        119,
+        151
+      ],
+      "area": 5096,
+      "perimeter": 300,
+      "width": 98,
+      "height": 52,
+      "diagonal": 110.94
+    }
+  ],
+  "image": "geometry_00148.png",
+  "question": "[Review] Portugues: Informe area e perimetro do retangulo de largura 98 e altura 52.",
+  "answer": "area=5096, perimeter=300",
+  "qas": [
+    {
+      "question": "[Review] Portugues: Informe area e perimetro do retangulo de largura 98 e altura 52.",
+      "answer": "area=5096, perimeter=300"
+    },
+    {
+      "question": "[Review] Portugues: Informe area e perimetro do retangulo de largura 98 e altura 52. Focus on the area value.",
+      "answer": "area=5096"
+    },
+    {
+      "question": "[Review] Portugues: Informe area e perimetro do retangulo de largura 98 e altura 52. Give the diagonal length.",
+      "answer": "diagonal=110.94"
+    }
+  ]
+}

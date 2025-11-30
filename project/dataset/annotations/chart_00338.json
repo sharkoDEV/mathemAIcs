@@ -1,0 +1,24 @@
+{
+  "image": "chart_00338.png",
+  "question": "[Calm] Nederlands: Bepaal the slope of the noisy line van de getekende lijn.",
+  "answer": "slope=1",
+  "chart": {
+    "type": "line_plot",
+    "slope": 1,
+    "intercept": 0.77
+  },
+  "qas": [
+    {
+      "question": "[Calm] Nederlands: Bepaal the slope of the noisy line van de getekende lijn.",
+      "answer": "slope=1"
+    },
+    {
+      "question": "[Practice] Norsk: Oppgi the intercept of the noisy line for linjen som vises.",
+      "answer": "intercept=0.77"
+    },
+    {
+      "question": "[Review] Portugues: Indique the value of y when x equals 1 da linha representada.",
+      "answer": "y=1.77"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "circle",
+      "center": [
+        181,
+        104
+      ],
+      "radius": 55,
+      "area": 9503.32,
+      "circumference": 345.58,
+      "diameter": 110
+    }
+  ],
+  "image": "geometry_00331.png",
+  "question": "[Study] Italiano: Determina area e circonferenza del cerchio di raggio 55.",
+  "answer": "area=9503.32, circumference=345.58",
+  "qas": [
+    {
+      "question": "[Study] Italiano: Determina area e circonferenza del cerchio di raggio 55.",
+      "answer": "area=9503.32, circumference=345.58"
+    },
+    {
+      "question": "[Study] Italiano: Determina area e circonferenza del cerchio di raggio 55. Provide only the area.",
+      "answer": "area=9503.32"
+    },
+    {
+      "question": "[Study] Italiano: Determina area e circonferenza del cerchio di raggio 55. Provide only the diameter.",
+      "answer": "diameter=110"
+    }
+  ]
+}

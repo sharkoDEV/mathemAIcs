@@ -1,0 +1,29 @@
+{
+  "objects": [
+    {
+      "type": "point",
+      "coordinate": [
+        0,
+        -3
+      ],
+      "label": "P(0,-3)"
+    }
+  ],
+  "image": "geometry_00291.png",
+  "question": "[Explain] Turkce: (0, -3) konumundaki P noktasinin koordinatlarini yaz.",
+  "answer": "P(0,-3)",
+  "qas": [
+    {
+      "question": "[Explain] Turkce: (0, -3) konumundaki P noktasinin koordinatlarini yaz.",
+      "answer": "P(0,-3)"
+    },
+    {
+      "question": "[Explain] Turkce: (0, -3) konumundaki P noktasinin koordinatlarini yaz. Respond only with the x value.",
+      "answer": "x=0"
+    },
+    {
+      "question": "[Explain] Turkce: (0, -3) konumundaki P noktasinin koordinatlarini yaz. Respond only with the y value.",
+      "answer": "y=-3"
+    }
+  ]
+}

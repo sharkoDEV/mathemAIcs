@@ -1,0 +1,127 @@
+{
+  "image": "textpanel_00088.png",
+  "text_boxes": [
+    {
+      "text": "radius 5",
+      "bbox": [
+        118,
+        114,
+        204,
+        131
+      ],
+      "font": "framd.ttf",
+      "color": [
+        70,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "96 / 6 = 16",
+      "bbox": [
+        48,
+        57,
+        186,
+        72
+      ],
+      "font": "COPRGTB.TTF",
+      "color": [
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "Area=24",
+      "bbox": [
+        64,
+        213,
+        120,
+        225
+      ],
+      "font": "SitkaVF-Italic.ttf",
+      "color": [
+        10,
+        90,
+        10
+      ]
+    },
+    {
+      "text": "4 - 3 = 1",
+      "bbox": [
+        17,
+        125,
+        110,
+        139
+      ],
+      "font": "BOD_BLAR.TTF",
+      "color": [
+        40,
+        40,
+        80
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Brief] Italiano: Specifica le coordinate del punto P in box 1. Identify the text inside.",
+      "answer": "radius 5"
+    },
+    {
+      "question": "[Rapid] Turkce: box 2 konumundaki P noktasinin koordinatlarini yaz. Identify the text inside.",
+      "answer": "96 / 6 = 16"
+    },
+    {
+      "question": "[Brief] Italiano: Specifica le coordinate del punto P in box 3. Identify the text inside.",
+      "answer": "Area=24"
+    },
+    {
+      "question": "[Explain] English: Identify the coordinates of point P shown at box 4. Identify the text inside.",
+      "answer": "4 - 3 = 1"
+    }
+  ],
+  "question": "[Brief] Italiano: Specifica le coordinate del punto P in box 1. Identify the text inside.",
+  "answer": "radius 5",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "radius 5",
+      "bbox": [
+        118,
+        114,
+        204,
+        131
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "96 / 6 = 16",
+      "bbox": [
+        48,
+        57,
+        186,
+        72
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "Area=24",
+      "bbox": [
+        64,
+        213,
+        120,
+        225
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "4 - 3 = 1",
+      "bbox": [
+        17,
+        125,
+        110,
+        139
+      ]
+    }
+  ]
+}

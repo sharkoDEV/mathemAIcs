@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          212,
+          56
+        ],
+        [
+          200,
+          200
+        ]
+      ],
+      "length": 144.5,
+      "midpoint": [
+        206.0,
+        128.0
+      ],
+      "length_squared": 20880.0
+    }
+  ],
+  "image": "geometry_00189.png",
+  "question": "[Check] Portugues: Encontre o comprimento do segmento que liga (212, 56) a (200, 200).",
+  "answer": "length=144.50",
+  "qas": [
+    {
+      "question": "[Check] Portugues: Encontre o comprimento do segmento que liga (212, 56) a (200, 200).",
+      "answer": "length=144.50"
+    },
+    {
+      "question": "[Check] Portugues: Encontre o comprimento do segmento que liga (212, 56) a (200, 200). Provide the squared length.",
+      "answer": "length_squared=20880.00"
+    },
+    {
+      "question": "[Check] Portugues: Encontre o comprimento do segmento que liga (212, 56) a (200, 200). Provide the midpoint.",
+      "answer": "midpoint=(206.00,128.00)"
+    }
+  ]
+}

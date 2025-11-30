@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          100,
+          218
+        ],
+        [
+          134,
+          103
+        ]
+      ],
+      "length": 119.92,
+      "midpoint": [
+        117.0,
+        160.5
+      ],
+      "length_squared": 14381.0
+    }
+  ],
+  "image": "geometry_00034.png",
+  "question": "[Note] Espanol: Calcula la longitud del segmento entre (100, 218) y (134, 103).",
+  "answer": "length=119.92",
+  "qas": [
+    {
+      "question": "[Note] Espanol: Calcula la longitud del segmento entre (100, 218) y (134, 103).",
+      "answer": "length=119.92"
+    },
+    {
+      "question": "[Note] Espanol: Calcula la longitud del segmento entre (100, 218) y (134, 103). Provide the squared length.",
+      "answer": "length_squared=14381.00"
+    },
+    {
+      "question": "[Note] Espanol: Calcula la longitud del segmento entre (100, 218) y (134, 103). Provide the midpoint.",
+      "answer": "midpoint=(117.00,160.50)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "image": "chart_00200.png",
+  "question": "[Challenge] Svenska: Redovisa which category has the highest bar fran stapeldiagrammet.",
+  "answer": "A",
+  "chart": {
+    "type": "bar_chart",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "values": [
+      11,
+      10,
+      11,
+      3,
+      10
+    ],
+    "max_category": "A",
+    "min_category": "D"
+  },
+  "qas": [
+    {
+      "question": "[Challenge] Svenska: Redovisa which category has the highest bar fran stapeldiagrammet.",
+      "answer": "A"
+    },
+    {
+      "question": "[Focus] Italiano: Comunica which category has the lowest bar dal grafico a barre.",
+      "answer": "D"
+    },
+    {
+      "question": "[Calm] Svenska: Redovisa what is the difference between the tallest and shortest bars fran stapeldiagrammet.",
+      "answer": "diff=8"
+    }
+  ]
+}

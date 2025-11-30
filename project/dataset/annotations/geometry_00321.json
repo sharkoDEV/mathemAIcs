@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "circle",
+      "center": [
+        193,
+        169
+      ],
+      "radius": 31,
+      "area": 3019.07,
+      "circumference": 194.78,
+      "diameter": 62
+    }
+  ],
+  "image": "geometry_00321.png",
+  "question": "[Rapid] Nederlands: Geef oppervlakte en omtrek van de cirkel met straal 31.",
+  "answer": "area=3019.07, circumference=194.78",
+  "qas": [
+    {
+      "question": "[Rapid] Nederlands: Geef oppervlakte en omtrek van de cirkel met straal 31.",
+      "answer": "area=3019.07, circumference=194.78"
+    },
+    {
+      "question": "[Rapid] Nederlands: Geef oppervlakte en omtrek van de cirkel met straal 31. Provide only the area.",
+      "answer": "area=3019.07"
+    },
+    {
+      "question": "[Rapid] Nederlands: Geef oppervlakte en omtrek van de cirkel met straal 31. Provide only the diameter.",
+      "answer": "diameter=62"
+    }
+  ]
+}

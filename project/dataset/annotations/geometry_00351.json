@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          153,
+          155
+        ],
+        [
+          72,
+          38
+        ]
+      ],
+      "length": 142.3,
+      "midpoint": [
+        112.5,
+        96.5
+      ],
+      "length_squared": 20250.0
+    }
+  ],
+  "image": "geometry_00351.png",
+  "question": "[Focus] Svenska: Rakna ut langden pa strackan mellan (153, 155) och (72, 38).",
+  "answer": "length=142.30",
+  "qas": [
+    {
+      "question": "[Focus] Svenska: Rakna ut langden pa strackan mellan (153, 155) och (72, 38).",
+      "answer": "length=142.30"
+    },
+    {
+      "question": "[Focus] Svenska: Rakna ut langden pa strackan mellan (153, 155) och (72, 38). Provide the squared length.",
+      "answer": "length_squared=20250.00"
+    },
+    {
+      "question": "[Focus] Svenska: Rakna ut langden pa strackan mellan (153, 155) och (72, 38). Provide the midpoint.",
+      "answer": "midpoint=(112.50,96.50)"
+    }
+  ]
+}

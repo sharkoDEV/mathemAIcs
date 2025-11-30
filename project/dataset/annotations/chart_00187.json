@@ -1,0 +1,24 @@
+{
+  "image": "chart_00187.png",
+  "question": "[Review] Polski: Okresl the slope of the noisy line dla narysowanej prostej.",
+  "answer": "slope=1",
+  "chart": {
+    "type": "line_plot",
+    "slope": 1,
+    "intercept": -0.55
+  },
+  "qas": [
+    {
+      "question": "[Review] Polski: Okresl the slope of the noisy line dla narysowanej prostej.",
+      "answer": "slope=1"
+    },
+    {
+      "question": "[Explain] Deutsch: Bestimme the intercept of the noisy line der dargestellten Gerade.",
+      "answer": "intercept=-0.55"
+    },
+    {
+      "question": "[Check] Italiano: Individua the value of y when x equals 1 della retta disegnata.",
+      "answer": "y=0.45"
+    }
+  ]
+}

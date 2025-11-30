@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          104,
+          104
+        ],
+        [
+          142,
+          151
+        ],
+        [
+          119,
+          161
+        ]
+      ],
+      "area": 730.5,
+      "perimeter": 144.46
+    }
+  ],
+  "image": "geometry_00257.png",
+  "question": "[Study] Portugues: Calcule a area e o perimetro do triangulo definido por (104, 104), (142, 151), (119, 161).",
+  "answer": "area=730.50, perimeter=144.46",
+  "qas": [
+    {
+      "question": "[Study] Portugues: Calcule a area e o perimetro do triangulo definido por (104, 104), (142, 151), (119, 161).",
+      "answer": "area=730.50, perimeter=144.46"
+    },
+    {
+      "question": "[Check] Norsk: Finn areal og omkrets for trekanten med punktene (104, 104), (142, 151), (119, 161). Provide only the area.",
+      "answer": "area=730.50"
+    },
+    {
+      "question": "[Challenge] Nederlands: Bepaal oppervlakte en omtrek van de driehoek met punten (104, 104), (142, 151), (119, 161). Provide only the perimeter.",
+      "answer": "perimeter=144.46"
+    }
+  ]
+}

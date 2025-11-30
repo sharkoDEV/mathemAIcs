@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "line",
+      "equation": "y=1x+0",
+      "slope": 1,
+      "intercept": 0,
+      "value_at_1": 1
+    }
+  ],
+  "image": "geometry_00099.png",
+  "question": "[Focus] Polski: Podaj nachylenie i wyraz wolny prostej y=1x+0.",
+  "answer": "slope=1, intercept=0",
+  "qas": [
+    {
+      "question": "[Focus] Polski: Podaj nachylenie i wyraz wolny prostej y=1x+0.",
+      "answer": "slope=1, intercept=0"
+    },
+    {
+      "question": "[Focus] Polski: Podaj nachylenie i wyraz wolny prostej y=1x+0. Provide only the slope.",
+      "answer": "slope=1"
+    },
+    {
+      "question": "[Focus] Polski: Podaj nachylenie i wyraz wolny prostej y=1x+0. Provide the intercept value.",
+      "answer": "intercept=0"
+    },
+    {
+      "question": "[Focus] Polski: Podaj nachylenie i wyraz wolny prostej y=1x+0. Evaluate y when x=1.",
+      "answer": "y=1.00"
+    }
+  ]
+}

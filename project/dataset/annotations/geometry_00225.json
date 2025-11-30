@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        52,
+        114,
+        113,
+        213
+      ],
+      "area": 6039,
+      "perimeter": 320,
+      "width": 61,
+      "height": 99,
+      "diagonal": 116.28
+    }
+  ],
+  "image": "geometry_00225.png",
+  "question": "[Note] Espanol: Halla area y perimetro del rectangulo de ancho 61 y alto 99.",
+  "answer": "area=6039, perimeter=320",
+  "qas": [
+    {
+      "question": "[Note] Espanol: Halla area y perimetro del rectangulo de ancho 61 y alto 99.",
+      "answer": "area=6039, perimeter=320"
+    },
+    {
+      "question": "[Note] Espanol: Halla area y perimetro del rectangulo de ancho 61 y alto 99. Focus on the area value.",
+      "answer": "area=6039"
+    },
+    {
+      "question": "[Note] Espanol: Halla area y perimetro del rectangulo de ancho 61 y alto 99. Give the diagonal length.",
+      "answer": "diagonal=116.28"
+    }
+  ]
+}

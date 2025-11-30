@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          126,
+          66
+        ],
+        [
+          107,
+          96
+        ],
+        [
+          125,
+          109
+        ]
+      ],
+      "area": 393.5,
+      "perimeter": 100.73
+    }
+  ],
+  "image": "geometry_00028.png",
+  "question": "[Note] Norsk: Finn areal og omkrets for trekanten med punktene (126, 66), (107, 96), (125, 109).",
+  "answer": "area=393.50, perimeter=100.73",
+  "qas": [
+    {
+      "question": "[Note] Norsk: Finn areal og omkrets for trekanten med punktene (126, 66), (107, 96), (125, 109).",
+      "answer": "area=393.50, perimeter=100.73"
+    },
+    {
+      "question": "[Explain] Nederlands: Bepaal oppervlakte en omtrek van de driehoek met punten (126, 66), (107, 96), (125, 109). Provide only the area.",
+      "answer": "area=393.50"
+    },
+    {
+      "question": "[Rapid] Nederlands: Bepaal oppervlakte en omtrek van de driehoek met punten (126, 66), (107, 96), (125, 109). Provide only the perimeter.",
+      "answer": "perimeter=100.73"
+    }
+  ]
+}

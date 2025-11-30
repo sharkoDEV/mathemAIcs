@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          95,
+          127
+        ],
+        [
+          193,
+          39
+        ]
+      ],
+      "length": 131.71,
+      "midpoint": [
+        144.0,
+        83.0
+      ],
+      "length_squared": 17348.0
+    }
+  ],
+  "image": "geometry_00364.png",
+  "question": "[Study] Francais: Mesurez la longueur du segment allant de (95, 127) a (193, 39).",
+  "answer": "length=131.71",
+  "qas": [
+    {
+      "question": "[Study] Francais: Mesurez la longueur du segment allant de (95, 127) a (193, 39).",
+      "answer": "length=131.71"
+    },
+    {
+      "question": "[Study] Francais: Mesurez la longueur du segment allant de (95, 127) a (193, 39). Provide the squared length.",
+      "answer": "length_squared=17348.00"
+    },
+    {
+      "question": "[Study] Francais: Mesurez la longueur du segment allant de (95, 127) a (193, 39). Provide the midpoint.",
+      "answer": "midpoint=(144.00,83.00)"
+    }
+  ]
+}

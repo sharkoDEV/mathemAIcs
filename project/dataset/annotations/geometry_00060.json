@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        24,
+        72,
+        75,
+        117
+      ],
+      "area": 2295,
+      "perimeter": 192,
+      "width": 51,
+      "height": 45,
+      "diagonal": 68.01
+    }
+  ],
+  "image": "geometry_00060.png",
+  "question": "[Focus] Dansk: Beregn areal og omkreds af rektanglet med bredde 51 og hojde 45.",
+  "answer": "area=2295, perimeter=192",
+  "qas": [
+    {
+      "question": "[Focus] Dansk: Beregn areal og omkreds af rektanglet med bredde 51 og hojde 45.",
+      "answer": "area=2295, perimeter=192"
+    },
+    {
+      "question": "[Focus] Dansk: Beregn areal og omkreds af rektanglet med bredde 51 og hojde 45. Focus on the area value.",
+      "answer": "area=2295"
+    },
+    {
+      "question": "[Focus] Dansk: Beregn areal og omkreds af rektanglet med bredde 51 og hojde 45. Give the diagonal length.",
+      "answer": "diagonal=68.01"
+    }
+  ]
+}

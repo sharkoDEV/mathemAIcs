@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          136,
+          143
+        ],
+        [
+          168,
+          52
+        ],
+        [
+          136,
+          139
+        ]
+      ],
+      "area": 64.0,
+      "perimeter": 193.16
+    }
+  ],
+  "image": "geometry_00000.png",
+  "question": "[Challenge] Italiano: Calcola area e perimetro del triangolo con vertici (136, 143), (168, 52), (136, 139).",
+  "answer": "area=64.00, perimeter=193.16",
+  "qas": [
+    {
+      "question": "[Challenge] Italiano: Calcola area e perimetro del triangolo con vertici (136, 143), (168, 52), (136, 139).",
+      "answer": "area=64.00, perimeter=193.16"
+    },
+    {
+      "question": "[Study] Portugues: Calcule a area e o perimetro do triangulo definido por (136, 143), (168, 52), (136, 139). Provide only the area.",
+      "answer": "area=64.00"
+    },
+    {
+      "question": "[Note] Svenska: Berakna arean och omkretsen for triangeln med (136, 143), (168, 52), (136, 139). Provide only the perimeter.",
+      "answer": "perimeter=193.16"
+    }
+  ]
+}

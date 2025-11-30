@@ -1,0 +1,127 @@
+{
+  "image": "textpanel_00076.png",
+  "text_boxes": [
+    {
+      "text": "9 + 1 = 10",
+      "bbox": [
+        118,
+        23,
+        218,
+        37
+      ],
+      "font": "WINGDNG2.TTF",
+      "color": [
+        40,
+        40,
+        80
+      ]
+    },
+    {
+      "text": "224 / 2 = 112",
+      "bbox": [
+        70,
+        65,
+        187,
+        82
+      ],
+      "font": "FRABK.TTF",
+      "color": [
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "9 * 12 = 108",
+      "bbox": [
+        50,
+        187,
+        140,
+        199
+      ],
+      "font": "OLDENGL.TTF",
+      "color": [
+        40,
+        40,
+        80
+      ]
+    },
+    {
+      "text": "288 / 4 = 72",
+      "bbox": [
+        12,
+        230,
+        120,
+        243
+      ],
+      "font": "segoescb.ttf",
+      "color": [
+        40,
+        40,
+        80
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Practice] Portugues: Informe as coordenadas do ponto P situado em box 1. Identify the text inside.",
+      "answer": "9 + 1 = 10"
+    },
+    {
+      "question": "[Brief] English: Identify the coordinates of point P shown at box 2. Identify the text inside.",
+      "answer": "224 / 2 = 112"
+    },
+    {
+      "question": "[Practice] Francais: Indiquez les coordonnees du point P place en box 3. Identify the text inside.",
+      "answer": "9 * 12 = 108"
+    },
+    {
+      "question": "[Detailed] Italiano: Specifica le coordinate del punto P in box 4. Identify the text inside.",
+      "answer": "288 / 4 = 72"
+    }
+  ],
+  "question": "[Practice] Portugues: Informe as coordenadas do ponto P situado em box 1. Identify the text inside.",
+  "answer": "9 + 1 = 10",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "9 + 1 = 10",
+      "bbox": [
+        118,
+        23,
+        218,
+        37
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "224 / 2 = 112",
+      "bbox": [
+        70,
+        65,
+        187,
+        82
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "9 * 12 = 108",
+      "bbox": [
+        50,
+        187,
+        140,
+        199
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "288 / 4 = 72",
+      "bbox": [
+        12,
+        230,
+        120,
+        243
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "image": "chart_00215.png",
+  "question": "[Challenge] Deutsch: Gib which integer bin occurs most frequently anhand des Histogramms an.",
+  "answer": "mode=8",
+  "chart": {
+    "type": "histogram",
+    "counts": [
+      11,
+      23,
+      18,
+      19,
+      23,
+      22,
+      18,
+      17,
+      27,
+      22
+    ],
+    "bins": [
+      -0.5,
+      0.5,
+      1.5,
+      2.5,
+      3.5,
+      4.5,
+      5.5,
+      6.5,
+      7.5,
+      8.5,
+      9.5
+    ],
+    "max_bin_index": 8
+  },
+  "qas": [
+    {
+      "question": "[Challenge] Deutsch: Gib which integer bin occurs most frequently anhand des Histogramms an.",
+      "answer": "mode=8"
+    },
+    {
+      "question": "[Calm] Francais: Indiquez how many samples were used in total a partir de l'histogramme.",
+      "answer": "count=200"
+    },
+    {
+      "question": "[Review] Francais: Indiquez how many entries fall inside the modal bin a partir de l'histogramme.",
+      "answer": "max_bin_count=27"
+    }
+  ]
+}

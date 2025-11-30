@@ -1,0 +1,24 @@
+{
+  "image": "chart_00026.png",
+  "question": "[Rapid] Espanol: Identifica the slope of the noisy line para la recta dibujada.",
+  "answer": "slope=0.5",
+  "chart": {
+    "type": "line_plot",
+    "slope": 0.5,
+    "intercept": -0.56
+  },
+  "qas": [
+    {
+      "question": "[Rapid] Espanol: Identifica the slope of the noisy line para la recta dibujada.",
+      "answer": "slope=0.5"
+    },
+    {
+      "question": "[Check] Deutsch: Bestimme the intercept of the noisy line der dargestellten Gerade.",
+      "answer": "intercept=-0.56"
+    },
+    {
+      "question": "[Practice] Polski: Okresl the value of y when x equals 1 dla narysowanej prostej.",
+      "answer": "y=-0.06"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          195,
+          179
+        ],
+        [
+          185,
+          132
+        ]
+      ],
+      "length": 48.05,
+      "midpoint": [
+        190.0,
+        155.5
+      ],
+      "length_squared": 2309.0
+    }
+  ],
+  "image": "geometry_00276.png",
+  "question": "[Check] Norsk: Finn lengden pa linjestykket fra (195, 179) til (185, 132).",
+  "answer": "length=48.05",
+  "qas": [
+    {
+      "question": "[Check] Norsk: Finn lengden pa linjestykket fra (195, 179) til (185, 132).",
+      "answer": "length=48.05"
+    },
+    {
+      "question": "[Check] Norsk: Finn lengden pa linjestykket fra (195, 179) til (185, 132). Provide the squared length.",
+      "answer": "length_squared=2309.00"
+    },
+    {
+      "question": "[Check] Norsk: Finn lengden pa linjestykket fra (195, 179) til (185, 132). Provide the midpoint.",
+      "answer": "midpoint=(190.00,155.50)"
+    }
+  ]
+}

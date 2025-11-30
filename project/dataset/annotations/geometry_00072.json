@@ -1,0 +1,53 @@
+{
+  "objects": [
+    {
+      "type": "polygon",
+      "points": [
+        [
+          44,
+          134
+        ],
+        [
+          155,
+          158
+        ],
+        [
+          196,
+          202
+        ],
+        [
+          68,
+          205
+        ],
+        [
+          135,
+          207
+        ],
+        [
+          180,
+          175
+        ]
+      ],
+      "vertices": 6,
+      "area": 1077.0,
+      "perimeter": 566.03
+    }
+  ],
+  "image": "geometry_00072.png",
+  "question": "[Brief] Polski: Oblicz pole i obwod wielokata o wierzcholkach (44, 134), (155, 158), (196, 202), (68, 205), (135, 207), (180, 175).",
+  "answer": "area=1077.00, perimeter=566.03",
+  "qas": [
+    {
+      "question": "[Brief] Polski: Oblicz pole i obwod wielokata o wierzcholkach (44, 134), (155, 158), (196, 202), (68, 205), (135, 207), (180, 175).",
+      "answer": "area=1077.00, perimeter=566.03"
+    },
+    {
+      "question": "[Brief] Polski: Oblicz pole i obwod wielokata o wierzcholkach (44, 134), (155, 158), (196, 202), (68, 205), (135, 207), (180, 175). Respond only with the area.",
+      "answer": "area=1077.00"
+    },
+    {
+      "question": "[Brief] Polski: Oblicz pole i obwod wielokata o wierzcholkach (44, 134), (155, 158), (196, 202), (68, 205), (135, 207), (180, 175). Respond only with the number of vertices.",
+      "answer": "vertices=6"
+    }
+  ]
+}

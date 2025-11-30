@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        73,
+        32,
+        119,
+        114
+      ],
+      "area": 3772,
+      "perimeter": 256,
+      "width": 46,
+      "height": 82,
+      "diagonal": 94.02
+    }
+  ],
+  "image": "geometry_00267.png",
+  "question": "[Note] Portugues: Informe area e perimetro do retangulo de largura 46 e altura 82.",
+  "answer": "area=3772, perimeter=256",
+  "qas": [
+    {
+      "question": "[Note] Portugues: Informe area e perimetro do retangulo de largura 46 e altura 82.",
+      "answer": "area=3772, perimeter=256"
+    },
+    {
+      "question": "[Note] Portugues: Informe area e perimetro do retangulo de largura 46 e altura 82. Focus on the area value.",
+      "answer": "area=3772"
+    },
+    {
+      "question": "[Note] Portugues: Informe area e perimetro do retangulo de largura 46 e altura 82. Give the diagonal length.",
+      "answer": "diagonal=94.02"
+    }
+  ]
+}

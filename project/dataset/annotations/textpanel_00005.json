@@ -1,0 +1,98 @@
+{
+  "image": "textpanel_00005.png",
+  "text_boxes": [
+    {
+      "text": "240 / 6 = 40",
+      "bbox": [
+        57,
+        128,
+        213,
+        148
+      ],
+      "font": "LTYPE.TTF",
+      "color": [
+        10,
+        90,
+        10
+      ]
+    },
+    {
+      "text": "5 * 4 = 20",
+      "bbox": [
+        54,
+        60,
+        109,
+        71
+      ],
+      "font": "PLAYBILL.TTF",
+      "color": [
+        70,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "4 - 12 + 9 + 4 = 5",
+      "bbox": [
+        110,
+        77,
+        199,
+        89
+      ],
+      "font": "CALIFI.TTF",
+      "color": [
+        70,
+        20,
+        20
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Review] Polski: Podaj wspolrzedne punktu P w box 1. Identify the text inside.",
+      "answer": "240 / 6 = 40"
+    },
+    {
+      "question": "[Detailed] Francais: Indiquez les coordonnees du point P place en box 2. Identify the text inside.",
+      "answer": "5 * 4 = 20"
+    },
+    {
+      "question": "[Rapid] Svenska: Ange koordinaterna for punkt P vid box 3. Identify the text inside.",
+      "answer": "4 - 12 + 9 + 4 = 5"
+    }
+  ],
+  "question": "[Review] Polski: Podaj wspolrzedne punktu P w box 1. Identify the text inside.",
+  "answer": "240 / 6 = 40",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "240 / 6 = 40",
+      "bbox": [
+        57,
+        128,
+        213,
+        148
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "5 * 4 = 20",
+      "bbox": [
+        54,
+        60,
+        109,
+        71
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "4 - 12 + 9 + 4 = 5",
+      "bbox": [
+        110,
+        77,
+        199,
+        89
+      ]
+    }
+  ]
+}

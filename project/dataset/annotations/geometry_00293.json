@@ -1,0 +1,53 @@
+{
+  "objects": [
+    {
+      "type": "polygon",
+      "points": [
+        [
+          67,
+          53
+        ],
+        [
+          133,
+          125
+        ],
+        [
+          116,
+          164
+        ],
+        [
+          71,
+          165
+        ],
+        [
+          165,
+          63
+        ],
+        [
+          56,
+          147
+        ]
+      ],
+      "vertices": 6,
+      "area": 3614.0,
+      "perimeter": 556.19
+    }
+  ],
+  "image": "geometry_00293.png",
+  "question": "[Rapid] Polski: Oblicz pole i obwod wielokata o wierzcholkach (67, 53), (133, 125), (116, 164), (71, 165), (165, 63), (56, 147).",
+  "answer": "area=3614.00, perimeter=556.19",
+  "qas": [
+    {
+      "question": "[Rapid] Polski: Oblicz pole i obwod wielokata o wierzcholkach (67, 53), (133, 125), (116, 164), (71, 165), (165, 63), (56, 147).",
+      "answer": "area=3614.00, perimeter=556.19"
+    },
+    {
+      "question": "[Rapid] Polski: Oblicz pole i obwod wielokata o wierzcholkach (67, 53), (133, 125), (116, 164), (71, 165), (165, 63), (56, 147). Respond only with the area.",
+      "answer": "area=3614.00"
+    },
+    {
+      "question": "[Rapid] Polski: Oblicz pole i obwod wielokata o wierzcholkach (67, 53), (133, 125), (116, 164), (71, 165), (165, 63), (56, 147). Respond only with the number of vertices.",
+      "answer": "vertices=6"
+    }
+  ]
+}

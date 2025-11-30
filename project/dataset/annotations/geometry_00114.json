@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          47,
+          129
+        ],
+        [
+          144,
+          70
+        ],
+        [
+          131,
+          133
+        ]
+      ],
+      "area": 2672.0,
+      "perimeter": 261.96
+    }
+  ],
+  "image": "geometry_00114.png",
+  "question": "[Practice] Deutsch: Berechne Flaeche und Umfang des Dreiecks mit Punkten (47, 129), (144, 70), (131, 133).",
+  "answer": "area=2672.00, perimeter=261.96",
+  "qas": [
+    {
+      "question": "[Practice] Deutsch: Berechne Flaeche und Umfang des Dreiecks mit Punkten (47, 129), (144, 70), (131, 133).",
+      "answer": "area=2672.00, perimeter=261.96"
+    },
+    {
+      "question": "[Note] Turkce: (47, 129), (144, 70), (131, 133) noktalarindan olusan ucgenin alanini ve cevresini hesapla. Provide only the area.",
+      "answer": "area=2672.00"
+    },
+    {
+      "question": "[Note] Turkce: (47, 129), (144, 70), (131, 133) noktalarindan olusan ucgenin alanini ve cevresini hesapla. Provide only the perimeter.",
+      "answer": "perimeter=261.96"
+    }
+  ]
+}

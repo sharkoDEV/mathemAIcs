@@ -1,0 +1,24 @@
+{
+  "image": "chart_00248.png",
+  "question": "[Explain] Portugues: Indique the slope of the noisy line da linha representada.",
+  "answer": "slope=-0.5",
+  "chart": {
+    "type": "line_plot",
+    "slope": -0.5,
+    "intercept": 0.65
+  },
+  "qas": [
+    {
+      "question": "[Explain] Portugues: Indique the slope of the noisy line da linha representada.",
+      "answer": "slope=-0.5"
+    },
+    {
+      "question": "[Note] Francais: Identifiez the intercept of the noisy line pour la droite tracee.",
+      "answer": "intercept=0.65"
+    },
+    {
+      "question": "[Review] Francais: Identifiez the value of y when x equals 1 pour la droite tracee.",
+      "answer": "y=0.15"
+    }
+  ]
+}

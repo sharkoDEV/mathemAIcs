@@ -1,0 +1,127 @@
+{
+  "image": "textpanel_00008.png",
+  "text_boxes": [
+    {
+      "text": "x + y = 12",
+      "bbox": [
+        157,
+        181,
+        205,
+        191
+      ],
+      "font": "himalaya.ttf",
+      "color": [
+        40,
+        40,
+        80
+      ]
+    },
+    {
+      "text": "f(x)=3x-4",
+      "bbox": [
+        170,
+        130,
+        225,
+        143
+      ],
+      "font": "palab.ttf",
+      "color": [
+        40,
+        40,
+        80
+      ]
+    },
+    {
+      "text": "9 + 1 = 10",
+      "bbox": [
+        95,
+        85,
+        171,
+        96
+      ],
+      "font": "ERASDEMI.TTF",
+      "color": [
+        70,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "2 - 3 = -1",
+      "bbox": [
+        88,
+        8,
+        168,
+        20
+      ],
+      "font": "WINGDNG2.TTF",
+      "color": [
+        10,
+        90,
+        10
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Review] Norsk: Oppgi koordinatene til punkt P ved box 1. Identify the text inside.",
+      "answer": "x + y = 12"
+    },
+    {
+      "question": "[Rapid] Espanol: Menciona las coordenadas del punto P en box 2. Identify the text inside.",
+      "answer": "f(x)=3x-4"
+    },
+    {
+      "question": "[Detailed] Norsk: Oppgi koordinatene til punkt P ved box 3. Identify the text inside.",
+      "answer": "9 + 1 = 10"
+    },
+    {
+      "question": "[Brief] English: Identify the coordinates of point P shown at box 4. Identify the text inside.",
+      "answer": "2 - 3 = -1"
+    }
+  ],
+  "question": "[Review] Norsk: Oppgi koordinatene til punkt P ved box 1. Identify the text inside.",
+  "answer": "x + y = 12",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "x + y = 12",
+      "bbox": [
+        157,
+        181,
+        205,
+        191
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "f(x)=3x-4",
+      "bbox": [
+        170,
+        130,
+        225,
+        143
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "9 + 1 = 10",
+      "bbox": [
+        95,
+        85,
+        171,
+        96
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "2 - 3 = -1",
+      "bbox": [
+        88,
+        8,
+        168,
+        20
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "circle",
+      "center": [
+        109,
+        75
+      ],
+      "radius": 54,
+      "area": 9160.88,
+      "circumference": 339.29,
+      "diameter": 108
+    }
+  ],
+  "image": "geometry_00124.png",
+  "question": "[Rapid] Polski: Podaj pole i obwod kola o promieniu 54.",
+  "answer": "area=9160.88, circumference=339.29",
+  "qas": [
+    {
+      "question": "[Rapid] Polski: Podaj pole i obwod kola o promieniu 54.",
+      "answer": "area=9160.88, circumference=339.29"
+    },
+    {
+      "question": "[Rapid] Polski: Podaj pole i obwod kola o promieniu 54. Provide only the area.",
+      "answer": "area=9160.88"
+    },
+    {
+      "question": "[Rapid] Polski: Podaj pole i obwod kola o promieniu 54. Provide only the diameter.",
+      "answer": "diameter=108"
+    }
+  ]
+}

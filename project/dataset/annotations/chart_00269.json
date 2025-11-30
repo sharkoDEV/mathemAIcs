@@ -1,0 +1,24 @@
+{
+  "image": "chart_00269.png",
+  "question": "[Brief] Espanol: Identifica the slope of the noisy line para la recta dibujada.",
+  "answer": "slope=1",
+  "chart": {
+    "type": "line_plot",
+    "slope": 1,
+    "intercept": 0.37
+  },
+  "qas": [
+    {
+      "question": "[Brief] Espanol: Identifica the slope of the noisy line para la recta dibujada.",
+      "answer": "slope=1"
+    },
+    {
+      "question": "[Explain] Svenska: Ange the intercept of the noisy line for linjen i diagrammet.",
+      "answer": "intercept=0.37"
+    },
+    {
+      "question": "[Note] Turkce: Cizilen dogru icin the value of y when x equals 1 belirt.",
+      "answer": "y=1.37"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "circle",
+      "center": [
+        156,
+        136
+      ],
+      "radius": 38,
+      "area": 4536.46,
+      "circumference": 238.76,
+      "diameter": 76
+    }
+  ],
+  "image": "geometry_00343.png",
+  "question": "[Practice] Nederlands: Geef oppervlakte en omtrek van de cirkel met straal 38.",
+  "answer": "area=4536.46, circumference=238.76",
+  "qas": [
+    {
+      "question": "[Practice] Nederlands: Geef oppervlakte en omtrek van de cirkel met straal 38.",
+      "answer": "area=4536.46, circumference=238.76"
+    },
+    {
+      "question": "[Practice] Nederlands: Geef oppervlakte en omtrek van de cirkel met straal 38. Provide only the area.",
+      "answer": "area=4536.46"
+    },
+    {
+      "question": "[Practice] Nederlands: Geef oppervlakte en omtrek van de cirkel met straal 38. Provide only the diameter.",
+      "answer": "diameter=76"
+    }
+  ]
+}

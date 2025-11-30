@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "circle",
+      "center": [
+        96,
+        151
+      ],
+      "radius": 21,
+      "area": 1385.44,
+      "circumference": 131.95,
+      "diameter": 42
+    }
+  ],
+  "image": "geometry_00340.png",
+  "question": "[Explain] Svenska: Ange area och omkrets for cirkeln med radie 21.",
+  "answer": "area=1385.44, circumference=131.95",
+  "qas": [
+    {
+      "question": "[Explain] Svenska: Ange area och omkrets for cirkeln med radie 21.",
+      "answer": "area=1385.44, circumference=131.95"
+    },
+    {
+      "question": "[Explain] Svenska: Ange area och omkrets for cirkeln med radie 21. Provide only the area.",
+      "answer": "area=1385.44"
+    },
+    {
+      "question": "[Explain] Svenska: Ange area och omkrets for cirkeln med radie 21. Provide only the diameter.",
+      "answer": "diameter=42"
+    }
+  ]
+}

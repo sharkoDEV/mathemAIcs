@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Synthetic Math AI</title>
+  <link rel="stylesheet" href="/static/style.css" />
+  <script defer src="/static/script.js"></script>
+</head>
+<body>
+  <div id="lock-screen">
+    <div class="panel">
+      <h1>Math AI Access</h1>
+      <p>Enter the password to access the lab demo.</p>
+      <form id="auth-form">
+        <input type="password" id="auth-password" placeholder="Password" />
+        <button type="submit">Enter</button>
+        <p id="auth-error"></p>
+      </form>
+    </div>
+  </div>
+  <main id="app" class="hidden">
+    <header>
+      <h1>Synthetic Math AI</h1>
+      <p>Minimal sandbox for multimodal math reasoning.</p>
+    </header>
+    <section class="card">
+      <form id="predict-form">
+        <label for="prompt">Text Prompt</label>
+        <textarea id="prompt" placeholder="e.g. Compute the slope of the plotted line."></textarea>
+        <label for="image">Image Upload</label>
+        <input type="file" id="image" accept="image/png, image/jpeg" />
+        <button type="submit">Predict</button>
+      </form>
+    </section>
+    <section class="card" id="training-card">
+      <h2>Data + Training Control</h2>
+      <p>Trigger dataset generation and model training runs directly from the browser.</p>
+      <div class="build-form">
+        <label>Geometry Images
+          <input type="number" id="geometry-count" min="10" value="200" />
+        </label>
+        <label>Chart Images
+          <input type="number" id="chart-count" min="10" value="200" />
+        </label>
+        <label>OCR Images
+          <input type="number" id="ocr-count" min="5" value="50" />
+        </label>
+        <label>Line Reasoning Images
+          <input type="number" id="line-count" min="10" value="40" />
+        </label>
+        <label>Text Prompts
+          <input type="number" id="text-count" min="50" value="400" />
+        </label>
+      </div>
+      <div class="build-controls">
+        <button type="button" id="build-btn">Build Dataset</button>
+        <span id="build-status">Idle</span>
+      </div>
+      <div class="train-progress">
+        <div class="progress-bar">
+          <div id="train-progress"></div>
+        </div>
+        <span id="train-progress-label">0%</span>
+      </div>
+      <div class="train-controls">
+        <label class="inline-field">
+          Epochs
+          <input type="number" id="train-epochs" min="1" value="5" />
+        </label>
+        <button type="button" id="train-btn">Start Training</button>
+        <span id="train-status">Idle</span>
+      </div>
+      <div class="model-controls">
+        <h3>Model Management</h3>
+        <div class="model-actions">
+          <button type="button" id="download-model-btn">Download Model</button>
+          <button type="button" id="delete-model-btn" class="danger">Delete Model</button>
+        </div>
+        <div class="model-upload">
+          <input type="file" id="model-upload" accept=".mathai,.pt,.pth" />
+          <button type="button" id="upload-model-btn">Upload Model</button>
+        </div>
+        <p id="model-status">Checking current model...</p>
+      </div>
+      <div class="train-logs">
+        <h3>Logs</h3>
+        <pre id="train-logs">No logs yet.</pre>
+      </div>
+      <div class="train-plot">
+        <h3>Loss Curve</h3>
+        <img id="loss-plot" src="" alt="Loss plot" class="hidden" />
+      </div>
+    </section>
+    <section class="card" id="result">
+      <h2>Prediction</h2>
+      <pre id="output">Submit a prompt or upload an image.</pre>
+    </section>
+  </main>
+</body>
+</html>

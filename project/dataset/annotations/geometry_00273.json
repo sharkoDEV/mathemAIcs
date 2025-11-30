@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "circle",
+      "center": [
+        153,
+        131
+      ],
+      "radius": 52,
+      "area": 8494.87,
+      "circumference": 326.73,
+      "diameter": 104
+    }
+  ],
+  "image": "geometry_00273.png",
+  "question": "[Calm] Turkce: Yaricapi 52 olan cemberin alanini ve cevresini hesapla.",
+  "answer": "area=8494.87, circumference=326.73",
+  "qas": [
+    {
+      "question": "[Calm] Turkce: Yaricapi 52 olan cemberin alanini ve cevresini hesapla.",
+      "answer": "area=8494.87, circumference=326.73"
+    },
+    {
+      "question": "[Calm] Turkce: Yaricapi 52 olan cemberin alanini ve cevresini hesapla. Provide only the area.",
+      "answer": "area=8494.87"
+    },
+    {
+      "question": "[Calm] Turkce: Yaricapi 52 olan cemberin alanini ve cevresini hesapla. Provide only the diameter.",
+      "answer": "diameter=104"
+    }
+  ]
+}

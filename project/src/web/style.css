@@ -1,0 +1,301 @@
+:root {
+  font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+  background: #101010;
+  color: #f4f4f4;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: #0c0c0c;
+}
+
+.hidden {
+  display: none;
+}
+
+#lock-screen {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: radial-gradient(circle at top, rgba(32, 32, 32, 0.9), rgba(4, 4, 4, 0.95));
+}
+
+#lock-screen .panel {
+  background: #151515;
+  padding: 2rem 2.5rem;
+  border-radius: 12px;
+  box-shadow: 0 30px 80px rgba(0, 0, 0, 0.6);
+  width: min(90%, 360px);
+}
+
+#lock-screen h1 {
+  margin: 0 0 0.5rem;
+}
+
+#lock-screen p {
+  margin: 0 0 1.5rem;
+  color: #a0a0a0;
+}
+
+#lock-screen input {
+  width: 100%;
+  padding: 0.75rem;
+  margin-bottom: 0.75rem;
+  border-radius: 6px;
+  border: 1px solid #2c2c2c;
+  background: #0f0f0f;
+  color: #fff;
+}
+
+#lock-screen button {
+  width: 100%;
+  padding: 0.75rem;
+  border: none;
+  border-radius: 6px;
+  background: #4ade80;
+  color: #0c0c0c;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+#lock-screen #auth-error {
+  min-height: 1.25rem;
+  color: #f87171;
+  font-size: 0.9rem;
+}
+
+main {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.card {
+  background: #141414;
+  border: 1px solid #1f1f1f;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.35);
+  margin-bottom: 1.5rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+textarea,
+input[type="file"] {
+  width: 100%;
+  background: #0f0f0f;
+  color: #f4f4f4;
+  border: 1px solid #2b2b2b;
+  border-radius: 8px;
+  padding: 0.75rem;
+}
+
+button[type="submit"] {
+  align-self: flex-start;
+  border: none;
+  border-radius: 8px;
+  padding: 0.8rem 1.6rem;
+  background: linear-gradient(120deg, #2563eb, #7c3aed);
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+pre {
+  white-space: pre-wrap;
+  word-break: break-word;
+  background: #0f0f0f;
+  border: 1px solid #2a2a2a;
+  border-radius: 8px;
+  padding: 1rem;
+  min-height: 120px;
+}
+
+#training-card .train-controls {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+#training-card button {
+  border: none;
+  border-radius: 8px;
+  padding: 0.7rem 1.4rem;
+  background: linear-gradient(120deg, #22c55e, #15803d);
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+#training-card #train-status.running {
+  color: #facc15;
+}
+
+#training-card .model-controls {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid #1f1f1f;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+#training-card .model-actions {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+#training-card .model-actions button,
+#training-card .model-upload button {
+  padding: 0.6rem 1.2rem;
+  border-radius: 8px;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+#training-card .model-actions button {
+  background: linear-gradient(120deg, #38bdf8, #2563eb);
+  color: #fff;
+}
+
+#training-card .model-actions .danger {
+  background: linear-gradient(120deg, #f87171, #dc2626);
+}
+
+#training-card .model-upload {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+#training-card .model-upload input[type="file"] {
+  flex: 1;
+}
+
+#training-card .model-upload button {
+  background: linear-gradient(120deg, #34d399, #059669);
+  color: #fff;
+}
+
+#model-status {
+  font-size: 0.9rem;
+  color: #a3a3a3;
+}
+
+#training-card .build-controls {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+#training-card .build-controls button {
+  background: linear-gradient(120deg, #f97316, #ea580c);
+}
+
+#training-card .inline-field {
+  display: flex;
+  flex-direction: column;
+  font-size: 0.85rem;
+  color: #d4d4d8;
+}
+
+#training-card .inline-field input {
+  width: 100px;
+  margin-top: 0.3rem;
+  padding: 0.4rem;
+  border-radius: 6px;
+  border: 1px solid #2c2c2c;
+  background: #0f0f0f;
+  color: #fff;
+}
+
+#training-card #build-status.running {
+  color: #facc15;
+}
+
+#training-card .build-form {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+#training-card .build-form label {
+  display: flex;
+  flex-direction: column;
+  font-size: 0.9rem;
+  gap: 0.4rem;
+}
+
+#training-card .build-form input {
+  padding: 0.5rem;
+  border-radius: 6px;
+  border: 1px solid #2c2c2c;
+  background: #0f0f0f;
+  color: #fff;
+}
+
+.train-progress {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.progress-bar {
+  flex: 1;
+  height: 8px;
+  background: #1f1f1f;
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+#train-progress {
+  height: 100%;
+  width: 0%;
+  background: linear-gradient(120deg, #22d3ee, #818cf8);
+  transition: width 0.4s ease;
+}
+
+#train-progress-label {
+  min-width: 3rem;
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#training-card .train-logs {
+  margin-top: 1rem;
+}
+
+#train-logs {
+  white-space: pre-wrap;
+  max-height: 200px;
+  overflow-y: auto;
+  background: #0f0f0f;
+  border: 1px solid #262626;
+  border-radius: 8px;
+  padding: 0.75rem;
+}
+
+#loss-plot {
+  width: 100%;
+  margin-top: 1rem;
+  border-radius: 8px;
+  border: 1px solid #1e1e1e;
+}

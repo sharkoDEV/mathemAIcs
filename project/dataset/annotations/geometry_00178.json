@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          52,
+          118
+        ],
+        [
+          151,
+          92
+        ]
+      ],
+      "length": 102.36,
+      "midpoint": [
+        101.5,
+        105.0
+      ],
+      "length_squared": 10477.0
+    }
+  ],
+  "image": "geometry_00178.png",
+  "question": "[Calm] Italiano: Trova la lunghezza del segmento tra (52, 118) e (151, 92).",
+  "answer": "length=102.36",
+  "qas": [
+    {
+      "question": "[Calm] Italiano: Trova la lunghezza del segmento tra (52, 118) e (151, 92).",
+      "answer": "length=102.36"
+    },
+    {
+      "question": "[Calm] Italiano: Trova la lunghezza del segmento tra (52, 118) e (151, 92). Provide the squared length.",
+      "answer": "length_squared=10477.00"
+    },
+    {
+      "question": "[Calm] Italiano: Trova la lunghezza del segmento tra (52, 118) e (151, 92). Provide the midpoint.",
+      "answer": "midpoint=(101.50,105.00)"
+    }
+  ]
+}

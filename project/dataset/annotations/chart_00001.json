@@ -1,0 +1,38 @@
+{
+  "image": "chart_00001.png",
+  "question": "[Review] Portugues: Apresente which category has the highest bar do grafico de barras.",
+  "answer": "A",
+  "chart": {
+    "type": "bar_chart",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "values": [
+      15,
+      3,
+      4,
+      7,
+      7
+    ],
+    "max_category": "A",
+    "min_category": "B"
+  },
+  "qas": [
+    {
+      "question": "[Review] Portugues: Apresente which category has the highest bar do grafico de barras.",
+      "answer": "A"
+    },
+    {
+      "question": "[Focus] Polski: Podaj which category has the lowest bar z wykresu slupkowego.",
+      "answer": "B"
+    },
+    {
+      "question": "[Calm] Norsk: Oppgi what is the difference between the tallest and shortest bars fra stolpediagrammet.",
+      "answer": "diff=12"
+    }
+  ]
+}

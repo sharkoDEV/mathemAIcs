@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        53,
+        72,
+        133,
+        112
+      ],
+      "area": 3200,
+      "perimeter": 240,
+      "width": 80,
+      "height": 40,
+      "diagonal": 89.44
+    }
+  ],
+  "image": "geometry_00169.png",
+  "question": "[Calm] Francais: Donnez l'aire et le perimetre du rectangle de largeur 80 et hauteur 40.",
+  "answer": "area=3200, perimeter=240",
+  "qas": [
+    {
+      "question": "[Calm] Francais: Donnez l'aire et le perimetre du rectangle de largeur 80 et hauteur 40.",
+      "answer": "area=3200, perimeter=240"
+    },
+    {
+      "question": "[Calm] Francais: Donnez l'aire et le perimetre du rectangle de largeur 80 et hauteur 40. Focus on the area value.",
+      "answer": "area=3200"
+    },
+    {
+      "question": "[Calm] Francais: Donnez l'aire et le perimetre du rectangle de largeur 80 et hauteur 40. Give the diagonal length.",
+      "answer": "diagonal=89.44"
+    }
+  ]
+}

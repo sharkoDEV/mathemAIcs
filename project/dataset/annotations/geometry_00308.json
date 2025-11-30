@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          189,
+          208
+        ],
+        [
+          37,
+          113
+        ]
+      ],
+      "length": 179.25,
+      "midpoint": [
+        113.0,
+        160.5
+      ],
+      "length_squared": 32129.0
+    }
+  ],
+  "image": "geometry_00308.png",
+  "question": "[Challenge] Turkce: (189, 208) ile (37, 113) arasindaki dogru parcasinin uzunlugunu bul.",
+  "answer": "length=179.25",
+  "qas": [
+    {
+      "question": "[Challenge] Turkce: (189, 208) ile (37, 113) arasindaki dogru parcasinin uzunlugunu bul.",
+      "answer": "length=179.25"
+    },
+    {
+      "question": "[Challenge] Turkce: (189, 208) ile (37, 113) arasindaki dogru parcasinin uzunlugunu bul. Provide the squared length.",
+      "answer": "length_squared=32129.00"
+    },
+    {
+      "question": "[Challenge] Turkce: (189, 208) ile (37, 113) arasindaki dogru parcasinin uzunlugunu bul. Provide the midpoint.",
+      "answer": "midpoint=(113.00,160.50)"
+    }
+  ]
+}

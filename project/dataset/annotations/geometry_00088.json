@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        120,
+        68,
+        171,
+        147
+      ],
+      "area": 4029,
+      "perimeter": 260,
+      "width": 51,
+      "height": 79,
+      "diagonal": 94.03
+    }
+  ],
+  "image": "geometry_00088.png",
+  "question": "[Study] Turkce: Genisligi 51 yuksekligi 79 olan dortgenin alanini ve cevresini bul.",
+  "answer": "area=4029, perimeter=260",
+  "qas": [
+    {
+      "question": "[Study] Turkce: Genisligi 51 yuksekligi 79 olan dortgenin alanini ve cevresini bul.",
+      "answer": "area=4029, perimeter=260"
+    },
+    {
+      "question": "[Study] Turkce: Genisligi 51 yuksekligi 79 olan dortgenin alanini ve cevresini bul. Focus on the area value.",
+      "answer": "area=4029"
+    },
+    {
+      "question": "[Study] Turkce: Genisligi 51 yuksekligi 79 olan dortgenin alanini ve cevresini bul. Give the diagonal length.",
+      "answer": "diagonal=94.03"
+    }
+  ]
+}

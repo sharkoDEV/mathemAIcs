@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "circle",
+      "center": [
+        99,
+        111
+      ],
+      "radius": 35,
+      "area": 3848.45,
+      "circumference": 219.91,
+      "diameter": 70
+    }
+  ],
+  "image": "geometry_00289.png",
+  "question": "[Study] Norsk: Oppgi areal og omkrets for sirkelen med radius 35.",
+  "answer": "area=3848.45, circumference=219.91",
+  "qas": [
+    {
+      "question": "[Study] Norsk: Oppgi areal og omkrets for sirkelen med radius 35.",
+      "answer": "area=3848.45, circumference=219.91"
+    },
+    {
+      "question": "[Study] Norsk: Oppgi areal og omkrets for sirkelen med radius 35. Provide only the area.",
+      "answer": "area=3848.45"
+    },
+    {
+      "question": "[Study] Norsk: Oppgi areal og omkrets for sirkelen med radius 35. Provide only the diameter.",
+      "answer": "diameter=70"
+    }
+  ]
+}

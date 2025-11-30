@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          106,
+          106
+        ],
+        [
+          94,
+          65
+        ]
+      ],
+      "length": 42.72,
+      "midpoint": [
+        100.0,
+        85.5
+      ],
+      "length_squared": 1825.0
+    }
+  ],
+  "image": "geometry_00036.png",
+  "question": "[Rapid] Espanol: Calcula la longitud del segmento entre (106, 106) y (94, 65).",
+  "answer": "length=42.72",
+  "qas": [
+    {
+      "question": "[Rapid] Espanol: Calcula la longitud del segmento entre (106, 106) y (94, 65).",
+      "answer": "length=42.72"
+    },
+    {
+      "question": "[Rapid] Espanol: Calcula la longitud del segmento entre (106, 106) y (94, 65). Provide the squared length.",
+      "answer": "length_squared=1825.00"
+    },
+    {
+      "question": "[Rapid] Espanol: Calcula la longitud del segmento entre (106, 106) y (94, 65). Provide the midpoint.",
+      "answer": "midpoint=(100.00,85.50)"
+    }
+  ]
+}

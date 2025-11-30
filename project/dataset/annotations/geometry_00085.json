@@ -1,0 +1,45 @@
+{
+  "objects": [
+    {
+      "type": "polygon",
+      "points": [
+        [
+          166,
+          188
+        ],
+        [
+          43,
+          161
+        ],
+        [
+          181,
+          141
+        ],
+        [
+          202,
+          165
+        ]
+      ],
+      "vertices": 4,
+      "area": 3766.5,
+      "perimeter": 339.98
+    }
+  ],
+  "image": "geometry_00085.png",
+  "question": "[Calm] Espanol: Determina area y perimetro del poligono que pasa por (166, 188), (43, 161), (181, 141), (202, 165).",
+  "answer": "area=3766.50, perimeter=339.98",
+  "qas": [
+    {
+      "question": "[Calm] Espanol: Determina area y perimetro del poligono que pasa por (166, 188), (43, 161), (181, 141), (202, 165).",
+      "answer": "area=3766.50, perimeter=339.98"
+    },
+    {
+      "question": "[Calm] Espanol: Determina area y perimetro del poligono que pasa por (166, 188), (43, 161), (181, 141), (202, 165). Respond only with the area.",
+      "answer": "area=3766.50"
+    },
+    {
+      "question": "[Calm] Espanol: Determina area y perimetro del poligono que pasa por (166, 188), (43, 161), (181, 141), (202, 165). Respond only with the number of vertices.",
+      "answer": "vertices=4"
+    }
+  ]
+}

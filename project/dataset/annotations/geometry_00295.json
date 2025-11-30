@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          152,
+          126
+        ],
+        [
+          40,
+          44
+        ]
+      ],
+      "length": 138.81,
+      "midpoint": [
+        96.0,
+        85.0
+      ],
+      "length_squared": 19268.0
+    }
+  ],
+  "image": "geometry_00295.png",
+  "question": "[Brief] Polski: Oblicz dlugosc odcinka laczacego (152, 126) i (40, 44).",
+  "answer": "length=138.81",
+  "qas": [
+    {
+      "question": "[Brief] Polski: Oblicz dlugosc odcinka laczacego (152, 126) i (40, 44).",
+      "answer": "length=138.81"
+    },
+    {
+      "question": "[Brief] Polski: Oblicz dlugosc odcinka laczacego (152, 126) i (40, 44). Provide the squared length.",
+      "answer": "length_squared=19268.00"
+    },
+    {
+      "question": "[Brief] Polski: Oblicz dlugosc odcinka laczacego (152, 126) i (40, 44). Provide the midpoint.",
+      "answer": "midpoint=(96.00,85.00)"
+    }
+  ]
+}

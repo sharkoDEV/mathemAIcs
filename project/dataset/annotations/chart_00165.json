@@ -1,0 +1,24 @@
+{
+  "image": "chart_00165.png",
+  "question": "[Check] Deutsch: Bestimme the slope of the noisy line der dargestellten Gerade.",
+  "answer": "slope=1",
+  "chart": {
+    "type": "line_plot",
+    "slope": 1,
+    "intercept": -0.66
+  },
+  "qas": [
+    {
+      "question": "[Check] Deutsch: Bestimme the slope of the noisy line der dargestellten Gerade.",
+      "answer": "slope=1"
+    },
+    {
+      "question": "[Brief] Polski: Okresl the intercept of the noisy line dla narysowanej prostej.",
+      "answer": "intercept=-0.66"
+    },
+    {
+      "question": "[Detailed] Turkce: Cizilen dogru icin the value of y when x equals 1 belirt.",
+      "answer": "y=0.34"
+    }
+  ]
+}

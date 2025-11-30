@@ -1,0 +1,40 @@
+{
+  "image": "textpanel_00081.png",
+  "text_boxes": [
+    {
+      "text": "-672 / 12 = -56",
+      "bbox": [
+        51,
+        17,
+        225,
+        36
+      ],
+      "font": "SCHLBKB.TTF",
+      "color": [
+        70,
+        20,
+        20
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Detailed] Espanol: Menciona las coordenadas del punto P en box 1. Identify the text inside.",
+      "answer": "-672 / 12 = -56"
+    }
+  ],
+  "question": "[Detailed] Espanol: Menciona las coordenadas del punto P en box 1. Identify the text inside.",
+  "answer": "-672 / 12 = -56",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "-672 / 12 = -56",
+      "bbox": [
+        51,
+        17,
+        225,
+        36
+      ]
+    }
+  ]
+}

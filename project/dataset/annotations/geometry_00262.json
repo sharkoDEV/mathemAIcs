@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        92,
+        118,
+        189,
+        215
+      ],
+      "area": 9409,
+      "perimeter": 388,
+      "width": 97,
+      "height": 97,
+      "diagonal": 137.18
+    }
+  ],
+  "image": "geometry_00262.png",
+  "question": "[Explain] Dansk: Beregn areal og omkreds af rektanglet med bredde 97 og hojde 97.",
+  "answer": "area=9409, perimeter=388",
+  "qas": [
+    {
+      "question": "[Explain] Dansk: Beregn areal og omkreds af rektanglet med bredde 97 og hojde 97.",
+      "answer": "area=9409, perimeter=388"
+    },
+    {
+      "question": "[Explain] Dansk: Beregn areal og omkreds af rektanglet med bredde 97 og hojde 97. Focus on the area value.",
+      "answer": "area=9409"
+    },
+    {
+      "question": "[Explain] Dansk: Beregn areal og omkreds af rektanglet med bredde 97 og hojde 97. Give the diagonal length.",
+      "answer": "diagonal=137.18"
+    }
+  ]
+}

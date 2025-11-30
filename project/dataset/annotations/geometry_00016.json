@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          95,
+          104
+        ],
+        [
+          84,
+          110
+        ]
+      ],
+      "length": 12.53,
+      "midpoint": [
+        89.5,
+        107.0
+      ],
+      "length_squared": 157.0
+    }
+  ],
+  "image": "geometry_00016.png",
+  "question": "[Review] Polski: Oblicz dlugosc odcinka laczacego (95, 104) i (84, 110).",
+  "answer": "length=12.53",
+  "qas": [
+    {
+      "question": "[Review] Polski: Oblicz dlugosc odcinka laczacego (95, 104) i (84, 110).",
+      "answer": "length=12.53"
+    },
+    {
+      "question": "[Review] Polski: Oblicz dlugosc odcinka laczacego (95, 104) i (84, 110). Provide the squared length.",
+      "answer": "length_squared=157.00"
+    },
+    {
+      "question": "[Review] Polski: Oblicz dlugosc odcinka laczacego (95, 104) i (84, 110). Provide the midpoint.",
+      "answer": "midpoint=(89.50,107.00)"
+    }
+  ]
+}

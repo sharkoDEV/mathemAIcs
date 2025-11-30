@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          69,
+          56
+        ],
+        [
+          37,
+          215
+        ]
+      ],
+      "length": 162.19,
+      "midpoint": [
+        53.0,
+        135.5
+      ],
+      "length_squared": 26305.0
+    }
+  ],
+  "image": "geometry_00353.png",
+  "question": "[Check] Portugues: Encontre o comprimento do segmento que liga (69, 56) a (37, 215).",
+  "answer": "length=162.19",
+  "qas": [
+    {
+      "question": "[Check] Portugues: Encontre o comprimento do segmento que liga (69, 56) a (37, 215).",
+      "answer": "length=162.19"
+    },
+    {
+      "question": "[Check] Portugues: Encontre o comprimento do segmento que liga (69, 56) a (37, 215). Provide the squared length.",
+      "answer": "length_squared=26305.00"
+    },
+    {
+      "question": "[Check] Portugues: Encontre o comprimento do segmento que liga (69, 56) a (37, 215). Provide the midpoint.",
+      "answer": "midpoint=(53.00,135.50)"
+    }
+  ]
+}

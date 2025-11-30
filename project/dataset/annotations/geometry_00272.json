@@ -1,0 +1,49 @@
+{
+  "objects": [
+    {
+      "type": "polygon",
+      "points": [
+        [
+          123,
+          89
+        ],
+        [
+          71,
+          98
+        ],
+        [
+          68,
+          153
+        ],
+        [
+          69,
+          48
+        ],
+        [
+          124,
+          193
+        ]
+      ],
+      "vertices": 5,
+      "area": 1348.5,
+      "perimeter": 471.95
+    }
+  ],
+  "image": "geometry_00272.png",
+  "question": "[Calm] English: Determine area and perimeter for the polygon passing through (123, 89), (71, 98), (68, 153), (69, 48), (124, 193).",
+  "answer": "area=1348.50, perimeter=471.95",
+  "qas": [
+    {
+      "question": "[Calm] English: Determine area and perimeter for the polygon passing through (123, 89), (71, 98), (68, 153), (69, 48), (124, 193).",
+      "answer": "area=1348.50, perimeter=471.95"
+    },
+    {
+      "question": "[Calm] English: Determine area and perimeter for the polygon passing through (123, 89), (71, 98), (68, 153), (69, 48), (124, 193). Respond only with the area.",
+      "answer": "area=1348.50"
+    },
+    {
+      "question": "[Calm] English: Determine area and perimeter for the polygon passing through (123, 89), (71, 98), (68, 153), (69, 48), (124, 193). Respond only with the number of vertices.",
+      "answer": "vertices=5"
+    }
+  ]
+}

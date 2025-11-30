@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        28,
+        50,
+        87,
+        111
+      ],
+      "area": 3599,
+      "perimeter": 240,
+      "width": 59,
+      "height": 61,
+      "diagonal": 84.86
+    }
+  ],
+  "image": "geometry_00134.png",
+  "question": "[Brief] Polski: Podaj pole i obwod prostokata o szerokosci 59 i wysokosci 61.",
+  "answer": "area=3599, perimeter=240",
+  "qas": [
+    {
+      "question": "[Brief] Polski: Podaj pole i obwod prostokata o szerokosci 59 i wysokosci 61.",
+      "answer": "area=3599, perimeter=240"
+    },
+    {
+      "question": "[Brief] Polski: Podaj pole i obwod prostokata o szerokosci 59 i wysokosci 61. Focus on the area value.",
+      "answer": "area=3599"
+    },
+    {
+      "question": "[Brief] Polski: Podaj pole i obwod prostokata o szerokosci 59 i wysokosci 61. Give the diagonal length.",
+      "answer": "diagonal=84.86"
+    }
+  ]
+}

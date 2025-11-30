@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          130,
+          161
+        ],
+        [
+          188,
+          181
+        ]
+      ],
+      "length": 61.35,
+      "midpoint": [
+        159.0,
+        171.0
+      ],
+      "length_squared": 3764.0
+    }
+  ],
+  "image": "geometry_00133.png",
+  "question": "[Note] Turkce: (130, 161) ile (188, 181) arasindaki dogru parcasinin uzunlugunu bul.",
+  "answer": "length=61.35",
+  "qas": [
+    {
+      "question": "[Note] Turkce: (130, 161) ile (188, 181) arasindaki dogru parcasinin uzunlugunu bul.",
+      "answer": "length=61.35"
+    },
+    {
+      "question": "[Note] Turkce: (130, 161) ile (188, 181) arasindaki dogru parcasinin uzunlugunu bul. Provide the squared length.",
+      "answer": "length_squared=3764.00"
+    },
+    {
+      "question": "[Note] Turkce: (130, 161) ile (188, 181) arasindaki dogru parcasinin uzunlugunu bul. Provide the midpoint.",
+      "answer": "midpoint=(159.00,171.00)"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "image": "chart_00284.png",
+  "question": "[Review] Polski: Okresl the slope of the noisy line dla narysowanej prostej.",
+  "answer": "slope=0.5",
+  "chart": {
+    "type": "line_plot",
+    "slope": 0.5,
+    "intercept": -0.51
+  },
+  "qas": [
+    {
+      "question": "[Review] Polski: Okresl the slope of the noisy line dla narysowanej prostej.",
+      "answer": "slope=0.5"
+    },
+    {
+      "question": "[Note] Norsk: Oppgi the intercept of the noisy line for linjen som vises.",
+      "answer": "intercept=-0.51"
+    },
+    {
+      "question": "[Rapid] Dansk: Giv the value of y when x equals 1 for den viste linje.",
+      "answer": "y=-0.01"
+    }
+  ]
+}

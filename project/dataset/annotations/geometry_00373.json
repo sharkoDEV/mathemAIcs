@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          121,
+          178
+        ],
+        [
+          115,
+          66
+        ]
+      ],
+      "length": 112.16,
+      "midpoint": [
+        118.0,
+        122.0
+      ],
+      "length_squared": 12580.0
+    }
+  ],
+  "image": "geometry_00373.png",
+  "question": "[Focus] Espanol: Calcula la longitud del segmento entre (121, 178) y (115, 66).",
+  "answer": "length=112.16",
+  "qas": [
+    {
+      "question": "[Focus] Espanol: Calcula la longitud del segmento entre (121, 178) y (115, 66).",
+      "answer": "length=112.16"
+    },
+    {
+      "question": "[Focus] Espanol: Calcula la longitud del segmento entre (121, 178) y (115, 66). Provide the squared length.",
+      "answer": "length_squared=12580.00"
+    },
+    {
+      "question": "[Focus] Espanol: Calcula la longitud del segmento entre (121, 178) y (115, 66). Provide the midpoint.",
+      "answer": "midpoint=(118.00,122.00)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "objects": [
+    {
+      "type": "polygon",
+      "points": [
+        [
+          194,
+          198
+        ],
+        [
+          207,
+          168
+        ],
+        [
+          43,
+          159
+        ],
+        [
+          91,
+          163
+        ]
+      ],
+      "vertices": 4,
+      "area": 1884.5,
+      "perimeter": 353.89
+    }
+  ],
+  "image": "geometry_00029.png",
+  "question": "[Review] Espanol: Determina area y perimetro del poligono que pasa por (194, 198), (207, 168), (43, 159), (91, 163).",
+  "answer": "area=1884.50, perimeter=353.89",
+  "qas": [
+    {
+      "question": "[Review] Espanol: Determina area y perimetro del poligono que pasa por (194, 198), (207, 168), (43, 159), (91, 163).",
+      "answer": "area=1884.50, perimeter=353.89"
+    },
+    {
+      "question": "[Review] Espanol: Determina area y perimetro del poligono que pasa por (194, 198), (207, 168), (43, 159), (91, 163). Respond only with the area.",
+      "answer": "area=1884.50"
+    },
+    {
+      "question": "[Review] Espanol: Determina area y perimetro del poligono que pasa por (194, 198), (207, 168), (43, 159), (91, 163). Respond only with the number of vertices.",
+      "answer": "vertices=4"
+    }
+  ]
+}

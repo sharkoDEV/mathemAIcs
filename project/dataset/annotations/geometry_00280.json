@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          180,
+          167
+        ],
+        [
+          176,
+          117
+        ]
+      ],
+      "length": 50.16,
+      "midpoint": [
+        178.0,
+        142.0
+      ],
+      "length_squared": 2516.0
+    }
+  ],
+  "image": "geometry_00280.png",
+  "question": "[Practice] Italiano: Trova la lunghezza del segmento tra (180, 167) e (176, 117).",
+  "answer": "length=50.16",
+  "qas": [
+    {
+      "question": "[Practice] Italiano: Trova la lunghezza del segmento tra (180, 167) e (176, 117).",
+      "answer": "length=50.16"
+    },
+    {
+      "question": "[Practice] Italiano: Trova la lunghezza del segmento tra (180, 167) e (176, 117). Provide the squared length.",
+      "answer": "length_squared=2516.00"
+    },
+    {
+      "question": "[Practice] Italiano: Trova la lunghezza del segmento tra (180, 167) e (176, 117). Provide the midpoint.",
+      "answer": "midpoint=(178.00,142.00)"
+    }
+  ]
+}

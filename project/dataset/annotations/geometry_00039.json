@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "line",
+      "equation": "y=-1x+-1",
+      "slope": -1,
+      "intercept": -1,
+      "value_at_1": -2
+    }
+  ],
+  "image": "geometry_00039.png",
+  "question": "[Brief] Espanol: Indica pendiente e interseccion de la recta y=-1x+-1.",
+  "answer": "slope=-1, intercept=-1",
+  "qas": [
+    {
+      "question": "[Brief] Espanol: Indica pendiente e interseccion de la recta y=-1x+-1.",
+      "answer": "slope=-1, intercept=-1"
+    },
+    {
+      "question": "[Brief] Espanol: Indica pendiente e interseccion de la recta y=-1x+-1. Provide only the slope.",
+      "answer": "slope=-1"
+    },
+    {
+      "question": "[Brief] Espanol: Indica pendiente e interseccion de la recta y=-1x+-1. Provide the intercept value.",
+      "answer": "intercept=-1"
+    },
+    {
+      "question": "[Brief] Espanol: Indica pendiente e interseccion de la recta y=-1x+-1. Evaluate y when x=1.",
+      "answer": "y=-2.00"
+    }
+  ]
+}

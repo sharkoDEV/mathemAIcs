@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        30,
+        113,
+        71,
+        198
+      ],
+      "area": 3485,
+      "perimeter": 252,
+      "width": 41,
+      "height": 85,
+      "diagonal": 94.37
+    }
+  ],
+  "image": "geometry_00125.png",
+  "question": "[Rapid] Deutsch: Bestimme Flaeche und Umfang des Rechtecks Breite 41 Hoehe 85.",
+  "answer": "area=3485, perimeter=252",
+  "qas": [
+    {
+      "question": "[Rapid] Deutsch: Bestimme Flaeche und Umfang des Rechtecks Breite 41 Hoehe 85.",
+      "answer": "area=3485, perimeter=252"
+    },
+    {
+      "question": "[Rapid] Deutsch: Bestimme Flaeche und Umfang des Rechtecks Breite 41 Hoehe 85. Focus on the area value.",
+      "answer": "area=3485"
+    },
+    {
+      "question": "[Rapid] Deutsch: Bestimme Flaeche und Umfang des Rechtecks Breite 41 Hoehe 85. Give the diagonal length.",
+      "answer": "diagonal=94.37"
+    }
+  ]
+}

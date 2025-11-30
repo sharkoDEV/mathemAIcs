@@ -1,0 +1,98 @@
+{
+  "image": "textpanel_00021.png",
+  "text_boxes": [
+    {
+      "text": "7 + 9 = 16",
+      "bbox": [
+        18,
+        175,
+        82,
+        185
+      ],
+      "font": "ARLRDBD.TTF",
+      "color": [
+        40,
+        40,
+        80
+      ]
+    },
+    {
+      "text": "Segment PQ",
+      "bbox": [
+        111,
+        48,
+        201,
+        63
+      ],
+      "font": "Candara.ttf",
+      "color": [
+        10,
+        90,
+        10
+      ]
+    },
+    {
+      "text": "48 / 4 = 12",
+      "bbox": [
+        139,
+        105,
+        219,
+        116
+      ],
+      "font": "ARLRDBD.TTF",
+      "color": [
+        20,
+        20,
+        20
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Challenge] English: Identify the coordinates of point P shown at box 1. Identify the text inside.",
+      "answer": "7 + 9 = 16"
+    },
+    {
+      "question": "[Focus] Svenska: Ange koordinaterna for punkt P vid box 2. Identify the text inside.",
+      "answer": "Segment PQ"
+    },
+    {
+      "question": "[Focus] Francais: Indiquez les coordonnees du point P place en box 4. Identify the text inside.",
+      "answer": "48 / 4 = 12"
+    }
+  ],
+  "question": "[Challenge] English: Identify the coordinates of point P shown at box 1. Identify the text inside.",
+  "answer": "7 + 9 = 16",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "7 + 9 = 16",
+      "bbox": [
+        18,
+        175,
+        82,
+        185
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "Segment PQ",
+      "bbox": [
+        111,
+        48,
+        201,
+        63
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "48 / 4 = 12",
+      "bbox": [
+        139,
+        105,
+        219,
+        116
+      ]
+    }
+  ]
+}

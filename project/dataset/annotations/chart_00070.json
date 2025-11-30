@@ -1,0 +1,24 @@
+{
+  "image": "chart_00070.png",
+  "question": "[Rapid] English: Identify the slope of the noisy line for the plotted line.",
+  "answer": "slope=-0.5",
+  "chart": {
+    "type": "line_plot",
+    "slope": -0.5,
+    "intercept": -0.86
+  },
+  "qas": [
+    {
+      "question": "[Rapid] English: Identify the slope of the noisy line for the plotted line.",
+      "answer": "slope=-0.5"
+    },
+    {
+      "question": "[Calm] Italiano: Individua the intercept of the noisy line della retta disegnata.",
+      "answer": "intercept=-0.86"
+    },
+    {
+      "question": "[Explain] Francais: Identifiez the value of y when x equals 1 pour la droite tracee.",
+      "answer": "y=-1.36"
+    }
+  ]
+}

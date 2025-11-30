@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          144,
+          140
+        ],
+        [
+          208,
+          161
+        ],
+        [
+          62,
+          47
+        ]
+      ],
+      "area": 2115.0,
+      "perimeter": 376.58
+    }
+  ],
+  "image": "geometry_00306.png",
+  "question": "[Study] Turkce: (144, 140), (208, 161), (62, 47) noktalarindan olusan ucgenin alanini ve cevresini hesapla.",
+  "answer": "area=2115.00, perimeter=376.58",
+  "qas": [
+    {
+      "question": "[Study] Turkce: (144, 140), (208, 161), (62, 47) noktalarindan olusan ucgenin alanini ve cevresini hesapla.",
+      "answer": "area=2115.00, perimeter=376.58"
+    },
+    {
+      "question": "[Explain] Espanol: Calcula el area y el perimetro del triangulo con vertices (144, 140), (208, 161), (62, 47). Provide only the area.",
+      "answer": "area=2115.00"
+    },
+    {
+      "question": "[Challenge] Norsk: Finn areal og omkrets for trekanten med punktene (144, 140), (208, 161), (62, 47). Provide only the perimeter.",
+      "answer": "perimeter=376.58"
+    }
+  ]
+}

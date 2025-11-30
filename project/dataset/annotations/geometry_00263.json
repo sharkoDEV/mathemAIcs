@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        46,
+        62,
+        99,
+        128
+      ],
+      "area": 3498,
+      "perimeter": 238,
+      "width": 53,
+      "height": 66,
+      "diagonal": 84.65
+    }
+  ],
+  "image": "geometry_00263.png",
+  "question": "[Rapid] Francais: Donnez l'aire et le perimetre du rectangle de largeur 53 et hauteur 66.",
+  "answer": "area=3498, perimeter=238",
+  "qas": [
+    {
+      "question": "[Rapid] Francais: Donnez l'aire et le perimetre du rectangle de largeur 53 et hauteur 66.",
+      "answer": "area=3498, perimeter=238"
+    },
+    {
+      "question": "[Rapid] Francais: Donnez l'aire et le perimetre du rectangle de largeur 53 et hauteur 66. Focus on the area value.",
+      "answer": "area=3498"
+    },
+    {
+      "question": "[Rapid] Francais: Donnez l'aire et le perimetre du rectangle de largeur 53 et hauteur 66. Give the diagonal length.",
+      "answer": "diagonal=84.65"
+    }
+  ]
+}

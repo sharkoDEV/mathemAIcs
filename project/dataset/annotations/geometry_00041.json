@@ -1,0 +1,49 @@
+{
+  "objects": [
+    {
+      "type": "polygon",
+      "points": [
+        [
+          94,
+          142
+        ],
+        [
+          169,
+          169
+        ],
+        [
+          106,
+          137
+        ],
+        [
+          112,
+          142
+        ],
+        [
+          160,
+          132
+        ]
+      ],
+      "vertices": 5,
+      "area": 394.5,
+      "perimeter": 273.97
+    }
+  ],
+  "image": "geometry_00041.png",
+  "question": "[Challenge] English: Determine area and perimeter for the polygon passing through (94, 142), (169, 169), (106, 137), (112, 142), (160, 132).",
+  "answer": "area=394.50, perimeter=273.97",
+  "qas": [
+    {
+      "question": "[Challenge] English: Determine area and perimeter for the polygon passing through (94, 142), (169, 169), (106, 137), (112, 142), (160, 132).",
+      "answer": "area=394.50, perimeter=273.97"
+    },
+    {
+      "question": "[Challenge] English: Determine area and perimeter for the polygon passing through (94, 142), (169, 169), (106, 137), (112, 142), (160, 132). Respond only with the area.",
+      "answer": "area=394.50"
+    },
+    {
+      "question": "[Challenge] English: Determine area and perimeter for the polygon passing through (94, 142), (169, 169), (106, 137), (112, 142), (160, 132). Respond only with the number of vertices.",
+      "answer": "vertices=5"
+    }
+  ]
+}

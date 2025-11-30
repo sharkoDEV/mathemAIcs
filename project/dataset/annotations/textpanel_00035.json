@@ -1,0 +1,127 @@
+{
+  "image": "textpanel_00035.png",
+  "text_boxes": [
+    {
+      "text": "11 + 10 = 21",
+      "bbox": [
+        82,
+        15,
+        171,
+        26
+      ],
+      "font": "framd.ttf",
+      "color": [
+        40,
+        40,
+        80
+      ]
+    },
+    {
+      "text": "2 * 5 * 5 + 1 = 51",
+      "bbox": [
+        17,
+        128,
+        215,
+        143
+      ],
+      "font": "WINGDNG3.TTF",
+      "color": [
+        40,
+        40,
+        80
+      ]
+    },
+    {
+      "text": "6 * 12 = 72",
+      "bbox": [
+        142,
+        170,
+        239,
+        182
+      ],
+      "font": "framd.ttf",
+      "color": [
+        70,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "8 + 7 - 12 = 3",
+      "bbox": [
+        26,
+        196,
+        112,
+        212
+      ],
+      "font": "AGENCYR.TTF",
+      "color": [
+        20,
+        20,
+        20
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Practice] Norsk: Oppgi koordinatene til punkt P ved box 1. Identify the text inside.",
+      "answer": "11 + 10 = 21"
+    },
+    {
+      "question": "[Challenge] Svenska: Ange koordinaterna for punkt P vid box 2. Identify the text inside.",
+      "answer": "2 * 5 * 5 + 1 = 51"
+    },
+    {
+      "question": "[Note] Polski: Podaj wspolrzedne punktu P w box 3. Identify the text inside.",
+      "answer": "6 * 12 = 72"
+    },
+    {
+      "question": "[Detailed] Italiano: Specifica le coordinate del punto P in box 4. Identify the text inside.",
+      "answer": "8 + 7 - 12 = 3"
+    }
+  ],
+  "question": "[Practice] Norsk: Oppgi koordinatene til punkt P ved box 1. Identify the text inside.",
+  "answer": "11 + 10 = 21",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "11 + 10 = 21",
+      "bbox": [
+        82,
+        15,
+        171,
+        26
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "2 * 5 * 5 + 1 = 51",
+      "bbox": [
+        17,
+        128,
+        215,
+        143
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "6 * 12 = 72",
+      "bbox": [
+        142,
+        170,
+        239,
+        182
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "8 + 7 - 12 = 3",
+      "bbox": [
+        26,
+        196,
+        112,
+        212
+      ]
+    }
+  ]
+}

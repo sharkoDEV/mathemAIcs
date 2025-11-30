@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          155,
+          173
+        ],
+        [
+          128,
+          171
+        ],
+        [
+          157,
+          65
+        ]
+      ],
+      "area": 1460.0,
+      "perimeter": 244.99
+    }
+  ],
+  "image": "geometry_00013.png",
+  "question": "[Challenge] Turkce: (155, 173), (128, 171), (157, 65) noktalarindan olusan ucgenin alanini ve cevresini hesapla.",
+  "answer": "area=1460.00, perimeter=244.99",
+  "qas": [
+    {
+      "question": "[Challenge] Turkce: (155, 173), (128, 171), (157, 65) noktalarindan olusan ucgenin alanini ve cevresini hesapla.",
+      "answer": "area=1460.00, perimeter=244.99"
+    },
+    {
+      "question": "[Calm] Polski: Oblicz pole i obwod trojkata o wierzcholkach (155, 173), (128, 171), (157, 65). Provide only the area.",
+      "answer": "area=1460.00"
+    },
+    {
+      "question": "[Note] Portugues: Calcule a area e o perimetro do triangulo definido por (155, 173), (128, 171), (157, 65). Provide only the perimeter.",
+      "answer": "perimeter=244.99"
+    }
+  ]
+}

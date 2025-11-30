@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        51,
+        66,
+        97,
+        132
+      ],
+      "area": 3036,
+      "perimeter": 224,
+      "width": 46,
+      "height": 66,
+      "diagonal": 80.45
+    }
+  ],
+  "image": "geometry_00175.png",
+  "question": "[Rapid] Espanol: Halla area y perimetro del rectangulo de ancho 46 y alto 66.",
+  "answer": "area=3036, perimeter=224",
+  "qas": [
+    {
+      "question": "[Rapid] Espanol: Halla area y perimetro del rectangulo de ancho 46 y alto 66.",
+      "answer": "area=3036, perimeter=224"
+    },
+    {
+      "question": "[Rapid] Espanol: Halla area y perimetro del rectangulo de ancho 46 y alto 66. Focus on the area value.",
+      "answer": "area=3036"
+    },
+    {
+      "question": "[Rapid] Espanol: Halla area y perimetro del rectangulo de ancho 46 y alto 66. Give the diagonal length.",
+      "answer": "diagonal=80.45"
+    }
+  ]
+}

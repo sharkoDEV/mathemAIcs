@@ -1,0 +1,38 @@
+{
+  "image": "chart_00347.png",
+  "question": "[Rapid] Portugues: Apresente which category has the highest bar do grafico de barras.",
+  "answer": "E",
+  "chart": {
+    "type": "bar_chart",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "values": [
+      12,
+      9,
+      6,
+      6,
+      14
+    ],
+    "max_category": "E",
+    "min_category": "C"
+  },
+  "qas": [
+    {
+      "question": "[Rapid] Portugues: Apresente which category has the highest bar do grafico de barras.",
+      "answer": "E"
+    },
+    {
+      "question": "[Study] Svenska: Redovisa which category has the lowest bar fran stapeldiagrammet.",
+      "answer": "C"
+    },
+    {
+      "question": "[Brief] Dansk: Angiv what is the difference between the tallest and shortest bars fra sojlediagrammet.",
+      "answer": "diff=8"
+    }
+  ]
+}

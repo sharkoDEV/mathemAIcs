@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          132,
+          61
+        ],
+        [
+          151,
+          171
+        ],
+        [
+          182,
+          122
+        ]
+      ],
+      "area": 2170.5,
+      "perimeter": 248.48
+    }
+  ],
+  "image": "geometry_00180.png",
+  "question": "[Detailed] Espanol: Calcula el area y el perimetro del triangulo con vertices (132, 61), (151, 171), (182, 122).",
+  "answer": "area=2170.50, perimeter=248.48",
+  "qas": [
+    {
+      "question": "[Detailed] Espanol: Calcula el area y el perimetro del triangulo con vertices (132, 61), (151, 171), (182, 122).",
+      "answer": "area=2170.50, perimeter=248.48"
+    },
+    {
+      "question": "[Detailed] Francais: Calculez l'aire et le perimetre du triangle forme par (132, 61), (151, 171), (182, 122). Provide only the area.",
+      "answer": "area=2170.50"
+    },
+    {
+      "question": "[Explain] English: Compute the area and perimeter of the triangle defined by (132, 61), (151, 171), (182, 122). Provide only the perimeter.",
+      "answer": "perimeter=248.48"
+    }
+  ]
+}

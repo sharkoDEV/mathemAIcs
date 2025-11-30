@@ -1,0 +1,24 @@
+{
+  "image": "chart_00100.png",
+  "question": "[Focus] Portugues: Indique the slope of the noisy line da linha representada.",
+  "answer": "slope=-2",
+  "chart": {
+    "type": "line_plot",
+    "slope": -2,
+    "intercept": -0.02
+  },
+  "qas": [
+    {
+      "question": "[Focus] Portugues: Indique the slope of the noisy line da linha representada.",
+      "answer": "slope=-2"
+    },
+    {
+      "question": "[Brief] Turkce: Cizilen dogru icin the intercept of the noisy line belirt.",
+      "answer": "intercept=-0.02"
+    },
+    {
+      "question": "[Brief] English: Identify the value of y when x equals 1 for the plotted line.",
+      "answer": "y=-2.02"
+    }
+  ]
+}

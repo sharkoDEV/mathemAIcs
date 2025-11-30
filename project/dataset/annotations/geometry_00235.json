@@ -1,0 +1,45 @@
+{
+  "objects": [
+    {
+      "type": "polygon",
+      "points": [
+        [
+          141,
+          208
+        ],
+        [
+          124,
+          92
+        ],
+        [
+          125,
+          146
+        ],
+        [
+          104,
+          45
+        ]
+      ],
+      "vertices": 4,
+      "area": 244.0,
+      "perimeter": 441.56
+    }
+  ],
+  "image": "geometry_00235.png",
+  "question": "[Rapid] English: Determine area and perimeter for the polygon passing through (141, 208), (124, 92), (125, 146), (104, 45).",
+  "answer": "area=244.00, perimeter=441.56",
+  "qas": [
+    {
+      "question": "[Rapid] English: Determine area and perimeter for the polygon passing through (141, 208), (124, 92), (125, 146), (104, 45).",
+      "answer": "area=244.00, perimeter=441.56"
+    },
+    {
+      "question": "[Rapid] English: Determine area and perimeter for the polygon passing through (141, 208), (124, 92), (125, 146), (104, 45). Respond only with the area.",
+      "answer": "area=244.00"
+    },
+    {
+      "question": "[Rapid] English: Determine area and perimeter for the polygon passing through (141, 208), (124, 92), (125, 146), (104, 45). Respond only with the number of vertices.",
+      "answer": "vertices=4"
+    }
+  ]
+}

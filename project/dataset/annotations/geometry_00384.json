@@ -1,0 +1,53 @@
+{
+  "objects": [
+    {
+      "type": "polygon",
+      "points": [
+        [
+          110,
+          44
+        ],
+        [
+          199,
+          79
+        ],
+        [
+          78,
+          151
+        ],
+        [
+          121,
+          66
+        ],
+        [
+          172,
+          60
+        ],
+        [
+          189,
+          100
+        ]
+      ],
+      "vertices": 6,
+      "area": 4891.0,
+      "perimeter": 523.34
+    }
+  ],
+  "image": "geometry_00384.png",
+  "question": "[Brief] Svenska: Ange area och omkrets for polygonen med punkterna (110, 44), (199, 79), (78, 151), (121, 66), (172, 60), (189, 100).",
+  "answer": "area=4891.00, perimeter=523.34",
+  "qas": [
+    {
+      "question": "[Brief] Svenska: Ange area och omkrets for polygonen med punkterna (110, 44), (199, 79), (78, 151), (121, 66), (172, 60), (189, 100).",
+      "answer": "area=4891.00, perimeter=523.34"
+    },
+    {
+      "question": "[Brief] Svenska: Ange area och omkrets for polygonen med punkterna (110, 44), (199, 79), (78, 151), (121, 66), (172, 60), (189, 100). Respond only with the area.",
+      "answer": "area=4891.00"
+    },
+    {
+      "question": "[Brief] Svenska: Ange area och omkrets for polygonen med punkterna (110, 44), (199, 79), (78, 151), (121, 66), (172, 60), (189, 100). Respond only with the number of vertices.",
+      "answer": "vertices=6"
+    }
+  ]
+}

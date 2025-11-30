@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "circle",
+      "center": [
+        196,
+        98
+      ],
+      "radius": 21,
+      "area": 1385.44,
+      "circumference": 131.95,
+      "diameter": 42
+    }
+  ],
+  "image": "geometry_00143.png",
+  "question": "[Calm] Espanol: Indica area y circunferencia del circulo de radio 21.",
+  "answer": "area=1385.44, circumference=131.95",
+  "qas": [
+    {
+      "question": "[Calm] Espanol: Indica area y circunferencia del circulo de radio 21.",
+      "answer": "area=1385.44, circumference=131.95"
+    },
+    {
+      "question": "[Calm] Espanol: Indica area y circunferencia del circulo de radio 21. Provide only the area.",
+      "answer": "area=1385.44"
+    },
+    {
+      "question": "[Calm] Espanol: Indica area y circunferencia del circulo de radio 21. Provide only the diameter.",
+      "answer": "diameter=42"
+    }
+  ]
+}

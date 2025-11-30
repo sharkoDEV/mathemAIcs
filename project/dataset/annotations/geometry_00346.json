@@ -1,0 +1,45 @@
+{
+  "objects": [
+    {
+      "type": "polygon",
+      "points": [
+        [
+          145,
+          143
+        ],
+        [
+          98,
+          117
+        ],
+        [
+          170,
+          204
+        ],
+        [
+          165,
+          160
+        ]
+      ],
+      "vertices": 4,
+      "area": 1506.0,
+      "perimeter": 237.17
+    }
+  ],
+  "image": "geometry_00346.png",
+  "question": "[Study] Nederlands: Bereken oppervlakte en omtrek van het veelhoek met punten (145, 143), (98, 117), (170, 204), (165, 160).",
+  "answer": "area=1506.00, perimeter=237.17",
+  "qas": [
+    {
+      "question": "[Study] Nederlands: Bereken oppervlakte en omtrek van het veelhoek met punten (145, 143), (98, 117), (170, 204), (165, 160).",
+      "answer": "area=1506.00, perimeter=237.17"
+    },
+    {
+      "question": "[Study] Nederlands: Bereken oppervlakte en omtrek van het veelhoek met punten (145, 143), (98, 117), (170, 204), (165, 160). Respond only with the area.",
+      "answer": "area=1506.00"
+    },
+    {
+      "question": "[Study] Nederlands: Bereken oppervlakte en omtrek van het veelhoek met punten (145, 143), (98, 117), (170, 204), (165, 160). Respond only with the number of vertices.",
+      "answer": "vertices=4"
+    }
+  ]
+}

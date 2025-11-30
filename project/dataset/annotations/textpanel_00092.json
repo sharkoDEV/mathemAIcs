@@ -1,0 +1,98 @@
+{
+  "image": "textpanel_00092.png",
+  "text_boxes": [
+    {
+      "text": "radius 5",
+      "bbox": [
+        153,
+        64,
+        239,
+        79
+      ],
+      "font": "ERASDEMI.TTF",
+      "color": [
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "9 + 2 + 5 = 16",
+      "bbox": [
+        20,
+        182,
+        213,
+        199
+      ],
+      "font": "segoescb.ttf",
+      "color": [
+        40,
+        40,
+        80
+      ]
+    },
+    {
+      "text": "12 + 9 - 2 = 19",
+      "bbox": [
+        104,
+        92,
+        211,
+        103
+      ],
+      "font": "ARLRDBD.TTF",
+      "color": [
+        20,
+        20,
+        20
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Calm] Turkce: box 1 konumundaki P noktasinin koordinatlarini yaz. Identify the text inside.",
+      "answer": "radius 5"
+    },
+    {
+      "question": "[Brief] Svenska: Ange koordinaterna for punkt P vid box 2. Identify the text inside.",
+      "answer": "9 + 2 + 5 = 16"
+    },
+    {
+      "question": "[Focus] Nederlands: Geef de coordinaten van punt P op box 4. Identify the text inside.",
+      "answer": "12 + 9 - 2 = 19"
+    }
+  ],
+  "question": "[Calm] Turkce: box 1 konumundaki P noktasinin koordinatlarini yaz. Identify the text inside.",
+  "answer": "radius 5",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "radius 5",
+      "bbox": [
+        153,
+        64,
+        239,
+        79
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "9 + 2 + 5 = 16",
+      "bbox": [
+        20,
+        182,
+        213,
+        199
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "12 + 9 - 2 = 19",
+      "bbox": [
+        104,
+        92,
+        211,
+        103
+      ]
+    }
+  ]
+}

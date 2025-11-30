@@ -1,0 +1,38 @@
+{
+  "image": "chart_00309.png",
+  "question": "[Note] Deutsch: Teile which category has the highest bar aus dem Balkendiagramm mit.",
+  "answer": "A",
+  "chart": {
+    "type": "bar_chart",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "values": [
+      13,
+      3,
+      10,
+      5,
+      12
+    ],
+    "max_category": "A",
+    "min_category": "B"
+  },
+  "qas": [
+    {
+      "question": "[Note] Deutsch: Teile which category has the highest bar aus dem Balkendiagramm mit.",
+      "answer": "A"
+    },
+    {
+      "question": "[Rapid] English: Tell which category has the lowest bar from the bar chart.",
+      "answer": "B"
+    },
+    {
+      "question": "[Study] Dansk: Angiv what is the difference between the tallest and shortest bars fra sojlediagrammet.",
+      "answer": "diff=10"
+    }
+  ]
+}

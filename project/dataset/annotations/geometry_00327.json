@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        35,
+        24,
+        131,
+        93
+      ],
+      "area": 6624,
+      "perimeter": 330,
+      "width": 96,
+      "height": 69,
+      "diagonal": 118.22
+    }
+  ],
+  "image": "geometry_00327.png",
+  "question": "[Challenge] Svenska: Ange area och omkrets for rektangeln med bredd 96 och hojd 69.",
+  "answer": "area=6624, perimeter=330",
+  "qas": [
+    {
+      "question": "[Challenge] Svenska: Ange area och omkrets for rektangeln med bredd 96 och hojd 69.",
+      "answer": "area=6624, perimeter=330"
+    },
+    {
+      "question": "[Challenge] Svenska: Ange area och omkrets for rektangeln med bredd 96 och hojd 69. Focus on the area value.",
+      "answer": "area=6624"
+    },
+    {
+      "question": "[Challenge] Svenska: Ange area och omkrets for rektangeln med bredd 96 och hojd 69. Give the diagonal length.",
+      "answer": "diagonal=118.22"
+    }
+  ]
+}

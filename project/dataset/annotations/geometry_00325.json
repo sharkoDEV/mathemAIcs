@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          115,
+          220
+        ],
+        [
+          52,
+          203
+        ]
+      ],
+      "length": 65.25,
+      "midpoint": [
+        83.5,
+        211.5
+      ],
+      "length_squared": 4258.0
+    }
+  ],
+  "image": "geometry_00325.png",
+  "question": "[Check] Dansk: Udregn laengden af linjestykket mellem (115, 220) og (52, 203).",
+  "answer": "length=65.25",
+  "qas": [
+    {
+      "question": "[Check] Dansk: Udregn laengden af linjestykket mellem (115, 220) og (52, 203).",
+      "answer": "length=65.25"
+    },
+    {
+      "question": "[Check] Dansk: Udregn laengden af linjestykket mellem (115, 220) og (52, 203). Provide the squared length.",
+      "answer": "length_squared=4258.00"
+    },
+    {
+      "question": "[Check] Dansk: Udregn laengden af linjestykket mellem (115, 220) og (52, 203). Provide the midpoint.",
+      "answer": "midpoint=(83.50,211.50)"
+    }
+  ]
+}

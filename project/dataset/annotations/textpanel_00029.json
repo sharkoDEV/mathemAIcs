@@ -1,0 +1,98 @@
+{
+  "image": "textpanel_00029.png",
+  "text_boxes": [
+    {
+      "text": "600 / 5 = 120",
+      "bbox": [
+        102,
+        56,
+        222,
+        76
+      ],
+      "font": "Candara.ttf",
+      "color": [
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "9 + 7 - 3 = 13",
+      "bbox": [
+        108,
+        222,
+        196,
+        233
+      ],
+      "font": "himalaya.ttf",
+      "color": [
+        10,
+        90,
+        10
+      ]
+    },
+    {
+      "text": "Point (3,4)",
+      "bbox": [
+        24,
+        126,
+        167,
+        144
+      ],
+      "font": "WINGDNG2.TTF",
+      "color": [
+        10,
+        90,
+        10
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Focus] Norsk: Oppgi koordinatene til punkt P ved box 1. Identify the text inside.",
+      "answer": "600 / 5 = 120"
+    },
+    {
+      "question": "[Brief] Francais: Indiquez les coordonnees du point P place en box 2. Identify the text inside.",
+      "answer": "9 + 7 - 3 = 13"
+    },
+    {
+      "question": "[Explain] Nederlands: Geef de coordinaten van punt P op box 4. Identify the text inside.",
+      "answer": "Point (3,4)"
+    }
+  ],
+  "question": "[Focus] Norsk: Oppgi koordinatene til punkt P ved box 1. Identify the text inside.",
+  "answer": "600 / 5 = 120",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "600 / 5 = 120",
+      "bbox": [
+        102,
+        56,
+        222,
+        76
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "9 + 7 - 3 = 13",
+      "bbox": [
+        108,
+        222,
+        196,
+        233
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "Point (3,4)",
+      "bbox": [
+        24,
+        126,
+        167,
+        144
+      ]
+    }
+  ]
+}

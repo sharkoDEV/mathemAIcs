@@ -1,0 +1,24 @@
+{
+  "image": "chart_00374.png",
+  "question": "[Brief] Turkce: Cizilen dogru icin the slope of the noisy line belirt.",
+  "answer": "slope=-1",
+  "chart": {
+    "type": "line_plot",
+    "slope": -1,
+    "intercept": -0.22
+  },
+  "qas": [
+    {
+      "question": "[Brief] Turkce: Cizilen dogru icin the slope of the noisy line belirt.",
+      "answer": "slope=-1"
+    },
+    {
+      "question": "[Calm] Polski: Okresl the intercept of the noisy line dla narysowanej prostej.",
+      "answer": "intercept=-0.22"
+    },
+    {
+      "question": "[Focus] Norsk: Oppgi the value of y when x equals 1 for linjen som vises.",
+      "answer": "y=-1.22"
+    }
+  ]
+}

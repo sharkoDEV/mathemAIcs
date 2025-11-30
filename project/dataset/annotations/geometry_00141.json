@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          169,
+          146
+        ],
+        [
+          156,
+          184
+        ],
+        [
+          49,
+          201
+        ]
+      ],
+      "area": 1922.5,
+      "perimeter": 280.51
+    }
+  ],
+  "image": "geometry_00141.png",
+  "question": "[Review] Espanol: Calcula el area y el perimetro del triangulo con vertices (169, 146), (156, 184), (49, 201).",
+  "answer": "area=1922.50, perimeter=280.51",
+  "qas": [
+    {
+      "question": "[Review] Espanol: Calcula el area y el perimetro del triangulo con vertices (169, 146), (156, 184), (49, 201).",
+      "answer": "area=1922.50, perimeter=280.51"
+    },
+    {
+      "question": "[Study] Dansk: Udregn areal og omkreds for trekanten med punkterne (169, 146), (156, 184), (49, 201). Provide only the area.",
+      "answer": "area=1922.50"
+    },
+    {
+      "question": "[Study] Espanol: Calcula el area y el perimetro del triangulo con vertices (169, 146), (156, 184), (49, 201). Provide only the perimeter.",
+      "answer": "perimeter=280.51"
+    }
+  ]
+}

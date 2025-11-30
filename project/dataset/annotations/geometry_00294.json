@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "line",
+      "equation": "y=-2x+2",
+      "slope": -2,
+      "intercept": 2,
+      "value_at_1": 0
+    }
+  ],
+  "image": "geometry_00294.png",
+  "question": "[Practice] Francais: Donnez pente et ordonnee a l'origine pour la droite y=-2x+2.",
+  "answer": "slope=-2, intercept=2",
+  "qas": [
+    {
+      "question": "[Practice] Francais: Donnez pente et ordonnee a l'origine pour la droite y=-2x+2.",
+      "answer": "slope=-2, intercept=2"
+    },
+    {
+      "question": "[Practice] Francais: Donnez pente et ordonnee a l'origine pour la droite y=-2x+2. Provide only the slope.",
+      "answer": "slope=-2"
+    },
+    {
+      "question": "[Practice] Francais: Donnez pente et ordonnee a l'origine pour la droite y=-2x+2. Provide the intercept value.",
+      "answer": "intercept=2"
+    },
+    {
+      "question": "[Practice] Francais: Donnez pente et ordonnee a l'origine pour la droite y=-2x+2. Evaluate y when x=1.",
+      "answer": "y=0.00"
+    }
+  ]
+}

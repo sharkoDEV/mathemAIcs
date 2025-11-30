@@ -1,0 +1,98 @@
+{
+  "image": "textpanel_00006.png",
+  "text_boxes": [
+    {
+      "text": "sin(theta)=0.5",
+      "bbox": [
+        42,
+        193,
+        163,
+        211
+      ],
+      "font": "segoescb.ttf",
+      "color": [
+        10,
+        90,
+        10
+      ]
+    },
+    {
+      "text": "P(A) = 0.35",
+      "bbox": [
+        71,
+        102,
+        168,
+        119
+      ],
+      "font": "ARLRDBD.TTF",
+      "color": [
+        70,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "Area=24",
+      "bbox": [
+        35,
+        130,
+        76,
+        143
+      ],
+      "font": "PLAYBILL.TTF",
+      "color": [
+        20,
+        20,
+        20
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Calm] Francais: Indiquez les coordonnees du point P place en box 1. Identify the text inside.",
+      "answer": "sin(theta)=0.5"
+    },
+    {
+      "question": "[Check] Dansk: Angiv koordinaterne for punkt P ved box 2. Identify the text inside.",
+      "answer": "P(A) = 0.35"
+    },
+    {
+      "question": "[Calm] Portugues: Informe as coordenadas do ponto P situado em box 4. Identify the text inside.",
+      "answer": "Area=24"
+    }
+  ],
+  "question": "[Calm] Francais: Indiquez les coordonnees du point P place en box 1. Identify the text inside.",
+  "answer": "sin(theta)=0.5",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "sin(theta)=0.5",
+      "bbox": [
+        42,
+        193,
+        163,
+        211
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "P(A) = 0.35",
+      "bbox": [
+        71,
+        102,
+        168,
+        119
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "Area=24",
+      "bbox": [
+        35,
+        130,
+        76,
+        143
+      ]
+    }
+  ]
+}

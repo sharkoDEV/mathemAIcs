@@ -1,0 +1,49 @@
+{
+  "objects": [
+    {
+      "type": "polygon",
+      "points": [
+        [
+          131,
+          103
+        ],
+        [
+          115,
+          178
+        ],
+        [
+          118,
+          151
+        ],
+        [
+          132,
+          199
+        ],
+        [
+          201,
+          143
+        ]
+      ],
+      "vertices": 5,
+      "area": 3884.5,
+      "perimeter": 323.34
+    }
+  ],
+  "image": "geometry_00107.png",
+  "question": "[Focus] Turkce: (131, 103), (115, 178), (118, 151), (132, 199), (201, 143) noktali cokgenin alanini ve cevresini belirt.",
+  "answer": "area=3884.50, perimeter=323.34",
+  "qas": [
+    {
+      "question": "[Focus] Turkce: (131, 103), (115, 178), (118, 151), (132, 199), (201, 143) noktali cokgenin alanini ve cevresini belirt.",
+      "answer": "area=3884.50, perimeter=323.34"
+    },
+    {
+      "question": "[Focus] Turkce: (131, 103), (115, 178), (118, 151), (132, 199), (201, 143) noktali cokgenin alanini ve cevresini belirt. Respond only with the area.",
+      "answer": "area=3884.50"
+    },
+    {
+      "question": "[Focus] Turkce: (131, 103), (115, 178), (118, 151), (132, 199), (201, 143) noktali cokgenin alanini ve cevresini belirt. Respond only with the number of vertices.",
+      "answer": "vertices=5"
+    }
+  ]
+}

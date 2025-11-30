@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          141,
+          57
+        ],
+        [
+          124,
+          94
+        ],
+        [
+          204,
+          117
+        ]
+      ],
+      "area": 1675.5,
+      "perimeter": 210.96
+    }
+  ],
+  "image": "geometry_00122.png",
+  "question": "[Challenge] Norsk: Finn areal og omkrets for trekanten med punktene (141, 57), (124, 94), (204, 117).",
+  "answer": "area=1675.50, perimeter=210.96",
+  "qas": [
+    {
+      "question": "[Challenge] Norsk: Finn areal og omkrets for trekanten med punktene (141, 57), (124, 94), (204, 117).",
+      "answer": "area=1675.50, perimeter=210.96"
+    },
+    {
+      "question": "[Note] Portugues: Calcule a area e o perimetro do triangulo definido por (141, 57), (124, 94), (204, 117). Provide only the area.",
+      "answer": "area=1675.50"
+    },
+    {
+      "question": "[Explain] Portugues: Calcule a area e o perimetro do triangulo definido por (141, 57), (124, 94), (204, 117). Provide only the perimeter.",
+      "answer": "perimeter=210.96"
+    }
+  ]
+}

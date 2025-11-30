@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          81,
+          152
+        ],
+        [
+          165,
+          158
+        ],
+        [
+          175,
+          53
+        ]
+      ],
+      "area": 4440.0,
+      "perimeter": 326.21
+    }
+  ],
+  "image": "geometry_00329.png",
+  "question": "[Focus] Norsk: Finn areal og omkrets for trekanten med punktene (81, 152), (165, 158), (175, 53).",
+  "answer": "area=4440.00, perimeter=326.21",
+  "qas": [
+    {
+      "question": "[Focus] Norsk: Finn areal og omkrets for trekanten med punktene (81, 152), (165, 158), (175, 53).",
+      "answer": "area=4440.00, perimeter=326.21"
+    },
+    {
+      "question": "[Review] Norsk: Finn areal og omkrets for trekanten med punktene (81, 152), (165, 158), (175, 53). Provide only the area.",
+      "answer": "area=4440.00"
+    },
+    {
+      "question": "[Calm] English: Compute the area and perimeter of the triangle defined by (81, 152), (165, 158), (175, 53). Provide only the perimeter.",
+      "answer": "perimeter=326.21"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "line",
+      "equation": "y=2x+2",
+      "slope": 2,
+      "intercept": 2,
+      "value_at_1": 4
+    }
+  ],
+  "image": "geometry_00248.png",
+  "question": "[Calm] Turkce: y=2x+2 dogrusunun egimini ve kesisimini belirt.",
+  "answer": "slope=2, intercept=2",
+  "qas": [
+    {
+      "question": "[Calm] Turkce: y=2x+2 dogrusunun egimini ve kesisimini belirt.",
+      "answer": "slope=2, intercept=2"
+    },
+    {
+      "question": "[Calm] Turkce: y=2x+2 dogrusunun egimini ve kesisimini belirt. Provide only the slope.",
+      "answer": "slope=2"
+    },
+    {
+      "question": "[Calm] Turkce: y=2x+2 dogrusunun egimini ve kesisimini belirt. Provide the intercept value.",
+      "answer": "intercept=2"
+    },
+    {
+      "question": "[Calm] Turkce: y=2x+2 dogrusunun egimini ve kesisimini belirt. Evaluate y when x=1.",
+      "answer": "y=4.00"
+    }
+  ]
+}

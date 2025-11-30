@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          152,
+          97
+        ],
+        [
+          80,
+          39
+        ]
+      ],
+      "length": 92.46,
+      "midpoint": [
+        116.0,
+        68.0
+      ],
+      "length_squared": 8548.0
+    }
+  ],
+  "image": "geometry_00205.png",
+  "question": "[Check] Italiano: Trova la lunghezza del segmento tra (152, 97) e (80, 39).",
+  "answer": "length=92.46",
+  "qas": [
+    {
+      "question": "[Check] Italiano: Trova la lunghezza del segmento tra (152, 97) e (80, 39).",
+      "answer": "length=92.46"
+    },
+    {
+      "question": "[Check] Italiano: Trova la lunghezza del segmento tra (152, 97) e (80, 39). Provide the squared length.",
+      "answer": "length_squared=8548.00"
+    },
+    {
+      "question": "[Check] Italiano: Trova la lunghezza del segmento tra (152, 97) e (80, 39). Provide the midpoint.",
+      "answer": "midpoint=(116.00,68.00)"
+    }
+  ]
+}

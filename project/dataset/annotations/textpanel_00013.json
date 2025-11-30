@@ -1,0 +1,127 @@
+{
+  "image": "textpanel_00013.png",
+  "text_boxes": [
+    {
+      "text": "8 * 9 = 72",
+      "bbox": [
+        70,
+        159,
+        162,
+        173
+      ],
+      "font": "framd.ttf",
+      "color": [
+        40,
+        40,
+        80
+      ]
+    },
+    {
+      "text": "6 - 8 - 5 = -7",
+      "bbox": [
+        14,
+        42,
+        160,
+        62
+      ],
+      "font": "phagspa.ttf",
+      "color": [
+        70,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "P(A) = 0.35",
+      "bbox": [
+        153,
+        73,
+        237,
+        89
+      ],
+      "font": "himalaya.ttf",
+      "color": [
+        10,
+        90,
+        10
+      ]
+    },
+    {
+      "text": "512 / 8 = 64",
+      "bbox": [
+        22,
+        174,
+        161,
+        191
+      ],
+      "font": "segoescb.ttf",
+      "color": [
+        40,
+        40,
+        80
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Rapid] Svenska: Ange koordinaterna for punkt P vid box 1. Identify the text inside.",
+      "answer": "8 * 9 = 72"
+    },
+    {
+      "question": "[Detailed] English: Identify the coordinates of point P shown at box 2. Identify the text inside.",
+      "answer": "6 - 8 - 5 = -7"
+    },
+    {
+      "question": "[Calm] Francais: Indiquez les coordonnees du point P place en box 3. Identify the text inside.",
+      "answer": "P(A) = 0.35"
+    },
+    {
+      "question": "[Calm] Dansk: Angiv koordinaterne for punkt P ved box 4. Identify the text inside.",
+      "answer": "512 / 8 = 64"
+    }
+  ],
+  "question": "[Rapid] Svenska: Ange koordinaterna for punkt P vid box 1. Identify the text inside.",
+  "answer": "8 * 9 = 72",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "8 * 9 = 72",
+      "bbox": [
+        70,
+        159,
+        162,
+        173
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "6 - 8 - 5 = -7",
+      "bbox": [
+        14,
+        42,
+        160,
+        62
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "P(A) = 0.35",
+      "bbox": [
+        153,
+        73,
+        237,
+        89
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "512 / 8 = 64",
+      "bbox": [
+        22,
+        174,
+        161,
+        191
+      ]
+    }
+  ]
+}

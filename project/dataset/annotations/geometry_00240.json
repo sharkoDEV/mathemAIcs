@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        102,
+        77,
+        190,
+        120
+      ],
+      "area": 3784,
+      "perimeter": 262,
+      "width": 88,
+      "height": 43,
+      "diagonal": 97.94
+    }
+  ],
+  "image": "geometry_00240.png",
+  "question": "[Note] Italiano: Trova area e perimetro del rettangolo di base 88 e altezza 43.",
+  "answer": "area=3784, perimeter=262",
+  "qas": [
+    {
+      "question": "[Note] Italiano: Trova area e perimetro del rettangolo di base 88 e altezza 43.",
+      "answer": "area=3784, perimeter=262"
+    },
+    {
+      "question": "[Note] Italiano: Trova area e perimetro del rettangolo di base 88 e altezza 43. Focus on the area value.",
+      "answer": "area=3784"
+    },
+    {
+      "question": "[Note] Italiano: Trova area e perimetro del rettangolo di base 88 e altezza 43. Give the diagonal length.",
+      "answer": "diagonal=97.94"
+    }
+  ]
+}

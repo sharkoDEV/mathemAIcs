@@ -1,0 +1,38 @@
+{
+  "image": "chart_00354.png",
+  "question": "[Note] Dansk: Angiv which category has the highest bar fra sojlediagrammet.",
+  "answer": "D",
+  "chart": {
+    "type": "bar_chart",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "values": [
+      7,
+      13,
+      3,
+      14,
+      4
+    ],
+    "max_category": "D",
+    "min_category": "C"
+  },
+  "qas": [
+    {
+      "question": "[Note] Dansk: Angiv which category has the highest bar fra sojlediagrammet.",
+      "answer": "D"
+    },
+    {
+      "question": "[Calm] Norsk: Oppgi which category has the lowest bar fra stolpediagrammet.",
+      "answer": "C"
+    },
+    {
+      "question": "[Focus] Norsk: Oppgi what is the difference between the tallest and shortest bars fra stolpediagrammet.",
+      "answer": "diff=11"
+    }
+  ]
+}

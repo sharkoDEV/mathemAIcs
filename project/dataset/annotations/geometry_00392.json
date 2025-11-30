@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        99,
+        57,
+        168,
+        137
+      ],
+      "area": 5520,
+      "perimeter": 298,
+      "width": 69,
+      "height": 80,
+      "diagonal": 105.65
+    }
+  ],
+  "image": "geometry_00392.png",
+  "question": "[Practice] Nederlands: Bereken oppervlakte en omtrek van de rechthoek met breedte 69 en hoogte 80.",
+  "answer": "area=5520, perimeter=298",
+  "qas": [
+    {
+      "question": "[Practice] Nederlands: Bereken oppervlakte en omtrek van de rechthoek met breedte 69 en hoogte 80.",
+      "answer": "area=5520, perimeter=298"
+    },
+    {
+      "question": "[Practice] Nederlands: Bereken oppervlakte en omtrek van de rechthoek met breedte 69 en hoogte 80. Focus on the area value.",
+      "answer": "area=5520"
+    },
+    {
+      "question": "[Practice] Nederlands: Bereken oppervlakte en omtrek van de rechthoek met breedte 69 en hoogte 80. Give the diagonal length.",
+      "answer": "diagonal=105.65"
+    }
+  ]
+}

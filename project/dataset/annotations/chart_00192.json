@@ -1,0 +1,48 @@
+{
+  "image": "chart_00192.png",
+  "question": "[Review] Espanol: Di which integer bin occurs most frequently segun el histograma.",
+  "answer": "mode=0",
+  "chart": {
+    "type": "histogram",
+    "counts": [
+      24,
+      20,
+      21,
+      18,
+      17,
+      18,
+      21,
+      21,
+      23,
+      17
+    ],
+    "bins": [
+      -0.5,
+      0.5,
+      1.5,
+      2.5,
+      3.5,
+      4.5,
+      5.5,
+      6.5,
+      7.5,
+      8.5,
+      9.5
+    ],
+    "max_bin_index": 0
+  },
+  "qas": [
+    {
+      "question": "[Review] Espanol: Di which integer bin occurs most frequently segun el histograma.",
+      "answer": "mode=0"
+    },
+    {
+      "question": "[Study] Norsk: Oppgi how many samples were used in total basert pa histogrammet.",
+      "answer": "count=200"
+    },
+    {
+      "question": "[Practice] Turkce: Histograma gore how many entries fall inside the modal bin belirt.",
+      "answer": "max_bin_count=24"
+    }
+  ]
+}

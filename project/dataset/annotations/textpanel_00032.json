@@ -1,0 +1,69 @@
+{
+  "image": "textpanel_00032.png",
+  "text_boxes": [
+    {
+      "text": "8 * 11 = 88",
+      "bbox": [
+        47,
+        214,
+        151,
+        232
+      ],
+      "font": "FELIXTI.TTF",
+      "color": [
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "a^2+b^2=c^2",
+      "bbox": [
+        125,
+        195,
+        221,
+        207
+      ],
+      "font": "himalaya.ttf",
+      "color": [
+        40,
+        40,
+        80
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Rapid] Dansk: Angiv koordinaterne for punkt P ved box 1. Identify the text inside.",
+      "answer": "8 * 11 = 88"
+    },
+    {
+      "question": "[Rapid] Portugues: Informe as coordenadas do ponto P situado em box 2. Identify the text inside.",
+      "answer": "a^2+b^2=c^2"
+    }
+  ],
+  "question": "[Rapid] Dansk: Angiv koordinaterne for punkt P ved box 1. Identify the text inside.",
+  "answer": "8 * 11 = 88",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "8 * 11 = 88",
+      "bbox": [
+        47,
+        214,
+        151,
+        232
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "a^2+b^2=c^2",
+      "bbox": [
+        125,
+        195,
+        221,
+        207
+      ]
+    }
+  ]
+}

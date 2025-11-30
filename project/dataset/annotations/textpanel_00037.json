@@ -1,0 +1,98 @@
+{
+  "image": "textpanel_00037.png",
+  "text_boxes": [
+    {
+      "text": "Angle 60 deg",
+      "bbox": [
+        34,
+        87,
+        205,
+        111
+      ],
+      "font": "SCHLBKB.TTF",
+      "color": [
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "10 + 8 - 10 = 8",
+      "bbox": [
+        22,
+        34,
+        139,
+        50
+      ],
+      "font": "PLAYBILL.TTF",
+      "color": [
+        10,
+        90,
+        10
+      ]
+    },
+    {
+      "text": "10 + 12 - 3 + 2 = 21",
+      "bbox": [
+        14,
+        177,
+        212,
+        194
+      ],
+      "font": "framd.ttf",
+      "color": [
+        20,
+        20,
+        20
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Explain] Deutsch: Gib die Koordinaten des Punktes P bei box 1 an. Identify the text inside.",
+      "answer": "Angle 60 deg"
+    },
+    {
+      "question": "[Calm] Svenska: Ange koordinaterna for punkt P vid box 3. Identify the text inside.",
+      "answer": "10 + 8 - 10 = 8"
+    },
+    {
+      "question": "[Review] Italiano: Specifica le coordinate del punto P in box 4. Identify the text inside.",
+      "answer": "10 + 12 - 3 + 2 = 21"
+    }
+  ],
+  "question": "[Explain] Deutsch: Gib die Koordinaten des Punktes P bei box 1 an. Identify the text inside.",
+  "answer": "Angle 60 deg",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "Angle 60 deg",
+      "bbox": [
+        34,
+        87,
+        205,
+        111
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "10 + 8 - 10 = 8",
+      "bbox": [
+        22,
+        34,
+        139,
+        50
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "10 + 12 - 3 + 2 = 21",
+      "bbox": [
+        14,
+        177,
+        212,
+        194
+      ]
+    }
+  ]
+}

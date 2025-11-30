@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        61,
+        39,
+        112,
+        95
+      ],
+      "area": 2856,
+      "perimeter": 214,
+      "width": 51,
+      "height": 56,
+      "diagonal": 75.74
+    }
+  ],
+  "image": "geometry_00228.png",
+  "question": "[Brief] Svenska: Ange area och omkrets for rektangeln med bredd 51 och hojd 56.",
+  "answer": "area=2856, perimeter=214",
+  "qas": [
+    {
+      "question": "[Brief] Svenska: Ange area och omkrets for rektangeln med bredd 51 och hojd 56.",
+      "answer": "area=2856, perimeter=214"
+    },
+    {
+      "question": "[Brief] Svenska: Ange area och omkrets for rektangeln med bredd 51 och hojd 56. Focus on the area value.",
+      "answer": "area=2856"
+    },
+    {
+      "question": "[Brief] Svenska: Ange area och omkrets for rektangeln med bredd 51 och hojd 56. Give the diagonal length.",
+      "answer": "diagonal=75.74"
+    }
+  ]
+}

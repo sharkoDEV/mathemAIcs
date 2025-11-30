@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          192,
+          140
+        ],
+        [
+          168,
+          203
+        ]
+      ],
+      "length": 67.42,
+      "midpoint": [
+        180.0,
+        171.5
+      ],
+      "length_squared": 4545.0
+    }
+  ],
+  "image": "geometry_00338.png",
+  "question": "[Study] English: Measure the length of segment from (192, 140) to (168, 203).",
+  "answer": "length=67.42",
+  "qas": [
+    {
+      "question": "[Study] English: Measure the length of segment from (192, 140) to (168, 203).",
+      "answer": "length=67.42"
+    },
+    {
+      "question": "[Study] English: Measure the length of segment from (192, 140) to (168, 203). Provide the squared length.",
+      "answer": "length_squared=4545.00"
+    },
+    {
+      "question": "[Study] English: Measure the length of segment from (192, 140) to (168, 203). Provide the midpoint.",
+      "answer": "midpoint=(180.00,171.50)"
+    }
+  ]
+}

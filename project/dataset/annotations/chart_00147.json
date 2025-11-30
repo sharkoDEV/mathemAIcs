@@ -1,0 +1,24 @@
+{
+  "image": "chart_00147.png",
+  "question": "[Note] Nederlands: Bepaal the slope of the noisy line van de getekende lijn.",
+  "answer": "slope=2",
+  "chart": {
+    "type": "line_plot",
+    "slope": 2,
+    "intercept": 0.66
+  },
+  "qas": [
+    {
+      "question": "[Note] Nederlands: Bepaal the slope of the noisy line van de getekende lijn.",
+      "answer": "slope=2"
+    },
+    {
+      "question": "[Rapid] Francais: Identifiez the intercept of the noisy line pour la droite tracee.",
+      "answer": "intercept=0.66"
+    },
+    {
+      "question": "[Focus] Francais: Identifiez the value of y when x equals 1 pour la droite tracee.",
+      "answer": "y=2.66"
+    }
+  ]
+}

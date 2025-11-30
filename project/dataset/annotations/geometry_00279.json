@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "circle",
+      "center": [
+        186,
+        96
+      ],
+      "radius": 47,
+      "area": 6939.78,
+      "circumference": 295.31,
+      "diameter": 94
+    }
+  ],
+  "image": "geometry_00279.png",
+  "question": "[Explain] Espanol: Indica area y circunferencia del circulo de radio 47.",
+  "answer": "area=6939.78, circumference=295.31",
+  "qas": [
+    {
+      "question": "[Explain] Espanol: Indica area y circunferencia del circulo de radio 47.",
+      "answer": "area=6939.78, circumference=295.31"
+    },
+    {
+      "question": "[Explain] Espanol: Indica area y circunferencia del circulo de radio 47. Provide only the area.",
+      "answer": "area=6939.78"
+    },
+    {
+      "question": "[Explain] Espanol: Indica area y circunferencia del circulo de radio 47. Provide only the diameter.",
+      "answer": "diameter=94"
+    }
+  ]
+}

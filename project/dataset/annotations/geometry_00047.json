@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          66,
+          136
+        ],
+        [
+          194,
+          79
+        ]
+      ],
+      "length": 140.12,
+      "midpoint": [
+        130.0,
+        107.5
+      ],
+      "length_squared": 19633.0
+    }
+  ],
+  "image": "geometry_00047.png",
+  "question": "[Practice] Italiano: Trova la lunghezza del segmento tra (66, 136) e (194, 79).",
+  "answer": "length=140.12",
+  "qas": [
+    {
+      "question": "[Practice] Italiano: Trova la lunghezza del segmento tra (66, 136) e (194, 79).",
+      "answer": "length=140.12"
+    },
+    {
+      "question": "[Practice] Italiano: Trova la lunghezza del segmento tra (66, 136) e (194, 79). Provide the squared length.",
+      "answer": "length_squared=19633.00"
+    },
+    {
+      "question": "[Practice] Italiano: Trova la lunghezza del segmento tra (66, 136) e (194, 79). Provide the midpoint.",
+      "answer": "midpoint=(130.00,107.50)"
+    }
+  ]
+}

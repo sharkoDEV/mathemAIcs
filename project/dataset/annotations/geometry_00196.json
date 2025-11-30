@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          83,
+          92
+        ],
+        [
+          179,
+          86
+        ],
+        [
+          107,
+          196
+        ]
+      ],
+      "area": 5064.0,
+      "perimeter": 334.39
+    }
+  ],
+  "image": "geometry_00196.png",
+  "question": "[Explain] Polski: Oblicz pole i obwod trojkata o wierzcholkach (83, 92), (179, 86), (107, 196).",
+  "answer": "area=5064.00, perimeter=334.39",
+  "qas": [
+    {
+      "question": "[Explain] Polski: Oblicz pole i obwod trojkata o wierzcholkach (83, 92), (179, 86), (107, 196).",
+      "answer": "area=5064.00, perimeter=334.39"
+    },
+    {
+      "question": "[Check] Deutsch: Berechne Flaeche und Umfang des Dreiecks mit Punkten (83, 92), (179, 86), (107, 196). Provide only the area.",
+      "answer": "area=5064.00"
+    },
+    {
+      "question": "[Study] Nederlands: Bepaal oppervlakte en omtrek van de driehoek met punten (83, 92), (179, 86), (107, 196). Provide only the perimeter.",
+      "answer": "perimeter=334.39"
+    }
+  ]
+}

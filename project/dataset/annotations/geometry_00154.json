@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        75,
+        110,
+        138,
+        171
+      ],
+      "area": 3843,
+      "perimeter": 248,
+      "width": 63,
+      "height": 61,
+      "diagonal": 87.69
+    }
+  ],
+  "image": "geometry_00154.png",
+  "question": "[Brief] Nederlands: Bereken oppervlakte en omtrek van de rechthoek met breedte 63 en hoogte 61.",
+  "answer": "area=3843, perimeter=248",
+  "qas": [
+    {
+      "question": "[Brief] Nederlands: Bereken oppervlakte en omtrek van de rechthoek met breedte 63 en hoogte 61.",
+      "answer": "area=3843, perimeter=248"
+    },
+    {
+      "question": "[Brief] Nederlands: Bereken oppervlakte en omtrek van de rechthoek met breedte 63 en hoogte 61. Focus on the area value.",
+      "answer": "area=3843"
+    },
+    {
+      "question": "[Brief] Nederlands: Bereken oppervlakte en omtrek van de rechthoek met breedte 63 en hoogte 61. Give the diagonal length.",
+      "answer": "diagonal=87.69"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "line",
+      "equation": "y=-0.5x+0",
+      "slope": -0.5,
+      "intercept": 0,
+      "value_at_1": -0.5
+    }
+  ],
+  "image": "geometry_00221.png",
+  "question": "[Calm] Portugues: Informe inclinacao e intercepto da reta y=-0.5x+0.",
+  "answer": "slope=-0.5, intercept=0",
+  "qas": [
+    {
+      "question": "[Calm] Portugues: Informe inclinacao e intercepto da reta y=-0.5x+0.",
+      "answer": "slope=-0.5, intercept=0"
+    },
+    {
+      "question": "[Calm] Portugues: Informe inclinacao e intercepto da reta y=-0.5x+0. Provide only the slope.",
+      "answer": "slope=-0.5"
+    },
+    {
+      "question": "[Calm] Portugues: Informe inclinacao e intercepto da reta y=-0.5x+0. Provide the intercept value.",
+      "answer": "intercept=0"
+    },
+    {
+      "question": "[Calm] Portugues: Informe inclinacao e intercepto da reta y=-0.5x+0. Evaluate y when x=1.",
+      "answer": "y=-0.50"
+    }
+  ]
+}

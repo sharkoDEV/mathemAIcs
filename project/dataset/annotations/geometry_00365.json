@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          59,
+          67
+        ],
+        [
+          110,
+          162
+        ],
+        [
+          150,
+          110
+        ]
+      ],
+      "area": 3226.0,
+      "perimeter": 274.08
+    }
+  ],
+  "image": "geometry_00365.png",
+  "question": "[Brief] English: Compute the area and perimeter of the triangle defined by (59, 67), (110, 162), (150, 110).",
+  "answer": "area=3226.00, perimeter=274.08",
+  "qas": [
+    {
+      "question": "[Brief] English: Compute the area and perimeter of the triangle defined by (59, 67), (110, 162), (150, 110).",
+      "answer": "area=3226.00, perimeter=274.08"
+    },
+    {
+      "question": "[Practice] Dansk: Udregn areal og omkreds for trekanten med punkterne (59, 67), (110, 162), (150, 110). Provide only the area.",
+      "answer": "area=3226.00"
+    },
+    {
+      "question": "[Practice] Portugues: Calcule a area e o perimetro do triangulo definido por (59, 67), (110, 162), (150, 110). Provide only the perimeter.",
+      "answer": "perimeter=274.08"
+    }
+  ]
+}

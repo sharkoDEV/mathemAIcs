@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          117,
+          152
+        ],
+        [
+          202,
+          97
+        ],
+        [
+          164,
+          56
+        ]
+      ],
+      "area": 2787.5,
+      "perimeter": 264.03
+    }
+  ],
+  "image": "geometry_00366.png",
+  "question": "[Focus] Norsk: Finn areal og omkrets for trekanten med punktene (117, 152), (202, 97), (164, 56).",
+  "answer": "area=2787.50, perimeter=264.03",
+  "qas": [
+    {
+      "question": "[Focus] Norsk: Finn areal og omkrets for trekanten med punktene (117, 152), (202, 97), (164, 56).",
+      "answer": "area=2787.50, perimeter=264.03"
+    },
+    {
+      "question": "[Review] Polski: Oblicz pole i obwod trojkata o wierzcholkach (117, 152), (202, 97), (164, 56). Provide only the area.",
+      "answer": "area=2787.50"
+    },
+    {
+      "question": "[Study] English: Compute the area and perimeter of the triangle defined by (117, 152), (202, 97), (164, 56). Provide only the perimeter.",
+      "answer": "perimeter=264.03"
+    }
+  ]
+}

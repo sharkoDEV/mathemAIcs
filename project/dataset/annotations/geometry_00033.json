@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          85,
+          67
+        ],
+        [
+          211,
+          100
+        ]
+      ],
+      "length": 130.25,
+      "midpoint": [
+        148.0,
+        83.5
+      ],
+      "length_squared": 16965.0
+    }
+  ],
+  "image": "geometry_00033.png",
+  "question": "[Check] Espanol: Calcula la longitud del segmento entre (85, 67) y (211, 100).",
+  "answer": "length=130.25",
+  "qas": [
+    {
+      "question": "[Check] Espanol: Calcula la longitud del segmento entre (85, 67) y (211, 100).",
+      "answer": "length=130.25"
+    },
+    {
+      "question": "[Check] Espanol: Calcula la longitud del segmento entre (85, 67) y (211, 100). Provide the squared length.",
+      "answer": "length_squared=16965.00"
+    },
+    {
+      "question": "[Check] Espanol: Calcula la longitud del segmento entre (85, 67) y (211, 100). Provide the midpoint.",
+      "answer": "midpoint=(148.00,83.50)"
+    }
+  ]
+}

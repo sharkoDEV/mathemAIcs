@@ -1,0 +1,127 @@
+{
+  "image": "textpanel_00033.png",
+  "text_boxes": [
+    {
+      "text": "0 / 1 = 0",
+      "bbox": [
+        18,
+        95,
+        96,
+        112
+      ],
+      "font": "framd.ttf",
+      "color": [
+        40,
+        40,
+        80
+      ]
+    },
+    {
+      "text": "8 cm",
+      "bbox": [
+        66,
+        197,
+        115,
+        210
+      ],
+      "font": "BOD_BLAR.TTF",
+      "color": [
+        40,
+        40,
+        80
+      ]
+    },
+    {
+      "text": "7 + 6 = 13",
+      "bbox": [
+        110,
+        65,
+        198,
+        85
+      ],
+      "font": "Candara.ttf",
+      "color": [
+        70,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "12 - 8 = 4",
+      "bbox": [
+        136,
+        160,
+        240,
+        180
+      ],
+      "font": "SitkaVF-Italic.ttf",
+      "color": [
+        70,
+        20,
+        20
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Explain] Dansk: Angiv koordinaterne for punkt P ved box 1. Identify the text inside.",
+      "answer": "0 / 1 = 0"
+    },
+    {
+      "question": "[Rapid] Francais: Indiquez les coordonnees du point P place en box 2. Identify the text inside.",
+      "answer": "8 cm"
+    },
+    {
+      "question": "[Practice] Turkce: box 3 konumundaki P noktasinin koordinatlarini yaz. Identify the text inside.",
+      "answer": "7 + 6 = 13"
+    },
+    {
+      "question": "[Note] Nederlands: Geef de coordinaten van punt P op box 5. Identify the text inside.",
+      "answer": "12 - 8 = 4"
+    }
+  ],
+  "question": "[Explain] Dansk: Angiv koordinaterne for punkt P ved box 1. Identify the text inside.",
+  "answer": "0 / 1 = 0",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "0 / 1 = 0",
+      "bbox": [
+        18,
+        95,
+        96,
+        112
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "8 cm",
+      "bbox": [
+        66,
+        197,
+        115,
+        210
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "7 + 6 = 13",
+      "bbox": [
+        110,
+        65,
+        198,
+        85
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "12 - 8 = 4",
+      "bbox": [
+        136,
+        160,
+        240,
+        180
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        67,
+        103,
+        130,
+        183
+      ],
+      "area": 5040,
+      "perimeter": 286,
+      "width": 63,
+      "height": 80,
+      "diagonal": 101.83
+    }
+  ],
+  "image": "geometry_00197.png",
+  "question": "[Calm] Espanol: Halla area y perimetro del rectangulo de ancho 63 y alto 80.",
+  "answer": "area=5040, perimeter=286",
+  "qas": [
+    {
+      "question": "[Calm] Espanol: Halla area y perimetro del rectangulo de ancho 63 y alto 80.",
+      "answer": "area=5040, perimeter=286"
+    },
+    {
+      "question": "[Calm] Espanol: Halla area y perimetro del rectangulo de ancho 63 y alto 80. Focus on the area value.",
+      "answer": "area=5040"
+    },
+    {
+      "question": "[Calm] Espanol: Halla area y perimetro del rectangulo de ancho 63 y alto 80. Give the diagonal length.",
+      "answer": "diagonal=101.83"
+    }
+  ]
+}

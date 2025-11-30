@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        90,
+        77,
+        174,
+        162
+      ],
+      "area": 7140,
+      "perimeter": 338,
+      "width": 84,
+      "height": 85,
+      "diagonal": 119.5
+    }
+  ],
+  "image": "geometry_00333.png",
+  "question": "[Detailed] Dansk: Beregn areal og omkreds af rektanglet med bredde 84 og hojde 85.",
+  "answer": "area=7140, perimeter=338",
+  "qas": [
+    {
+      "question": "[Detailed] Dansk: Beregn areal og omkreds af rektanglet med bredde 84 og hojde 85.",
+      "answer": "area=7140, perimeter=338"
+    },
+    {
+      "question": "[Detailed] Dansk: Beregn areal og omkreds af rektanglet med bredde 84 og hojde 85. Focus on the area value.",
+      "answer": "area=7140"
+    },
+    {
+      "question": "[Detailed] Dansk: Beregn areal og omkreds af rektanglet med bredde 84 og hojde 85. Give the diagonal length.",
+      "answer": "diagonal=119.50"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "image": "chart_00207.png",
+  "question": "[Practice] Nederlands: Bepaal the slope of the noisy line van de getekende lijn.",
+  "answer": "slope=0.5",
+  "chart": {
+    "type": "line_plot",
+    "slope": 0.5,
+    "intercept": 0.06
+  },
+  "qas": [
+    {
+      "question": "[Practice] Nederlands: Bepaal the slope of the noisy line van de getekende lijn.",
+      "answer": "slope=0.5"
+    },
+    {
+      "question": "[Review] Dansk: Giv the intercept of the noisy line for den viste linje.",
+      "answer": "intercept=0.06"
+    },
+    {
+      "question": "[Rapid] Espanol: Identifica the value of y when x equals 1 para la recta dibujada.",
+      "answer": "y=0.56"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "image": "chart_00080.png",
+  "question": "[Explain] Turkce: Histograma gore which integer bin occurs most frequently belirt.",
+  "answer": "mode=6",
+  "chart": {
+    "type": "histogram",
+    "counts": [
+      14,
+      22,
+      22,
+      16,
+      17,
+      19,
+      26,
+      25,
+      19,
+      20
+    ],
+    "bins": [
+      -0.5,
+      0.5,
+      1.5,
+      2.5,
+      3.5,
+      4.5,
+      5.5,
+      6.5,
+      7.5,
+      8.5,
+      9.5
+    ],
+    "max_bin_index": 6
+  },
+  "qas": [
+    {
+      "question": "[Explain] Turkce: Histograma gore which integer bin occurs most frequently belirt.",
+      "answer": "mode=6"
+    },
+    {
+      "question": "[Rapid] Italiano: Riporta how many samples were used in total dal istogramma.",
+      "answer": "count=200"
+    },
+    {
+      "question": "[Explain] Turkce: Histograma gore how many entries fall inside the modal bin belirt.",
+      "answer": "max_bin_count=26"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          132,
+          153
+        ],
+        [
+          141,
+          98
+        ]
+      ],
+      "length": 55.73,
+      "midpoint": [
+        136.5,
+        125.5
+      ],
+      "length_squared": 3106.0
+    }
+  ],
+  "image": "geometry_00203.png",
+  "question": "[Detailed] English: Measure the length of segment from (132, 153) to (141, 98).",
+  "answer": "length=55.73",
+  "qas": [
+    {
+      "question": "[Detailed] English: Measure the length of segment from (132, 153) to (141, 98).",
+      "answer": "length=55.73"
+    },
+    {
+      "question": "[Detailed] English: Measure the length of segment from (132, 153) to (141, 98). Provide the squared length.",
+      "answer": "length_squared=3106.00"
+    },
+    {
+      "question": "[Detailed] English: Measure the length of segment from (132, 153) to (141, 98). Provide the midpoint.",
+      "answer": "midpoint=(136.50,125.50)"
+    }
+  ]
+}

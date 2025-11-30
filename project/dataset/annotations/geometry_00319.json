@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          127,
+          109
+        ],
+        [
+          63,
+          61
+        ],
+        [
+          187,
+          139
+        ]
+      ],
+      "area": 480.0,
+      "perimeter": 293.57
+    }
+  ],
+  "image": "geometry_00319.png",
+  "question": "[Explain] Italiano: Calcola area e perimetro del triangolo con vertici (127, 109), (63, 61), (187, 139).",
+  "answer": "area=480.00, perimeter=293.57",
+  "qas": [
+    {
+      "question": "[Explain] Italiano: Calcola area e perimetro del triangolo con vertici (127, 109), (63, 61), (187, 139).",
+      "answer": "area=480.00, perimeter=293.57"
+    },
+    {
+      "question": "[Calm] Italiano: Calcola area e perimetro del triangolo con vertici (127, 109), (63, 61), (187, 139). Provide only the area.",
+      "answer": "area=480.00"
+    },
+    {
+      "question": "[Detailed] Dansk: Udregn areal og omkreds for trekanten med punkterne (127, 109), (63, 61), (187, 139). Provide only the perimeter.",
+      "answer": "perimeter=293.57"
+    }
+  ]
+}

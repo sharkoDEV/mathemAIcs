@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          155,
+          33
+        ],
+        [
+          189,
+          95
+        ]
+      ],
+      "length": 70.71,
+      "midpoint": [
+        172.0,
+        64.0
+      ],
+      "length_squared": 5000.0
+    }
+  ],
+  "image": "geometry_00341.png",
+  "question": "[Challenge] Espanol: Calcula la longitud del segmento entre (155, 33) y (189, 95).",
+  "answer": "length=70.71",
+  "qas": [
+    {
+      "question": "[Challenge] Espanol: Calcula la longitud del segmento entre (155, 33) y (189, 95).",
+      "answer": "length=70.71"
+    },
+    {
+      "question": "[Challenge] Espanol: Calcula la longitud del segmento entre (155, 33) y (189, 95). Provide the squared length.",
+      "answer": "length_squared=5000.00"
+    },
+    {
+      "question": "[Challenge] Espanol: Calcula la longitud del segmento entre (155, 33) y (189, 95). Provide the midpoint.",
+      "answer": "midpoint=(172.00,64.00)"
+    }
+  ]
+}

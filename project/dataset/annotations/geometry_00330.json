@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        49,
+        114,
+        117,
+        180
+      ],
+      "area": 4488,
+      "perimeter": 268,
+      "width": 68,
+      "height": 66,
+      "diagonal": 94.76
+    }
+  ],
+  "image": "geometry_00330.png",
+  "question": "[Brief] Portugues: Informe area e perimetro do retangulo de largura 68 e altura 66.",
+  "answer": "area=4488, perimeter=268",
+  "qas": [
+    {
+      "question": "[Brief] Portugues: Informe area e perimetro do retangulo de largura 68 e altura 66.",
+      "answer": "area=4488, perimeter=268"
+    },
+    {
+      "question": "[Brief] Portugues: Informe area e perimetro do retangulo de largura 68 e altura 66. Focus on the area value.",
+      "answer": "area=4488"
+    },
+    {
+      "question": "[Brief] Portugues: Informe area e perimetro do retangulo de largura 68 e altura 66. Give the diagonal length.",
+      "answer": "diagonal=94.76"
+    }
+  ]
+}

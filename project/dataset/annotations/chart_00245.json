@@ -1,0 +1,38 @@
+{
+  "image": "chart_00245.png",
+  "question": "[Practice] Norsk: Oppgi which category has the highest bar fra stolpediagrammet.",
+  "answer": "B",
+  "chart": {
+    "type": "bar_chart",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "values": [
+      7,
+      13,
+      9,
+      3,
+      2
+    ],
+    "max_category": "B",
+    "min_category": "E"
+  },
+  "qas": [
+    {
+      "question": "[Practice] Norsk: Oppgi which category has the highest bar fra stolpediagrammet.",
+      "answer": "B"
+    },
+    {
+      "question": "[Focus] Francais: Donnez which category has the lowest bar depuis le diagramme en barres.",
+      "answer": "E"
+    },
+    {
+      "question": "[Calm] Francais: Donnez what is the difference between the tallest and shortest bars depuis le diagramme en barres.",
+      "answer": "diff=11"
+    }
+  ]
+}

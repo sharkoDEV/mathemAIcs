@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          98,
+          42
+        ],
+        [
+          105,
+          42
+        ],
+        [
+          53,
+          56
+        ]
+      ],
+      "area": 49.0,
+      "perimeter": 107.98
+    }
+  ],
+  "image": "geometry_00074.png",
+  "question": "[Calm] Espanol: Calcula el area y el perimetro del triangulo con vertices (98, 42), (105, 42), (53, 56).",
+  "answer": "area=49.00, perimeter=107.98",
+  "qas": [
+    {
+      "question": "[Calm] Espanol: Calcula el area y el perimetro del triangulo con vertices (98, 42), (105, 42), (53, 56).",
+      "answer": "area=49.00, perimeter=107.98"
+    },
+    {
+      "question": "[Check] Turkce: (98, 42), (105, 42), (53, 56) noktalarindan olusan ucgenin alanini ve cevresini hesapla. Provide only the area.",
+      "answer": "area=49.00"
+    },
+    {
+      "question": "[Brief] Turkce: (98, 42), (105, 42), (53, 56) noktalarindan olusan ucgenin alanini ve cevresini hesapla. Provide only the perimeter.",
+      "answer": "perimeter=107.98"
+    }
+  ]
+}

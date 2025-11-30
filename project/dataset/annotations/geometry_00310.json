@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          111,
+          69
+        ],
+        [
+          91,
+          94
+        ],
+        [
+          65,
+          118
+        ]
+      ],
+      "area": 85.0,
+      "perimeter": 134.61
+    }
+  ],
+  "image": "geometry_00310.png",
+  "question": "[Check] Deutsch: Berechne Flaeche und Umfang des Dreiecks mit Punkten (111, 69), (91, 94), (65, 118).",
+  "answer": "area=85.00, perimeter=134.61",
+  "qas": [
+    {
+      "question": "[Check] Deutsch: Berechne Flaeche und Umfang des Dreiecks mit Punkten (111, 69), (91, 94), (65, 118).",
+      "answer": "area=85.00, perimeter=134.61"
+    },
+    {
+      "question": "[Note] Espanol: Calcula el area y el perimetro del triangulo con vertices (111, 69), (91, 94), (65, 118). Provide only the area.",
+      "answer": "area=85.00"
+    },
+    {
+      "question": "[Explain] Portugues: Calcule a area e o perimetro do triangulo definido por (111, 69), (91, 94), (65, 118). Provide only the perimeter.",
+      "answer": "perimeter=134.61"
+    }
+  ]
+}

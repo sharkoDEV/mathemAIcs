@@ -1,0 +1,38 @@
+{
+  "image": "chart_00375.png",
+  "question": "[Challenge] Polski: Podaj which category has the highest bar z wykresu slupkowego.",
+  "answer": "B",
+  "chart": {
+    "type": "bar_chart",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "values": [
+      4,
+      14,
+      14,
+      11,
+      9
+    ],
+    "max_category": "B",
+    "min_category": "A"
+  },
+  "qas": [
+    {
+      "question": "[Challenge] Polski: Podaj which category has the highest bar z wykresu slupkowego.",
+      "answer": "B"
+    },
+    {
+      "question": "[Brief] Nederlands: Geef which category has the lowest bar vanuit het staafdiagram.",
+      "answer": "A"
+    },
+    {
+      "question": "[Detailed] Espanol: Indica what is the difference between the tallest and shortest bars del grafico de barras.",
+      "answer": "diff=10"
+    }
+  ]
+}

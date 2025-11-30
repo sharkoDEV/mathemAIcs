@@ -1,0 +1,24 @@
+{
+  "image": "chart_00012.png",
+  "question": "[Challenge] Svenska: Ange the slope of the noisy line for linjen i diagrammet.",
+  "answer": "slope=-1",
+  "chart": {
+    "type": "line_plot",
+    "slope": -1,
+    "intercept": 0.3
+  },
+  "qas": [
+    {
+      "question": "[Challenge] Svenska: Ange the slope of the noisy line for linjen i diagrammet.",
+      "answer": "slope=-1"
+    },
+    {
+      "question": "[Detailed] Turkce: Cizilen dogru icin the intercept of the noisy line belirt.",
+      "answer": "intercept=0.30"
+    },
+    {
+      "question": "[Note] Deutsch: Bestimme the value of y when x equals 1 der dargestellten Gerade.",
+      "answer": "y=-0.70"
+    }
+  ]
+}

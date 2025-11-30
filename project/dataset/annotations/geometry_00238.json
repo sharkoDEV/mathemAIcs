@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          210,
+          199
+        ],
+        [
+          82,
+          111
+        ]
+      ],
+      "length": 155.33,
+      "midpoint": [
+        146.0,
+        155.0
+      ],
+      "length_squared": 24128.0
+    }
+  ],
+  "image": "geometry_00238.png",
+  "question": "[Review] Portugues: Encontre o comprimento do segmento que liga (210, 199) a (82, 111).",
+  "answer": "length=155.33",
+  "qas": [
+    {
+      "question": "[Review] Portugues: Encontre o comprimento do segmento que liga (210, 199) a (82, 111).",
+      "answer": "length=155.33"
+    },
+    {
+      "question": "[Review] Portugues: Encontre o comprimento do segmento que liga (210, 199) a (82, 111). Provide the squared length.",
+      "answer": "length_squared=24128.00"
+    },
+    {
+      "question": "[Review] Portugues: Encontre o comprimento do segmento que liga (210, 199) a (82, 111). Provide the midpoint.",
+      "answer": "midpoint=(146.00,155.00)"
+    }
+  ]
+}

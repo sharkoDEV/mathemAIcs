@@ -1,0 +1,49 @@
+{
+  "objects": [
+    {
+      "type": "polygon",
+      "points": [
+        [
+          103,
+          124
+        ],
+        [
+          108,
+          51
+        ],
+        [
+          148,
+          160
+        ],
+        [
+          121,
+          102
+        ],
+        [
+          86,
+          183
+        ]
+      ],
+      "vertices": 5,
+      "area": 1257.5,
+      "perimeter": 402.89
+    }
+  ],
+  "image": "geometry_00117.png",
+  "question": "[Focus] Espanol: Determina area y perimetro del poligono que pasa por (103, 124), (108, 51), (148, 160), (121, 102), (86, 183).",
+  "answer": "area=1257.50, perimeter=402.89",
+  "qas": [
+    {
+      "question": "[Focus] Espanol: Determina area y perimetro del poligono que pasa por (103, 124), (108, 51), (148, 160), (121, 102), (86, 183).",
+      "answer": "area=1257.50, perimeter=402.89"
+    },
+    {
+      "question": "[Focus] Espanol: Determina area y perimetro del poligono que pasa por (103, 124), (108, 51), (148, 160), (121, 102), (86, 183). Respond only with the area.",
+      "answer": "area=1257.50"
+    },
+    {
+      "question": "[Focus] Espanol: Determina area y perimetro del poligono que pasa por (103, 124), (108, 51), (148, 160), (121, 102), (86, 183). Respond only with the number of vertices.",
+      "answer": "vertices=5"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "image": "textpanel_00030.png",
+  "text_boxes": [
+    {
+      "text": "7 * 9 + 7 - 3 = 67",
+      "bbox": [
+        65,
+        122,
+        191,
+        132
+      ],
+      "font": "WINGDNG3.TTF",
+      "color": [
+        70,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "2 + 2 - 4 - 2 = -2",
+      "bbox": [
+        30,
+        208,
+        187,
+        226
+      ],
+      "font": "Candara.ttf",
+      "color": [
+        40,
+        40,
+        80
+      ]
+    },
+    {
+      "text": "11 + 3 * 1 * 3 = 42",
+      "bbox": [
+        9,
+        85,
+        142,
+        97
+      ],
+      "font": "himalaya.ttf",
+      "color": [
+        20,
+        20,
+        20
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Explain] Italiano: Specifica le coordinate del punto P in box 1. Identify the text inside.",
+      "answer": "7 * 9 + 7 - 3 = 67"
+    },
+    {
+      "question": "[Detailed] Francais: Indiquez les coordonnees du point P place en box 2. Identify the text inside.",
+      "answer": "2 + 2 - 4 - 2 = -2"
+    },
+    {
+      "question": "[Explain] Portugues: Informe as coordenadas do ponto P situado em box 3. Identify the text inside.",
+      "answer": "11 + 3 * 1 * 3 = 42"
+    }
+  ],
+  "question": "[Explain] Italiano: Specifica le coordinate del punto P in box 1. Identify the text inside.",
+  "answer": "7 * 9 + 7 - 3 = 67",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "7 * 9 + 7 - 3 = 67",
+      "bbox": [
+        65,
+        122,
+        191,
+        132
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "2 + 2 - 4 - 2 = -2",
+      "bbox": [
+        30,
+        208,
+        187,
+        226
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "11 + 3 * 1 * 3 = 42",
+      "bbox": [
+        9,
+        85,
+        142,
+        97
+      ]
+    }
+  ]
+}

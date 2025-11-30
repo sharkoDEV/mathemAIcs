@@ -1,0 +1,45 @@
+{
+  "objects": [
+    {
+      "type": "polygon",
+      "points": [
+        [
+          192,
+          199
+        ],
+        [
+          64,
+          66
+        ],
+        [
+          127,
+          191
+        ],
+        [
+          205,
+          142
+        ]
+      ],
+      "vertices": 4,
+      "area": 1906.0,
+      "perimeter": 475.15
+    }
+  ],
+  "image": "geometry_00139.png",
+  "question": "[Calm] Svenska: Ange area och omkrets for polygonen med punkterna (192, 199), (64, 66), (127, 191), (205, 142).",
+  "answer": "area=1906.00, perimeter=475.15",
+  "qas": [
+    {
+      "question": "[Calm] Svenska: Ange area och omkrets for polygonen med punkterna (192, 199), (64, 66), (127, 191), (205, 142).",
+      "answer": "area=1906.00, perimeter=475.15"
+    },
+    {
+      "question": "[Calm] Svenska: Ange area och omkrets for polygonen med punkterna (192, 199), (64, 66), (127, 191), (205, 142). Respond only with the area.",
+      "answer": "area=1906.00"
+    },
+    {
+      "question": "[Calm] Svenska: Ange area och omkrets for polygonen med punkterna (192, 199), (64, 66), (127, 191), (205, 142). Respond only with the number of vertices.",
+      "answer": "vertices=4"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          86,
+          145
+        ],
+        [
+          106,
+          117
+        ],
+        [
+          74,
+          168
+        ]
+      ],
+      "area": 62.0,
+      "perimeter": 120.56
+    }
+  ],
+  "image": "geometry_00128.png",
+  "question": "[Calm] Nederlands: Bepaal oppervlakte en omtrek van de driehoek met punten (86, 145), (106, 117), (74, 168).",
+  "answer": "area=62.00, perimeter=120.56",
+  "qas": [
+    {
+      "question": "[Calm] Nederlands: Bepaal oppervlakte en omtrek van de driehoek met punten (86, 145), (106, 117), (74, 168).",
+      "answer": "area=62.00, perimeter=120.56"
+    },
+    {
+      "question": "[Explain] Deutsch: Berechne Flaeche und Umfang des Dreiecks mit Punkten (86, 145), (106, 117), (74, 168). Provide only the area.",
+      "answer": "area=62.00"
+    },
+    {
+      "question": "[Study] Nederlands: Bepaal oppervlakte en omtrek van de driehoek met punten (86, 145), (106, 117), (74, 168). Provide only the perimeter.",
+      "answer": "perimeter=120.56"
+    }
+  ]
+}

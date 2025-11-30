@@ -1,0 +1,38 @@
+{
+  "image": "chart_00036.png",
+  "question": "[Challenge] Svenska: Redovisa which category has the highest bar fran stapeldiagrammet.",
+  "answer": "E",
+  "chart": {
+    "type": "bar_chart",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "values": [
+      2,
+      6,
+      12,
+      2,
+      15
+    ],
+    "max_category": "E",
+    "min_category": "A"
+  },
+  "qas": [
+    {
+      "question": "[Challenge] Svenska: Redovisa which category has the highest bar fran stapeldiagrammet.",
+      "answer": "E"
+    },
+    {
+      "question": "[Calm] Nederlands: Geef which category has the lowest bar vanuit het staafdiagram.",
+      "answer": "A"
+    },
+    {
+      "question": "[Explain] Deutsch: Teile what is the difference between the tallest and shortest bars aus dem Balkendiagramm mit.",
+      "answer": "diff=13"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          43,
+          91
+        ],
+        [
+          178,
+          115
+        ]
+      ],
+      "length": 137.12,
+      "midpoint": [
+        110.5,
+        103.0
+      ],
+      "length_squared": 18801.0
+    }
+  ],
+  "image": "geometry_00270.png",
+  "question": "[Check] Nederlands: Bepaal de lengte van het lijnstuk tussen (43, 91) en (178, 115).",
+  "answer": "length=137.12",
+  "qas": [
+    {
+      "question": "[Check] Nederlands: Bepaal de lengte van het lijnstuk tussen (43, 91) en (178, 115).",
+      "answer": "length=137.12"
+    },
+    {
+      "question": "[Check] Nederlands: Bepaal de lengte van het lijnstuk tussen (43, 91) en (178, 115). Provide the squared length.",
+      "answer": "length_squared=18801.00"
+    },
+    {
+      "question": "[Check] Nederlands: Bepaal de lengte van het lijnstuk tussen (43, 91) en (178, 115). Provide the midpoint.",
+      "answer": "midpoint=(110.50,103.00)"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "image": "chart_00182.png",
+  "question": "[Detailed] Norsk: Oppgi the slope of the noisy line for linjen som vises.",
+  "answer": "slope=1",
+  "chart": {
+    "type": "line_plot",
+    "slope": 1,
+    "intercept": -1.0
+  },
+  "qas": [
+    {
+      "question": "[Detailed] Norsk: Oppgi the slope of the noisy line for linjen som vises.",
+      "answer": "slope=1"
+    },
+    {
+      "question": "[Review] Portugues: Indique the intercept of the noisy line da linha representada.",
+      "answer": "intercept=-1.00"
+    },
+    {
+      "question": "[Brief] Italiano: Individua the value of y when x equals 1 della retta disegnata.",
+      "answer": "y=0.00"
+    }
+  ]
+}

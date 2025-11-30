@@ -1,0 +1,45 @@
+{
+  "objects": [
+    {
+      "type": "polygon",
+      "points": [
+        [
+          59,
+          161
+        ],
+        [
+          204,
+          134
+        ],
+        [
+          122,
+          114
+        ],
+        [
+          200,
+          84
+        ]
+      ],
+      "vertices": 4,
+      "area": 1669.0,
+      "perimeter": 476.12
+    }
+  ],
+  "image": "geometry_00049.png",
+  "question": "[Review] Norsk: Finn areal og omkrets for polygonet med punktene (59, 161), (204, 134), (122, 114), (200, 84).",
+  "answer": "area=1669.00, perimeter=476.12",
+  "qas": [
+    {
+      "question": "[Review] Norsk: Finn areal og omkrets for polygonet med punktene (59, 161), (204, 134), (122, 114), (200, 84).",
+      "answer": "area=1669.00, perimeter=476.12"
+    },
+    {
+      "question": "[Review] Norsk: Finn areal og omkrets for polygonet med punktene (59, 161), (204, 134), (122, 114), (200, 84). Respond only with the area.",
+      "answer": "area=1669.00"
+    },
+    {
+      "question": "[Review] Norsk: Finn areal og omkrets for polygonet med punktene (59, 161), (204, 134), (122, 114), (200, 84). Respond only with the number of vertices.",
+      "answer": "vertices=4"
+    }
+  ]
+}

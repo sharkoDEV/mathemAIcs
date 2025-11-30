@@ -1,0 +1,24 @@
+{
+  "image": "chart_00078.png",
+  "question": "[Practice] Italiano: Individua the slope of the noisy line della retta disegnata.",
+  "answer": "slope=0.5",
+  "chart": {
+    "type": "line_plot",
+    "slope": 0.5,
+    "intercept": -0.56
+  },
+  "qas": [
+    {
+      "question": "[Practice] Italiano: Individua the slope of the noisy line della retta disegnata.",
+      "answer": "slope=0.5"
+    },
+    {
+      "question": "[Explain] English: Identify the intercept of the noisy line for the plotted line.",
+      "answer": "intercept=-0.56"
+    },
+    {
+      "question": "[Note] Deutsch: Bestimme the value of y when x equals 1 der dargestellten Gerade.",
+      "answer": "y=-0.06"
+    }
+  ]
+}

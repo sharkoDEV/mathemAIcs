@@ -1,0 +1,98 @@
+{
+  "image": "textpanel_00026.png",
+  "text_boxes": [
+    {
+      "text": "4 - 11 = -7",
+      "bbox": [
+        78,
+        207,
+        225,
+        224
+      ],
+      "font": "BOD_BLAI.TTF",
+      "color": [
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "P(A) = 0.35",
+      "bbox": [
+        107,
+        52,
+        245,
+        71
+      ],
+      "font": "COPRGTB.TTF",
+      "color": [
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "8 - 2 + 6 - 1 = 11",
+      "bbox": [
+        101,
+        139,
+        213,
+        151
+      ],
+      "font": "phagspa.ttf",
+      "color": [
+        40,
+        40,
+        80
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Study] Francais: Indiquez les coordonnees du point P place en box 1. Identify the text inside.",
+      "answer": "4 - 11 = -7"
+    },
+    {
+      "question": "[Study] English: Identify the coordinates of point P shown at box 2. Identify the text inside.",
+      "answer": "P(A) = 0.35"
+    },
+    {
+      "question": "[Practice] Espanol: Menciona las coordenadas del punto P en box 3. Identify the text inside.",
+      "answer": "8 - 2 + 6 - 1 = 11"
+    }
+  ],
+  "question": "[Study] Francais: Indiquez les coordonnees du point P place en box 1. Identify the text inside.",
+  "answer": "4 - 11 = -7",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "4 - 11 = -7",
+      "bbox": [
+        78,
+        207,
+        225,
+        224
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "P(A) = 0.35",
+      "bbox": [
+        107,
+        52,
+        245,
+        71
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "8 - 2 + 6 - 1 = 11",
+      "bbox": [
+        101,
+        139,
+        213,
+        151
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "circle",
+      "center": [
+        88,
+        94
+      ],
+      "radius": 26,
+      "area": 2123.72,
+      "circumference": 163.36,
+      "diameter": 52
+    }
+  ],
+  "image": "geometry_00361.png",
+  "question": "[Detailed] Portugues: Diga area e circunferencia do circulo de raio 26.",
+  "answer": "area=2123.72, circumference=163.36",
+  "qas": [
+    {
+      "question": "[Detailed] Portugues: Diga area e circunferencia do circulo de raio 26.",
+      "answer": "area=2123.72, circumference=163.36"
+    },
+    {
+      "question": "[Detailed] Portugues: Diga area e circunferencia do circulo de raio 26. Provide only the area.",
+      "answer": "area=2123.72"
+    },
+    {
+      "question": "[Detailed] Portugues: Diga area e circunferencia do circulo de raio 26. Provide only the diameter.",
+      "answer": "diameter=52"
+    }
+  ]
+}

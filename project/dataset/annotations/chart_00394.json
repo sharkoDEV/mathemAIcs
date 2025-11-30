@@ -1,0 +1,38 @@
+{
+  "image": "chart_00394.png",
+  "question": "[Explain] Dansk: Angiv which category has the highest bar fra sojlediagrammet.",
+  "answer": "A",
+  "chart": {
+    "type": "bar_chart",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "values": [
+      12,
+      4,
+      6,
+      4,
+      9
+    ],
+    "max_category": "A",
+    "min_category": "B"
+  },
+  "qas": [
+    {
+      "question": "[Explain] Dansk: Angiv which category has the highest bar fra sojlediagrammet.",
+      "answer": "A"
+    },
+    {
+      "question": "[Review] Italiano: Comunica which category has the lowest bar dal grafico a barre.",
+      "answer": "B"
+    },
+    {
+      "question": "[Explain] Dansk: Angiv what is the difference between the tallest and shortest bars fra sojlediagrammet.",
+      "answer": "diff=8"
+    }
+  ]
+}

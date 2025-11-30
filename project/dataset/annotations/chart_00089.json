@@ -1,0 +1,48 @@
+{
+  "image": "chart_00089.png",
+  "question": "[Explain] Norsk: Oppgi which integer bin occurs most frequently basert pa histogrammet.",
+  "answer": "mode=8",
+  "chart": {
+    "type": "histogram",
+    "counts": [
+      18,
+      24,
+      22,
+      16,
+      14,
+      24,
+      15,
+      19,
+      25,
+      23
+    ],
+    "bins": [
+      -0.5,
+      0.5,
+      1.5,
+      2.5,
+      3.5,
+      4.5,
+      5.5,
+      6.5,
+      7.5,
+      8.5,
+      9.5
+    ],
+    "max_bin_index": 8
+  },
+  "qas": [
+    {
+      "question": "[Explain] Norsk: Oppgi which integer bin occurs most frequently basert pa histogrammet.",
+      "answer": "mode=8"
+    },
+    {
+      "question": "[Explain] Nederlands: Meld how many samples were used in total vanuit het histogram.",
+      "answer": "count=200"
+    },
+    {
+      "question": "[Challenge] Nederlands: Meld how many entries fall inside the modal bin vanuit het histogram.",
+      "answer": "max_bin_count=25"
+    }
+  ]
+}

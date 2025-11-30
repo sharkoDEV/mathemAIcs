@@ -1,0 +1,49 @@
+{
+  "objects": [
+    {
+      "type": "polygon",
+      "points": [
+        [
+          178,
+          129
+        ],
+        [
+          41,
+          112
+        ],
+        [
+          110,
+          120
+        ],
+        [
+          128,
+          87
+        ],
+        [
+          117,
+          193
+        ]
+      ],
+      "vertices": 5,
+      "area": 1639.5,
+      "perimeter": 440.09
+    }
+  ],
+  "image": "geometry_00297.png",
+  "question": "[Explain] English: Determine area and perimeter for the polygon passing through (178, 129), (41, 112), (110, 120), (128, 87), (117, 193).",
+  "answer": "area=1639.50, perimeter=440.09",
+  "qas": [
+    {
+      "question": "[Explain] English: Determine area and perimeter for the polygon passing through (178, 129), (41, 112), (110, 120), (128, 87), (117, 193).",
+      "answer": "area=1639.50, perimeter=440.09"
+    },
+    {
+      "question": "[Explain] English: Determine area and perimeter for the polygon passing through (178, 129), (41, 112), (110, 120), (128, 87), (117, 193). Respond only with the area.",
+      "answer": "area=1639.50"
+    },
+    {
+      "question": "[Explain] English: Determine area and perimeter for the polygon passing through (178, 129), (41, 112), (110, 120), (128, 87), (117, 193). Respond only with the number of vertices.",
+      "answer": "vertices=5"
+    }
+  ]
+}

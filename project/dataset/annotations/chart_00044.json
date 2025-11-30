@@ -1,0 +1,24 @@
+{
+  "image": "chart_00044.png",
+  "question": "[Detailed] Deutsch: Bestimme the slope of the noisy line der dargestellten Gerade.",
+  "answer": "slope=0.5",
+  "chart": {
+    "type": "line_plot",
+    "slope": 0.5,
+    "intercept": -0.2
+  },
+  "qas": [
+    {
+      "question": "[Detailed] Deutsch: Bestimme the slope of the noisy line der dargestellten Gerade.",
+      "answer": "slope=0.5"
+    },
+    {
+      "question": "[Practice] Norsk: Oppgi the intercept of the noisy line for linjen som vises.",
+      "answer": "intercept=-0.20"
+    },
+    {
+      "question": "[Focus] Francais: Identifiez the value of y when x equals 1 pour la droite tracee.",
+      "answer": "y=0.30"
+    }
+  ]
+}

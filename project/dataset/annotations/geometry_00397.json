@@ -1,0 +1,49 @@
+{
+  "objects": [
+    {
+      "type": "polygon",
+      "points": [
+        [
+          124,
+          83
+        ],
+        [
+          147,
+          165
+        ],
+        [
+          126,
+          170
+        ],
+        [
+          150,
+          156
+        ],
+        [
+          159,
+          149
+        ]
+      ],
+      "vertices": 5,
+      "area": 559.0,
+      "perimeter": 220.64
+    }
+  ],
+  "image": "geometry_00397.png",
+  "question": "[Rapid] Polski: Oblicz pole i obwod wielokata o wierzcholkach (124, 83), (147, 165), (126, 170), (150, 156), (159, 149).",
+  "answer": "area=559.00, perimeter=220.64",
+  "qas": [
+    {
+      "question": "[Rapid] Polski: Oblicz pole i obwod wielokata o wierzcholkach (124, 83), (147, 165), (126, 170), (150, 156), (159, 149).",
+      "answer": "area=559.00, perimeter=220.64"
+    },
+    {
+      "question": "[Rapid] Polski: Oblicz pole i obwod wielokata o wierzcholkach (124, 83), (147, 165), (126, 170), (150, 156), (159, 149). Respond only with the area.",
+      "answer": "area=559.00"
+    },
+    {
+      "question": "[Rapid] Polski: Oblicz pole i obwod wielokata o wierzcholkach (124, 83), (147, 165), (126, 170), (150, 156), (159, 149). Respond only with the number of vertices.",
+      "answer": "vertices=5"
+    }
+  ]
+}

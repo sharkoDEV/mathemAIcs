@@ -1,0 +1,45 @@
+{
+  "objects": [
+    {
+      "type": "polygon",
+      "points": [
+        [
+          209,
+          48
+        ],
+        [
+          185,
+          87
+        ],
+        [
+          209,
+          41
+        ],
+        [
+          180,
+          56
+        ]
+      ],
+      "vertices": 4,
+      "area": 17.5,
+      "perimeter": 160.41
+    }
+  ],
+  "image": "geometry_00032.png",
+  "question": "[Note] Svenska: Ange area och omkrets for polygonen med punkterna (209, 48), (185, 87), (209, 41), (180, 56).",
+  "answer": "area=17.50, perimeter=160.41",
+  "qas": [
+    {
+      "question": "[Note] Svenska: Ange area och omkrets for polygonen med punkterna (209, 48), (185, 87), (209, 41), (180, 56).",
+      "answer": "area=17.50, perimeter=160.41"
+    },
+    {
+      "question": "[Note] Svenska: Ange area och omkrets for polygonen med punkterna (209, 48), (185, 87), (209, 41), (180, 56). Respond only with the area.",
+      "answer": "area=17.50"
+    },
+    {
+      "question": "[Note] Svenska: Ange area och omkrets for polygonen med punkterna (209, 48), (185, 87), (209, 41), (180, 56). Respond only with the number of vertices.",
+      "answer": "vertices=4"
+    }
+  ]
+}

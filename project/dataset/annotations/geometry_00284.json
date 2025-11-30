@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          153,
+          172
+        ],
+        [
+          99,
+          170
+        ],
+        [
+          173,
+          134
+        ]
+      ],
+      "area": 1046.0,
+      "perimeter": 179.27
+    }
+  ],
+  "image": "geometry_00284.png",
+  "question": "[Focus] Espanol: Calcula el area y el perimetro del triangulo con vertices (153, 172), (99, 170), (173, 134).",
+  "answer": "area=1046.00, perimeter=179.27",
+  "qas": [
+    {
+      "question": "[Focus] Espanol: Calcula el area y el perimetro del triangulo con vertices (153, 172), (99, 170), (173, 134).",
+      "answer": "area=1046.00, perimeter=179.27"
+    },
+    {
+      "question": "[Challenge] Espanol: Calcula el area y el perimetro del triangulo con vertices (153, 172), (99, 170), (173, 134). Provide only the area.",
+      "answer": "area=1046.00"
+    },
+    {
+      "question": "[Note] Espanol: Calcula el area y el perimetro del triangulo con vertices (153, 172), (99, 170), (173, 134). Provide only the perimeter.",
+      "answer": "perimeter=179.27"
+    }
+  ]
+}

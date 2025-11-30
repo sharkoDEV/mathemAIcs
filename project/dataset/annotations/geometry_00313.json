@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "circle",
+      "center": [
+        180,
+        54
+      ],
+      "radius": 34,
+      "area": 3631.68,
+      "circumference": 213.63,
+      "diameter": 68
+    }
+  ],
+  "image": "geometry_00313.png",
+  "question": "[Focus] Portugues: Diga area e circunferencia do circulo de raio 34.",
+  "answer": "area=3631.68, circumference=213.63",
+  "qas": [
+    {
+      "question": "[Focus] Portugues: Diga area e circunferencia do circulo de raio 34.",
+      "answer": "area=3631.68, circumference=213.63"
+    },
+    {
+      "question": "[Focus] Portugues: Diga area e circunferencia do circulo de raio 34. Provide only the area.",
+      "answer": "area=3631.68"
+    },
+    {
+      "question": "[Focus] Portugues: Diga area e circunferencia do circulo de raio 34. Provide only the diameter.",
+      "answer": "diameter=68"
+    }
+  ]
+}

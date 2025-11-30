@@ -1,0 +1,24 @@
+{
+  "image": "chart_00156.png",
+  "question": "[Brief] Turkce: Cizilen dogru icin the slope of the noisy line belirt.",
+  "answer": "slope=2",
+  "chart": {
+    "type": "line_plot",
+    "slope": 2,
+    "intercept": 0.77
+  },
+  "qas": [
+    {
+      "question": "[Brief] Turkce: Cizilen dogru icin the slope of the noisy line belirt.",
+      "answer": "slope=2"
+    },
+    {
+      "question": "[Study] Svenska: Ange the intercept of the noisy line for linjen i diagrammet.",
+      "answer": "intercept=0.77"
+    },
+    {
+      "question": "[Challenge] Svenska: Ange the value of y when x equals 1 for linjen i diagrammet.",
+      "answer": "y=2.77"
+    }
+  ]
+}

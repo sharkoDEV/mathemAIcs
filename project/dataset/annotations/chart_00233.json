@@ -1,0 +1,38 @@
+{
+  "image": "chart_00233.png",
+  "question": "[Review] Deutsch: Teile which category has the highest bar aus dem Balkendiagramm mit.",
+  "answer": "E",
+  "chart": {
+    "type": "bar_chart",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "values": [
+      8,
+      9,
+      4,
+      12,
+      14
+    ],
+    "max_category": "E",
+    "min_category": "C"
+  },
+  "qas": [
+    {
+      "question": "[Review] Deutsch: Teile which category has the highest bar aus dem Balkendiagramm mit.",
+      "answer": "E"
+    },
+    {
+      "question": "[Focus] Espanol: Indica which category has the lowest bar del grafico de barras.",
+      "answer": "C"
+    },
+    {
+      "question": "[Detailed] English: Tell what is the difference between the tallest and shortest bars from the bar chart.",
+      "answer": "diff=10"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "image": "chart_00364.png",
+  "question": "[Note] English: Identify the slope of the noisy line for the plotted line.",
+  "answer": "slope=-1",
+  "chart": {
+    "type": "line_plot",
+    "slope": -1,
+    "intercept": -0.22
+  },
+  "qas": [
+    {
+      "question": "[Note] English: Identify the slope of the noisy line for the plotted line.",
+      "answer": "slope=-1"
+    },
+    {
+      "question": "[Practice] Norsk: Oppgi the intercept of the noisy line for linjen som vises.",
+      "answer": "intercept=-0.22"
+    },
+    {
+      "question": "[Challenge] Polski: Okresl the value of y when x equals 1 dla narysowanej prostej.",
+      "answer": "y=-1.22"
+    }
+  ]
+}

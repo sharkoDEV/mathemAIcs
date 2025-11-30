@@ -1,0 +1,38 @@
+{
+  "image": "chart_00146.png",
+  "question": "[Calm] Norsk: Oppgi which category has the highest bar fra stolpediagrammet.",
+  "answer": "E",
+  "chart": {
+    "type": "bar_chart",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "values": [
+      2,
+      2,
+      2,
+      11,
+      12
+    ],
+    "max_category": "E",
+    "min_category": "A"
+  },
+  "qas": [
+    {
+      "question": "[Calm] Norsk: Oppgi which category has the highest bar fra stolpediagrammet.",
+      "answer": "E"
+    },
+    {
+      "question": "[Calm] Turkce: Sutun grafiginden which category has the lowest bar bildir.",
+      "answer": "A"
+    },
+    {
+      "question": "[Focus] Dansk: Angiv what is the difference between the tallest and shortest bars fra sojlediagrammet.",
+      "answer": "diff=10"
+    }
+  ]
+}

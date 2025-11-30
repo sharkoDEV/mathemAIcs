@@ -1,0 +1,98 @@
+{
+  "image": "textpanel_00009.png",
+  "text_boxes": [
+    {
+      "text": "60 / 1 = 60",
+      "bbox": [
+        103,
+        152,
+        215,
+        172
+      ],
+      "font": "FRABK.TTF",
+      "color": [
+        70,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "x + y = 12",
+      "bbox": [
+        117,
+        30,
+        230,
+        54
+      ],
+      "font": "PER_____.TTF",
+      "color": [
+        10,
+        90,
+        10
+      ]
+    },
+    {
+      "text": "4 - 9 = -5",
+      "bbox": [
+        55,
+        226,
+        123,
+        239
+      ],
+      "font": "palab.ttf",
+      "color": [
+        10,
+        90,
+        10
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Rapid] Nederlands: Geef de coordinaten van punt P op box 1. Identify the text inside.",
+      "answer": "60 / 1 = 60"
+    },
+    {
+      "question": "[Calm] Francais: Indiquez les coordonnees du point P place en box 2. Identify the text inside.",
+      "answer": "x + y = 12"
+    },
+    {
+      "question": "[Rapid] Polski: Podaj wspolrzedne punktu P w box 3. Identify the text inside.",
+      "answer": "4 - 9 = -5"
+    }
+  ],
+  "question": "[Rapid] Nederlands: Geef de coordinaten van punt P op box 1. Identify the text inside.",
+  "answer": "60 / 1 = 60",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "60 / 1 = 60",
+      "bbox": [
+        103,
+        152,
+        215,
+        172
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "x + y = 12",
+      "bbox": [
+        117,
+        30,
+        230,
+        54
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "4 - 9 = -5",
+      "bbox": [
+        55,
+        226,
+        123,
+        239
+      ]
+    }
+  ]
+}

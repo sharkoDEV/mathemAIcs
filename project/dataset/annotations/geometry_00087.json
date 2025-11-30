@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "circle",
+      "center": [
+        118,
+        179
+      ],
+      "radius": 30,
+      "area": 2827.43,
+      "circumference": 188.5,
+      "diameter": 60
+    }
+  ],
+  "image": "geometry_00087.png",
+  "question": "[Challenge] Polski: Podaj pole i obwod kola o promieniu 30.",
+  "answer": "area=2827.43, circumference=188.50",
+  "qas": [
+    {
+      "question": "[Challenge] Polski: Podaj pole i obwod kola o promieniu 30.",
+      "answer": "area=2827.43, circumference=188.50"
+    },
+    {
+      "question": "[Challenge] Polski: Podaj pole i obwod kola o promieniu 30. Provide only the area.",
+      "answer": "area=2827.43"
+    },
+    {
+      "question": "[Challenge] Polski: Podaj pole i obwod kola o promieniu 30. Provide only the diameter.",
+      "answer": "diameter=60"
+    }
+  ]
+}

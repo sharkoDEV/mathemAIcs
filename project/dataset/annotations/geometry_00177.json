@@ -1,0 +1,53 @@
+{
+  "objects": [
+    {
+      "type": "polygon",
+      "points": [
+        [
+          155,
+          62
+        ],
+        [
+          202,
+          61
+        ],
+        [
+          207,
+          164
+        ],
+        [
+          79,
+          97
+        ],
+        [
+          104,
+          173
+        ],
+        [
+          206,
+          96
+        ]
+      ],
+      "vertices": 6,
+      "area": 186.0,
+      "perimeter": 563.71
+    }
+  ],
+  "image": "geometry_00177.png",
+  "question": "[Note] Deutsch: Bestimme Flaeche und Umfang des Vielecks ueber (155, 62), (202, 61), (207, 164), (79, 97), (104, 173), (206, 96).",
+  "answer": "area=186.00, perimeter=563.71",
+  "qas": [
+    {
+      "question": "[Note] Deutsch: Bestimme Flaeche und Umfang des Vielecks ueber (155, 62), (202, 61), (207, 164), (79, 97), (104, 173), (206, 96).",
+      "answer": "area=186.00, perimeter=563.71"
+    },
+    {
+      "question": "[Note] Deutsch: Bestimme Flaeche und Umfang des Vielecks ueber (155, 62), (202, 61), (207, 164), (79, 97), (104, 173), (206, 96). Respond only with the area.",
+      "answer": "area=186.00"
+    },
+    {
+      "question": "[Note] Deutsch: Bestimme Flaeche und Umfang des Vielecks ueber (155, 62), (202, 61), (207, 164), (79, 97), (104, 173), (206, 96). Respond only with the number of vertices.",
+      "answer": "vertices=6"
+    }
+  ]
+}

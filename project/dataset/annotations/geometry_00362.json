@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          109,
+          125
+        ],
+        [
+          31,
+          152
+        ]
+      ],
+      "length": 82.54,
+      "midpoint": [
+        70.0,
+        138.5
+      ],
+      "length_squared": 6813.0
+    }
+  ],
+  "image": "geometry_00362.png",
+  "question": "[Note] Svenska: Rakna ut langden pa strackan mellan (109, 125) och (31, 152).",
+  "answer": "length=82.54",
+  "qas": [
+    {
+      "question": "[Note] Svenska: Rakna ut langden pa strackan mellan (109, 125) och (31, 152).",
+      "answer": "length=82.54"
+    },
+    {
+      "question": "[Note] Svenska: Rakna ut langden pa strackan mellan (109, 125) och (31, 152). Provide the squared length.",
+      "answer": "length_squared=6813.00"
+    },
+    {
+      "question": "[Note] Svenska: Rakna ut langden pa strackan mellan (109, 125) och (31, 152). Provide the midpoint.",
+      "answer": "midpoint=(70.00,138.50)"
+    }
+  ]
+}

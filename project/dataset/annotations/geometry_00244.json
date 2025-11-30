@@ -1,0 +1,49 @@
+{
+  "objects": [
+    {
+      "type": "polygon",
+      "points": [
+        [
+          79,
+          149
+        ],
+        [
+          167,
+          54
+        ],
+        [
+          83,
+          178
+        ],
+        [
+          186,
+          124
+        ],
+        [
+          155,
+          74
+        ]
+      ],
+      "vertices": 5,
+      "area": 3198.0,
+      "perimeter": 561.17
+    }
+  ],
+  "image": "geometry_00244.png",
+  "question": "[Challenge] Turkce: (79, 149), (167, 54), (83, 178), (186, 124), (155, 74) noktali cokgenin alanini ve cevresini belirt.",
+  "answer": "area=3198.00, perimeter=561.17",
+  "qas": [
+    {
+      "question": "[Challenge] Turkce: (79, 149), (167, 54), (83, 178), (186, 124), (155, 74) noktali cokgenin alanini ve cevresini belirt.",
+      "answer": "area=3198.00, perimeter=561.17"
+    },
+    {
+      "question": "[Challenge] Turkce: (79, 149), (167, 54), (83, 178), (186, 124), (155, 74) noktali cokgenin alanini ve cevresini belirt. Respond only with the area.",
+      "answer": "area=3198.00"
+    },
+    {
+      "question": "[Challenge] Turkce: (79, 149), (167, 54), (83, 178), (186, 124), (155, 74) noktali cokgenin alanini ve cevresini belirt. Respond only with the number of vertices.",
+      "answer": "vertices=5"
+    }
+  ]
+}

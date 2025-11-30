@@ -1,0 +1,38 @@
+{
+  "image": "chart_00054.png",
+  "question": "[Study] Turkce: Sutun grafiginden which category has the highest bar bildir.",
+  "answer": "C",
+  "chart": {
+    "type": "bar_chart",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "values": [
+      10,
+      2,
+      11,
+      7,
+      10
+    ],
+    "max_category": "C",
+    "min_category": "B"
+  },
+  "qas": [
+    {
+      "question": "[Study] Turkce: Sutun grafiginden which category has the highest bar bildir.",
+      "answer": "C"
+    },
+    {
+      "question": "[Note] English: Tell which category has the lowest bar from the bar chart.",
+      "answer": "B"
+    },
+    {
+      "question": "[Check] Portugues: Apresente what is the difference between the tallest and shortest bars do grafico de barras.",
+      "answer": "diff=9"
+    }
+  ]
+}

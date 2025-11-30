@@ -1,0 +1,45 @@
+{
+  "objects": [
+    {
+      "type": "polygon",
+      "points": [
+        [
+          80,
+          155
+        ],
+        [
+          151,
+          116
+        ],
+        [
+          56,
+          132
+        ],
+        [
+          84,
+          71
+        ]
+      ],
+      "vertices": 4,
+      "area": 230.5,
+      "perimeter": 328.56
+    }
+  ],
+  "image": "geometry_00264.png",
+  "question": "[Challenge] Portugues: Calcule area e perimetro do poligono com vertices (80, 155), (151, 116), (56, 132), (84, 71).",
+  "answer": "area=230.50, perimeter=328.56",
+  "qas": [
+    {
+      "question": "[Challenge] Portugues: Calcule area e perimetro do poligono com vertices (80, 155), (151, 116), (56, 132), (84, 71).",
+      "answer": "area=230.50, perimeter=328.56"
+    },
+    {
+      "question": "[Challenge] Portugues: Calcule area e perimetro do poligono com vertices (80, 155), (151, 116), (56, 132), (84, 71). Respond only with the area.",
+      "answer": "area=230.50"
+    },
+    {
+      "question": "[Challenge] Portugues: Calcule area e perimetro do poligono com vertices (80, 155), (151, 116), (56, 132), (84, 71). Respond only with the number of vertices.",
+      "answer": "vertices=4"
+    }
+  ]
+}

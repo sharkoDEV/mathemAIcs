@@ -1,0 +1,38 @@
+{
+  "image": "chart_00127.png",
+  "question": "[Review] Nederlands: Geef which category has the highest bar vanuit het staafdiagram.",
+  "answer": "D",
+  "chart": {
+    "type": "bar_chart",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "values": [
+      5,
+      4,
+      7,
+      15,
+      10
+    ],
+    "max_category": "D",
+    "min_category": "B"
+  },
+  "qas": [
+    {
+      "question": "[Review] Nederlands: Geef which category has the highest bar vanuit het staafdiagram.",
+      "answer": "D"
+    },
+    {
+      "question": "[Study] Norsk: Oppgi which category has the lowest bar fra stolpediagrammet.",
+      "answer": "B"
+    },
+    {
+      "question": "[Study] English: Tell what is the difference between the tallest and shortest bars from the bar chart.",
+      "answer": "diff=11"
+    }
+  ]
+}

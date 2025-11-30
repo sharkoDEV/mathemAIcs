@@ -1,0 +1,24 @@
+{
+  "image": "chart_00162.png",
+  "question": "[Explain] Italiano: Individua the slope of the noisy line della retta disegnata.",
+  "answer": "slope=-1",
+  "chart": {
+    "type": "line_plot",
+    "slope": -1,
+    "intercept": -0.22
+  },
+  "qas": [
+    {
+      "question": "[Explain] Italiano: Individua the slope of the noisy line della retta disegnata.",
+      "answer": "slope=-1"
+    },
+    {
+      "question": "[Check] Svenska: Ange the intercept of the noisy line for linjen i diagrammet.",
+      "answer": "intercept=-0.22"
+    },
+    {
+      "question": "[Explain] Nederlands: Bepaal the value of y when x equals 1 van de getekende lijn.",
+      "answer": "y=-1.22"
+    }
+  ]
+}

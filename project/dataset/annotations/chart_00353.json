@@ -1,0 +1,38 @@
+{
+  "image": "chart_00353.png",
+  "question": "[Focus] Dansk: Angiv which category has the highest bar fra sojlediagrammet.",
+  "answer": "E",
+  "chart": {
+    "type": "bar_chart",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "values": [
+      2,
+      6,
+      2,
+      3,
+      8
+    ],
+    "max_category": "E",
+    "min_category": "A"
+  },
+  "qas": [
+    {
+      "question": "[Focus] Dansk: Angiv which category has the highest bar fra sojlediagrammet.",
+      "answer": "E"
+    },
+    {
+      "question": "[Challenge] Turkce: Sutun grafiginden which category has the lowest bar bildir.",
+      "answer": "A"
+    },
+    {
+      "question": "[Note] Nederlands: Geef what is the difference between the tallest and shortest bars vanuit het staafdiagram.",
+      "answer": "diff=6"
+    }
+  ]
+}

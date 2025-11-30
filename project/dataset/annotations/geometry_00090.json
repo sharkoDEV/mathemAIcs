@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          185,
+          109
+        ],
+        [
+          122,
+          118
+        ]
+      ],
+      "length": 63.64,
+      "midpoint": [
+        153.5,
+        113.5
+      ],
+      "length_squared": 4050.0
+    }
+  ],
+  "image": "geometry_00090.png",
+  "question": "[Review] Polski: Oblicz dlugosc odcinka laczacego (185, 109) i (122, 118).",
+  "answer": "length=63.64",
+  "qas": [
+    {
+      "question": "[Review] Polski: Oblicz dlugosc odcinka laczacego (185, 109) i (122, 118).",
+      "answer": "length=63.64"
+    },
+    {
+      "question": "[Review] Polski: Oblicz dlugosc odcinka laczacego (185, 109) i (122, 118). Provide the squared length.",
+      "answer": "length_squared=4050.00"
+    },
+    {
+      "question": "[Review] Polski: Oblicz dlugosc odcinka laczacego (185, 109) i (122, 118). Provide the midpoint.",
+      "answer": "midpoint=(153.50,113.50)"
+    }
+  ]
+}

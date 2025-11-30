@@ -1,0 +1,45 @@
+{
+  "objects": [
+    {
+      "type": "polygon",
+      "points": [
+        [
+          99,
+          78
+        ],
+        [
+          207,
+          79
+        ],
+        [
+          50,
+          134
+        ],
+        [
+          89,
+          82
+        ]
+      ],
+      "vertices": 4,
+      "area": 3230.5,
+      "perimeter": 350.13
+    }
+  ],
+  "image": "geometry_00287.png",
+  "question": "[Rapid] Polski: Oblicz pole i obwod wielokata o wierzcholkach (99, 78), (207, 79), (50, 134), (89, 82).",
+  "answer": "area=3230.50, perimeter=350.13",
+  "qas": [
+    {
+      "question": "[Rapid] Polski: Oblicz pole i obwod wielokata o wierzcholkach (99, 78), (207, 79), (50, 134), (89, 82).",
+      "answer": "area=3230.50, perimeter=350.13"
+    },
+    {
+      "question": "[Rapid] Polski: Oblicz pole i obwod wielokata o wierzcholkach (99, 78), (207, 79), (50, 134), (89, 82). Respond only with the area.",
+      "answer": "area=3230.50"
+    },
+    {
+      "question": "[Rapid] Polski: Oblicz pole i obwod wielokata o wierzcholkach (99, 78), (207, 79), (50, 134), (89, 82). Respond only with the number of vertices.",
+      "answer": "vertices=4"
+    }
+  ]
+}

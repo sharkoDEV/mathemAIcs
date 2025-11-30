@@ -1,0 +1,38 @@
+{
+  "image": "chart_00384.png",
+  "question": "[Study] English: Tell which category has the highest bar from the bar chart.",
+  "answer": "E",
+  "chart": {
+    "type": "bar_chart",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "values": [
+      11,
+      7,
+      2,
+      7,
+      15
+    ],
+    "max_category": "E",
+    "min_category": "C"
+  },
+  "qas": [
+    {
+      "question": "[Study] English: Tell which category has the highest bar from the bar chart.",
+      "answer": "E"
+    },
+    {
+      "question": "[Focus] Svenska: Redovisa which category has the lowest bar fran stapeldiagrammet.",
+      "answer": "C"
+    },
+    {
+      "question": "[Rapid] Turkce: Sutun grafiginden what is the difference between the tallest and shortest bars bildir.",
+      "answer": "diff=13"
+    }
+  ]
+}

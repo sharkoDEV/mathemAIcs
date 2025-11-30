@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "segment",
+      "points": [
+        [
+          179,
+          162
+        ],
+        [
+          194,
+          141
+        ]
+      ],
+      "length": 25.81,
+      "midpoint": [
+        186.5,
+        151.5
+      ],
+      "length_squared": 666.0
+    }
+  ],
+  "image": "geometry_00375.png",
+  "question": "[Explain] Deutsch: Bestimme die Laenge der Strecke von (179, 162) nach (194, 141).",
+  "answer": "length=25.81",
+  "qas": [
+    {
+      "question": "[Explain] Deutsch: Bestimme die Laenge der Strecke von (179, 162) nach (194, 141).",
+      "answer": "length=25.81"
+    },
+    {
+      "question": "[Explain] Deutsch: Bestimme die Laenge der Strecke von (179, 162) nach (194, 141). Provide the squared length.",
+      "answer": "length_squared=666.00"
+    },
+    {
+      "question": "[Explain] Deutsch: Bestimme die Laenge der Strecke von (179, 162) nach (194, 141). Provide the midpoint.",
+      "answer": "midpoint=(186.50,151.50)"
+    }
+  ]
+}

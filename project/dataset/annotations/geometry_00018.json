@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          94,
+          135
+        ],
+        [
+          49,
+          168
+        ],
+        [
+          182,
+          106
+        ]
+      ],
+      "area": 799.5,
+      "perimeter": 295.2
+    }
+  ],
+  "image": "geometry_00018.png",
+  "question": "[Brief] Francais: Calculez l'aire et le perimetre du triangle forme par (94, 135), (49, 168), (182, 106).",
+  "answer": "area=799.50, perimeter=295.20",
+  "qas": [
+    {
+      "question": "[Brief] Francais: Calculez l'aire et le perimetre du triangle forme par (94, 135), (49, 168), (182, 106).",
+      "answer": "area=799.50, perimeter=295.20"
+    },
+    {
+      "question": "[Brief] Norsk: Finn areal og omkrets for trekanten med punktene (94, 135), (49, 168), (182, 106). Provide only the area.",
+      "answer": "area=799.50"
+    },
+    {
+      "question": "[Review] Francais: Calculez l'aire et le perimetre du triangle forme par (94, 135), (49, 168), (182, 106). Provide only the perimeter.",
+      "answer": "perimeter=295.20"
+    }
+  ]
+}

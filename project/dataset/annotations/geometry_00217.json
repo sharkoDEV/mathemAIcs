@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        59,
+        63,
+        113,
+        110
+      ],
+      "area": 2538,
+      "perimeter": 202,
+      "width": 54,
+      "height": 47,
+      "diagonal": 71.59
+    }
+  ],
+  "image": "geometry_00217.png",
+  "question": "[Check] English: Determine area and perimeter for the rectangle width 54 height 47.",
+  "answer": "area=2538, perimeter=202",
+  "qas": [
+    {
+      "question": "[Check] English: Determine area and perimeter for the rectangle width 54 height 47.",
+      "answer": "area=2538, perimeter=202"
+    },
+    {
+      "question": "[Check] English: Determine area and perimeter for the rectangle width 54 height 47. Focus on the area value.",
+      "answer": "area=2538"
+    },
+    {
+      "question": "[Check] English: Determine area and perimeter for the rectangle width 54 height 47. Give the diagonal length.",
+      "answer": "diagonal=71.59"
+    }
+  ]
+}

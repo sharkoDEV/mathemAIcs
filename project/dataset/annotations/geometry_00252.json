@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "type": "line",
+      "equation": "y=-0.5x+0",
+      "slope": -0.5,
+      "intercept": 0,
+      "value_at_1": -0.5
+    }
+  ],
+  "image": "geometry_00252.png",
+  "question": "[Study] Svenska: Ange lutning och intercept for linjen y=-0.5x+0.",
+  "answer": "slope=-0.5, intercept=0",
+  "qas": [
+    {
+      "question": "[Study] Svenska: Ange lutning och intercept for linjen y=-0.5x+0.",
+      "answer": "slope=-0.5, intercept=0"
+    },
+    {
+      "question": "[Study] Svenska: Ange lutning och intercept for linjen y=-0.5x+0. Provide only the slope.",
+      "answer": "slope=-0.5"
+    },
+    {
+      "question": "[Study] Svenska: Ange lutning och intercept for linjen y=-0.5x+0. Provide the intercept value.",
+      "answer": "intercept=0"
+    },
+    {
+      "question": "[Study] Svenska: Ange lutning och intercept for linjen y=-0.5x+0. Evaluate y when x=1.",
+      "answer": "y=-0.50"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "image": "chart_00161.png",
+  "question": "[Rapid] Portugues: Indique the slope of the noisy line da linha representada.",
+  "answer": "slope=1",
+  "chart": {
+    "type": "line_plot",
+    "slope": 1,
+    "intercept": 0.88
+  },
+  "qas": [
+    {
+      "question": "[Rapid] Portugues: Indique the slope of the noisy line da linha representada.",
+      "answer": "slope=1"
+    },
+    {
+      "question": "[Review] Espanol: Identifica the intercept of the noisy line para la recta dibujada.",
+      "answer": "intercept=0.88"
+    },
+    {
+      "question": "[Review] Dansk: Giv the value of y when x equals 1 for den viste linje.",
+      "answer": "y=1.88"
+    }
+  ]
+}

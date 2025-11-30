@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        105,
+        51,
+        153,
+        94
+      ],
+      "area": 2064,
+      "perimeter": 182,
+      "width": 48,
+      "height": 43,
+      "diagonal": 64.44
+    }
+  ],
+  "image": "geometry_00382.png",
+  "question": "[Explain] Dansk: Beregn areal og omkreds af rektanglet med bredde 48 og hojde 43.",
+  "answer": "area=2064, perimeter=182",
+  "qas": [
+    {
+      "question": "[Explain] Dansk: Beregn areal og omkreds af rektanglet med bredde 48 og hojde 43.",
+      "answer": "area=2064, perimeter=182"
+    },
+    {
+      "question": "[Explain] Dansk: Beregn areal og omkreds af rektanglet med bredde 48 og hojde 43. Focus on the area value.",
+      "answer": "area=2064"
+    },
+    {
+      "question": "[Explain] Dansk: Beregn areal og omkreds af rektanglet med bredde 48 og hojde 43. Give the diagonal length.",
+      "answer": "diagonal=64.44"
+    }
+  ]
+}

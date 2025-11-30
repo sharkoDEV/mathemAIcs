@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          199,
+          157
+        ],
+        [
+          82,
+          181
+        ],
+        [
+          48,
+          188
+        ]
+      ],
+      "area": 1.5,
+      "perimeter": 308.3
+    }
+  ],
+  "image": "geometry_00335.png",
+  "question": "[Calm] Francais: Calculez l'aire et le perimetre du triangle forme par (199, 157), (82, 181), (48, 188).",
+  "answer": "area=1.50, perimeter=308.30",
+  "qas": [
+    {
+      "question": "[Calm] Francais: Calculez l'aire et le perimetre du triangle forme par (199, 157), (82, 181), (48, 188).",
+      "answer": "area=1.50, perimeter=308.30"
+    },
+    {
+      "question": "[Rapid] Espanol: Calcula el area y el perimetro del triangulo con vertices (199, 157), (82, 181), (48, 188). Provide only the area.",
+      "answer": "area=1.50"
+    },
+    {
+      "question": "[Rapid] Svenska: Berakna arean och omkretsen for triangeln med (199, 157), (82, 181), (48, 188). Provide only the perimeter.",
+      "answer": "perimeter=308.30"
+    }
+  ]
+}

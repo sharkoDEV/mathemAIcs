@@ -1,0 +1,24 @@
+{
+  "image": "chart_00240.png",
+  "question": "[Review] Dansk: Giv the slope of the noisy line for den viste linje.",
+  "answer": "slope=-0.5",
+  "chart": {
+    "type": "line_plot",
+    "slope": -0.5,
+    "intercept": 0.47
+  },
+  "qas": [
+    {
+      "question": "[Review] Dansk: Giv the slope of the noisy line for den viste linje.",
+      "answer": "slope=-0.5"
+    },
+    {
+      "question": "[Note] Dansk: Giv the intercept of the noisy line for den viste linje.",
+      "answer": "intercept=0.47"
+    },
+    {
+      "question": "[Review] Dansk: Giv the value of y when x equals 1 for den viste linje.",
+      "answer": "y=-0.03"
+    }
+  ]
+}

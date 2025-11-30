@@ -1,0 +1,35 @@
+{
+  "objects": [
+    {
+      "type": "rectangle",
+      "coordinates": [
+        94,
+        100,
+        149,
+        174
+      ],
+      "area": 4070,
+      "perimeter": 258,
+      "width": 55,
+      "height": 74,
+      "diagonal": 92.2
+    }
+  ],
+  "image": "geometry_00055.png",
+  "question": "[Practice] Italiano: Trova area e perimetro del rettangolo di base 55 e altezza 74.",
+  "answer": "area=4070, perimeter=258",
+  "qas": [
+    {
+      "question": "[Practice] Italiano: Trova area e perimetro del rettangolo di base 55 e altezza 74.",
+      "answer": "area=4070, perimeter=258"
+    },
+    {
+      "question": "[Practice] Italiano: Trova area e perimetro del rettangolo di base 55 e altezza 74. Focus on the area value.",
+      "answer": "area=4070"
+    },
+    {
+      "question": "[Practice] Italiano: Trova area e perimetro del rettangolo di base 55 e altezza 74. Give the diagonal length.",
+      "answer": "diagonal=92.20"
+    }
+  ]
+}

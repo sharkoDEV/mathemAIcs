@@ -1,0 +1,127 @@
+{
+  "image": "textpanel_00061.png",
+  "text_boxes": [
+    {
+      "text": "Segment PQ",
+      "bbox": [
+        19,
+        77,
+        119,
+        97
+      ],
+      "font": "PER_____.TTF",
+      "color": [
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "10 - 2 - 12 = -4",
+      "bbox": [
+        5,
+        15,
+        229,
+        35
+      ],
+      "font": "WINGDNG3.TTF",
+      "color": [
+        70,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "11 * 1 = 11",
+      "bbox": [
+        135,
+        230,
+        185,
+        239
+      ],
+      "font": "PLAYBILL.TTF",
+      "color": [
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "864 / 9 = 96",
+      "bbox": [
+        43,
+        130,
+        158,
+        143
+      ],
+      "font": "segoescb.ttf",
+      "color": [
+        70,
+        20,
+        20
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Detailed] Espanol: Menciona las coordenadas del punto P en box 1. Identify the text inside.",
+      "answer": "Segment PQ"
+    },
+    {
+      "question": "[Study] English: Identify the coordinates of point P shown at box 2. Identify the text inside.",
+      "answer": "10 - 2 - 12 = -4"
+    },
+    {
+      "question": "[Note] Italiano: Specifica le coordinate del punto P in box 3. Identify the text inside.",
+      "answer": "11 * 1 = 11"
+    },
+    {
+      "question": "[Focus] Espanol: Menciona las coordenadas del punto P en box 4. Identify the text inside.",
+      "answer": "864 / 9 = 96"
+    }
+  ],
+  "question": "[Detailed] Espanol: Menciona las coordenadas del punto P en box 1. Identify the text inside.",
+  "answer": "Segment PQ",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "Segment PQ",
+      "bbox": [
+        19,
+        77,
+        119,
+        97
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "10 - 2 - 12 = -4",
+      "bbox": [
+        5,
+        15,
+        229,
+        35
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "11 * 1 = 11",
+      "bbox": [
+        135,
+        230,
+        185,
+        239
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "864 / 9 = 96",
+      "bbox": [
+        43,
+        130,
+        158,
+        143
+      ]
+    }
+  ]
+}

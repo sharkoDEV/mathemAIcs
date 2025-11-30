@@ -1,0 +1,29 @@
+{
+  "objects": [
+    {
+      "type": "point",
+      "coordinate": [
+        -4,
+        4
+      ],
+      "label": "P(-4,4)"
+    }
+  ],
+  "image": "geometry_00243.png",
+  "question": "[Brief] Polski: Podaj wspolrzedne punktu P w (-4, 4).",
+  "answer": "P(-4,4)",
+  "qas": [
+    {
+      "question": "[Brief] Polski: Podaj wspolrzedne punktu P w (-4, 4).",
+      "answer": "P(-4,4)"
+    },
+    {
+      "question": "[Brief] Polski: Podaj wspolrzedne punktu P w (-4, 4). Respond only with the x value.",
+      "answer": "x=-4"
+    },
+    {
+      "question": "[Brief] Polski: Podaj wspolrzedne punktu P w (-4, 4). Respond only with the y value.",
+      "answer": "y=4"
+    }
+  ]
+}

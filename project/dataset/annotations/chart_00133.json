@@ -1,0 +1,48 @@
+{
+  "image": "chart_00133.png",
+  "question": "[Note] Norsk: Oppgi which integer bin occurs most frequently basert pa histogrammet.",
+  "answer": "mode=1",
+  "chart": {
+    "type": "histogram",
+    "counts": [
+      23,
+      26,
+      20,
+      13,
+      18,
+      23,
+      25,
+      17,
+      20,
+      15
+    ],
+    "bins": [
+      -0.5,
+      0.5,
+      1.5,
+      2.5,
+      3.5,
+      4.5,
+      5.5,
+      6.5,
+      7.5,
+      8.5,
+      9.5
+    ],
+    "max_bin_index": 1
+  },
+  "qas": [
+    {
+      "question": "[Note] Norsk: Oppgi which integer bin occurs most frequently basert pa histogrammet.",
+      "answer": "mode=1"
+    },
+    {
+      "question": "[Calm] Norsk: Oppgi how many samples were used in total basert pa histogrammet.",
+      "answer": "count=200"
+    },
+    {
+      "question": "[Check] Deutsch: Gib how many entries fall inside the modal bin anhand des Histogramms an.",
+      "answer": "max_bin_count=26"
+    }
+  ]
+}

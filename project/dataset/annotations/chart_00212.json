@@ -1,0 +1,48 @@
+{
+  "image": "chart_00212.png",
+  "question": "[Focus] Polski: Podaj which integer bin occurs most frequently na podstawie histogramu.",
+  "answer": "mode=1",
+  "chart": {
+    "type": "histogram",
+    "counts": [
+      22,
+      27,
+      22,
+      21,
+      20,
+      15,
+      17,
+      22,
+      17,
+      17
+    ],
+    "bins": [
+      -0.5,
+      0.5,
+      1.5,
+      2.5,
+      3.5,
+      4.5,
+      5.5,
+      6.5,
+      7.5,
+      8.5,
+      9.5
+    ],
+    "max_bin_index": 1
+  },
+  "qas": [
+    {
+      "question": "[Focus] Polski: Podaj which integer bin occurs most frequently na podstawie histogramu.",
+      "answer": "mode=1"
+    },
+    {
+      "question": "[Calm] Polski: Podaj how many samples were used in total na podstawie histogramu.",
+      "answer": "count=200"
+    },
+    {
+      "question": "[Rapid] Norsk: Oppgi how many entries fall inside the modal bin basert pa histogrammet.",
+      "answer": "max_bin_count=27"
+    }
+  ]
+}

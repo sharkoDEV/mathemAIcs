@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          136,
+          153
+        ],
+        [
+          165,
+          119
+        ],
+        [
+          102,
+          174
+        ]
+      ],
+      "area": 273.5,
+      "perimeter": 168.28
+    }
+  ],
+  "image": "geometry_00100.png",
+  "question": "[Brief] Svenska: Berakna arean och omkretsen for triangeln med (136, 153), (165, 119), (102, 174).",
+  "answer": "area=273.50, perimeter=168.28",
+  "qas": [
+    {
+      "question": "[Brief] Svenska: Berakna arean och omkretsen for triangeln med (136, 153), (165, 119), (102, 174).",
+      "answer": "area=273.50, perimeter=168.28"
+    },
+    {
+      "question": "[Calm] Polski: Oblicz pole i obwod trojkata o wierzcholkach (136, 153), (165, 119), (102, 174). Provide only the area.",
+      "answer": "area=273.50"
+    },
+    {
+      "question": "[Study] Francais: Calculez l'aire et le perimetre du triangle forme par (136, 153), (165, 119), (102, 174). Provide only the perimeter.",
+      "answer": "perimeter=168.28"
+    }
+  ]
+}

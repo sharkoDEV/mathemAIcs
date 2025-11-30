@@ -1,0 +1,156 @@
+{
+  "image": "textpanel_00046.png",
+  "text_boxes": [
+    {
+      "text": "2 - 7 + 6 - 12 = -11",
+      "bbox": [
+        8,
+        53,
+        226,
+        72
+      ],
+      "font": "ARLRDBD.TTF",
+      "color": [
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "756 / 12 = 63",
+      "bbox": [
+        165,
+        190,
+        241,
+        201
+      ],
+      "font": "palab.ttf",
+      "color": [
+        70,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "-4 / 4 = -1",
+      "bbox": [
+        95,
+        231,
+        209,
+        252
+      ],
+      "font": "phagspa.ttf",
+      "color": [
+        70,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "12 m",
+      "bbox": [
+        125,
+        83,
+        162,
+        96
+      ],
+      "font": "palab.ttf",
+      "color": [
+        70,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "4 - 2 - 9 * 11 = -77",
+      "bbox": [
+        18,
+        101,
+        235,
+        120
+      ],
+      "font": "SCHLBKB.TTF",
+      "color": [
+        40,
+        40,
+        80
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Practice] Svenska: Ange koordinaterna for punkt P vid box 1. Identify the text inside.",
+      "answer": "2 - 7 + 6 - 12 = -11"
+    },
+    {
+      "question": "[Review] Turkce: box 2 konumundaki P noktasinin koordinatlarini yaz. Identify the text inside.",
+      "answer": "756 / 12 = 63"
+    },
+    {
+      "question": "[Review] Polski: Podaj wspolrzedne punktu P w box 3. Identify the text inside.",
+      "answer": "-4 / 4 = -1"
+    },
+    {
+      "question": "[Calm] Portugues: Informe as coordenadas do ponto P situado em box 4. Identify the text inside.",
+      "answer": "12 m"
+    },
+    {
+      "question": "[Explain] Svenska: Ange koordinaterna for punkt P vid box 5. Identify the text inside.",
+      "answer": "4 - 2 - 9 * 11 = -77"
+    }
+  ],
+  "question": "[Practice] Svenska: Ange koordinaterna for punkt P vid box 1. Identify the text inside.",
+  "answer": "2 - 7 + 6 - 12 = -11",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "2 - 7 + 6 - 12 = -11",
+      "bbox": [
+        8,
+        53,
+        226,
+        72
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "756 / 12 = 63",
+      "bbox": [
+        165,
+        190,
+        241,
+        201
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "-4 / 4 = -1",
+      "bbox": [
+        95,
+        231,
+        209,
+        252
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "12 m",
+      "bbox": [
+        125,
+        83,
+        162,
+        96
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "4 - 2 - 9 * 11 = -77",
+      "bbox": [
+        18,
+        101,
+        235,
+        120
+      ]
+    }
+  ]
+}

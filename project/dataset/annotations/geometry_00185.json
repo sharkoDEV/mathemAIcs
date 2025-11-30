@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          192,
+          157
+        ],
+        [
+          158,
+          189
+        ],
+        [
+          192,
+          69
+        ]
+      ],
+      "area": 1496.0,
+      "perimeter": 259.41
+    }
+  ],
+  "image": "geometry_00185.png",
+  "question": "[Focus] Dansk: Udregn areal og omkreds for trekanten med punkterne (192, 157), (158, 189), (192, 69).",
+  "answer": "area=1496.00, perimeter=259.41",
+  "qas": [
+    {
+      "question": "[Focus] Dansk: Udregn areal og omkreds for trekanten med punkterne (192, 157), (158, 189), (192, 69).",
+      "answer": "area=1496.00, perimeter=259.41"
+    },
+    {
+      "question": "[Challenge] Polski: Oblicz pole i obwod trojkata o wierzcholkach (192, 157), (158, 189), (192, 69). Provide only the area.",
+      "answer": "area=1496.00"
+    },
+    {
+      "question": "[Review] Polski: Oblicz pole i obwod trojkata o wierzcholkach (192, 157), (158, 189), (192, 69). Provide only the perimeter.",
+      "answer": "perimeter=259.41"
+    }
+  ]
+}

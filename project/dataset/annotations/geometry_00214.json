@@ -1,0 +1,45 @@
+{
+  "objects": [
+    {
+      "type": "polygon",
+      "points": [
+        [
+          41,
+          110
+        ],
+        [
+          53,
+          195
+        ],
+        [
+          119,
+          162
+        ],
+        [
+          115,
+          115
+        ]
+      ],
+      "vertices": 4,
+      "area": 4732.0,
+      "perimeter": 280.97
+    }
+  ],
+  "image": "geometry_00214.png",
+  "question": "[Focus] Deutsch: Bestimme Flaeche und Umfang des Vielecks ueber (41, 110), (53, 195), (119, 162), (115, 115).",
+  "answer": "area=4732.00, perimeter=280.97",
+  "qas": [
+    {
+      "question": "[Focus] Deutsch: Bestimme Flaeche und Umfang des Vielecks ueber (41, 110), (53, 195), (119, 162), (115, 115).",
+      "answer": "area=4732.00, perimeter=280.97"
+    },
+    {
+      "question": "[Focus] Deutsch: Bestimme Flaeche und Umfang des Vielecks ueber (41, 110), (53, 195), (119, 162), (115, 115). Respond only with the area.",
+      "answer": "area=4732.00"
+    },
+    {
+      "question": "[Focus] Deutsch: Bestimme Flaeche und Umfang des Vielecks ueber (41, 110), (53, 195), (119, 162), (115, 115). Respond only with the number of vertices.",
+      "answer": "vertices=4"
+    }
+  ]
+}

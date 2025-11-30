@@ -1,0 +1,98 @@
+{
+  "image": "textpanel_00056.png",
+  "text_boxes": [
+    {
+      "text": "Base 4",
+      "bbox": [
+        82,
+        104,
+        128,
+        118
+      ],
+      "font": "Candarali.ttf",
+      "color": [
+        70,
+        20,
+        20
+      ]
+    },
+    {
+      "text": "9 + 12 - 8 + 4 = 17",
+      "bbox": [
+        74,
+        76,
+        239,
+        92
+      ],
+      "font": "palab.ttf",
+      "color": [
+        40,
+        40,
+        80
+      ]
+    },
+    {
+      "text": "1 + 6 + 10 + 5 = 22",
+      "bbox": [
+        16,
+        145,
+        218,
+        161
+      ],
+      "font": "framd.ttf",
+      "color": [
+        10,
+        90,
+        10
+      ]
+    }
+  ],
+  "qas": [
+    {
+      "question": "[Check] English: Identify the coordinates of point P shown at box 1. Identify the text inside.",
+      "answer": "Base 4"
+    },
+    {
+      "question": "[Rapid] Espanol: Menciona las coordenadas del punto P en box 2. Identify the text inside.",
+      "answer": "9 + 12 - 8 + 4 = 17"
+    },
+    {
+      "question": "[Study] Italiano: Specifica le coordinate del punto P in box 3. Identify the text inside.",
+      "answer": "1 + 6 + 10 + 5 = 22"
+    }
+  ],
+  "question": "[Check] English: Identify the coordinates of point P shown at box 1. Identify the text inside.",
+  "answer": "Base 4",
+  "objects": [
+    {
+      "type": "text_box",
+      "content": "Base 4",
+      "bbox": [
+        82,
+        104,
+        128,
+        118
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "9 + 12 - 8 + 4 = 17",
+      "bbox": [
+        74,
+        76,
+        239,
+        92
+      ]
+    },
+    {
+      "type": "text_box",
+      "content": "1 + 6 + 10 + 5 = 22",
+      "bbox": [
+        16,
+        145,
+        218,
+        161
+      ]
+    }
+  ]
+}

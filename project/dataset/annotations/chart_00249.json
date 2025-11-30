@@ -1,0 +1,38 @@
+{
+  "image": "chart_00249.png",
+  "question": "[Practice] Espanol: Indica which category has the highest bar del grafico de barras.",
+  "answer": "B",
+  "chart": {
+    "type": "bar_chart",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "values": [
+      5,
+      12,
+      7,
+      2,
+      10
+    ],
+    "max_category": "B",
+    "min_category": "D"
+  },
+  "qas": [
+    {
+      "question": "[Practice] Espanol: Indica which category has the highest bar del grafico de barras.",
+      "answer": "B"
+    },
+    {
+      "question": "[Calm] Portugues: Apresente which category has the lowest bar do grafico de barras.",
+      "answer": "D"
+    },
+    {
+      "question": "[Challenge] Nederlands: Geef what is the difference between the tallest and shortest bars vanuit het staafdiagram.",
+      "answer": "diff=10"
+    }
+  ]
+}

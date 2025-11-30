@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "type": "triangle",
+      "points": [
+        [
+          108,
+          109
+        ],
+        [
+          186,
+          206
+        ],
+        [
+          87,
+          40
+        ]
+      ],
+      "area": 1672.5,
+      "perimeter": 389.88
+    }
+  ],
+  "image": "geometry_00104.png",
+  "question": "[Rapid] Italiano: Calcola area e perimetro del triangolo con vertici (108, 109), (186, 206), (87, 40).",
+  "answer": "area=1672.50, perimeter=389.88",
+  "qas": [
+    {
+      "question": "[Rapid] Italiano: Calcola area e perimetro del triangolo con vertici (108, 109), (186, 206), (87, 40).",
+      "answer": "area=1672.50, perimeter=389.88"
+    },
+    {
+      "question": "[Challenge] Portugues: Calcule a area e o perimetro do triangulo definido por (108, 109), (186, 206), (87, 40). Provide only the area.",
+      "answer": "area=1672.50"
+    },
+    {
+      "question": "[Practice] Italiano: Calcola area e perimetro del triangolo con vertici (108, 109), (186, 206), (87, 40). Provide only the perimeter.",
+      "answer": "perimeter=389.88"
+    }
+  ]
+}
