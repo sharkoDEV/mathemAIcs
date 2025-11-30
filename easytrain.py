@@ -28,9 +28,15 @@ TRAIN_CMD = [
 ]
 
 def run(cmd):
+    print("=" * 80)
     print("Executing:", " ".join(cmd))
+    print("Working directory:", BASE_DIR)
+    print("=" * 80)
     subprocess.check_call(cmd, cwd=BASE_DIR)
 
 if __name__ == "__main__":
+    print("Starting easytrain pipeline")
     run(BUILD_CMD)
+    print("Dataset generation completed.")
+    print("Starting long-running training...")
     run(TRAIN_CMD)
