@@ -1,0 +1,35 @@
+import os
+import subprocess
+import sys
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+SRC_DIR = os.path.join(BASE_DIR, "src")
+
+BUILD_CMD = [
+    sys.executable,
+    os.path.join(SRC_DIR, "build_dataset.py"),
+    "--geometry", "10000",
+    "--charts", "10000",
+    "--ocr", "10000",
+    "--lines", "10000",
+    "--text", "10000",
+]
+
+TRAIN_CMD = [
+    sys.executable,
+    os.path.join(SRC_DIR, "train.py"),
+    "--manifest", os.path.join("dataset", "annotations", "dataset_manifest.jsonl"),
+    "--text", os.path.join("dataset", "text", "math_text.jsonl"),
+    "--epochs", "1000000000",
+    "--batch_size", "16",
+    "--model_file", os.path.join("models", "active.mathai"),
+    "--save_every", "10",
+]
+
+def run(cmd):
+    print("Executing:", " ".join(cmd))
+    subprocess.check_call(cmd, cwd=BASE_DIR)
+
+if __name__ == "__main__":
+    run(BUILD_CMD)
+    run(TRAIN_CMD)
