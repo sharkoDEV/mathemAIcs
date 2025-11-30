@@ -22,6 +22,7 @@ class JsonlIndex:
     def __init__(self, path: str):
         self.path = path
         self.offsets: List[int] = []
+        self._fh = None
         if not os.path.exists(path):
             return
         with open(path, "r", encoding="utf-8") as f:
@@ -36,13 +37,34 @@ class JsonlIndex:
     def __len__(self) -> int:
         return len(self.offsets)
 
+    def _ensure_handle(self):
+        if self._fh is None or self._fh.closed:
+            self._fh = open(self.path, "r", encoding="utf-8")
+
     def read(self, idx: int) -> Dict:
         if idx < 0 or idx >= len(self.offsets):
             raise IndexError(idx)
-        with open(self.path, "r", encoding="utf-8") as f:
-            f.seek(self.offsets[idx])
-            line = f.readline()
+        self._ensure_handle()
+        self._fh.seek(self.offsets[idx])
+        line = self._fh.readline()
         return json.loads(line)
+
+    def close(self):
+        if self._fh is not None:
+            self._fh.close()
+            self._fh = None
+
+    def __del__(self):
+        self.close()
+
+    def __getstate__(self):
+        state = self.__dict__.copy()
+        state["_fh"] = None
+        return state
+
+    def __setstate__(self, state):
+        self.__dict__.update(state)
+        self._fh = None
 
 
 class EntryDataset(Dataset):
